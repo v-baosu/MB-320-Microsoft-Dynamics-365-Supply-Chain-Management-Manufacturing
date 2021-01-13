@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Case study 1A Discrete, Process and Lean manufacturing features'
+    module: 'Module 2 Manage manufacturing processes'
+---
+
 Module 2 Manage manufacturing processes
 ---------------------------------------
 
@@ -6,13 +12,13 @@ Case study 1A Discrete, Process and Lean manufacturing features
 
 ### Exercise \#1: Update the production control parameters
 
-When†you are starting to use the Production control module, you are required to
+When¬†you are starting to use the Production control module, you are required to
 do some configurations that will help the system operate according to your
 design and process design
 
-The Operations manager at†USMF,††wants to make some changes to the policies†so
-everything runs more efficiently.†He wants†to be sure†routes†are†not allowed to
-be modified or have their†approvals†removed. In order to accomplish this,†a new
+The Operations manager at¬†USMF,¬†¬†wants to make some changes to the policies¬†so
+everything runs more efficiently.¬†He wants¬†to be sure¬†routes¬†are¬†not allowed to
+be modified or have their¬†approvals¬†removed. In order to accomplish this,¬†a new
 route operation should be created, and the effective dates updated
 
 Can you help the operation manager to perform this?
@@ -23,26 +29,26 @@ You will have to do the following:
 
 #### Steps
 
--   Go to†**Production control \> Setup \> Production control parameters**.
+-   Go to¬†**Production control \> Setup \> Production control parameters**.
 
--   Set the†**Block removal of approval**†slider to†**Yes**†under
-    the†**Routes**†group.
+-   Set the¬†**Block removal of approval**¬†slider to¬†**Yes**¬†under
+    the¬†**Routes**¬†group.
 
--   Set the†**Block editing**†slider to†**Yes**†under the†**Routes**†group.
+-   Set the¬†**Block editing**¬†slider to¬†**Yes**¬†under the¬†**Routes**¬†group.
 
--   Click†**Save**.
+-   Click¬†**Save**.
 
--   Close all†pages.
+-   Close all¬†pages.
 
-### Exercise \#2:†Create new production pools
+### Exercise \#2:¬†Create new production pools
 
-USFM has†been getting reports from the customers that orders are not arriving on
+USFM has¬†been getting reports from the customers that orders are not arriving on
 time and that some of the delivered orders are missing pieces. One of the
 supervisor wants you to determine what is causing these problems so the company
 can find a solution.
 
-You†decide†that you want†more visibility†into†production orders that are
-delayed,†and†you want to track†subcontracted production orders that are missing
+You¬†decide¬†that you want¬†more visibility¬†into¬†production orders that are
+delayed,¬†and¬†you want to track¬†subcontracted production orders that are missing
 deliveries, production orders with missing materials and orders that are delayed
 due to machine failures
 
@@ -50,7 +56,7 @@ How would you perform this?
 
 You will have to do the following:
 
--   Production pool for Delayed†sub contracted†work
+-   Production pool for Delayed¬†sub contracted¬†work
 
 -   Production pool for missing materials
 
@@ -84,7 +90,7 @@ You will have to do the following:
 
 3.  Type **Machine Failure** in the **Name** field.
 
-### Exercise \#3:†Create and manage resources
+### Exercise \#3:¬†Create and manage resources
 
 Company USMF has bought a new packing robot that will reduce the need for manual
 labor in the speaker packing workshop.
@@ -98,9 +104,9 @@ How would you perform this?
 
 You will have to do the following:
 
--   Create†capabilities
+-   Create¬†capabilities
 
--   Assign†resource†to capabilities
+-   Assign¬†resource¬†to capabilities
 
 -   Assign capabilities to a resource
 
@@ -166,9 +172,9 @@ You will have to do the following:
 
 11. Close the **Resources** page.
 
-### Exercise \#4:†Create an operation, assign relations and create a route
+### Exercise \#4:¬†Create an operation, assign relations and create a route
 
-The company you are consulting has decided to produce a series of†ebooks†for a
+The company you are consulting has decided to produce a series of¬†ebooks¬†for a
 client.
 
 The production manager at USMF, wants to create an operation for the finished
@@ -250,12 +256,12 @@ You will have to do the following:
 
 34. Close all pages.
 
-### Exercise \#5:†Create a simple BOM without a version
+### Exercise \#5:¬†Create a simple BOM without a version
 
-You have been asked to assist the product designer†at USMF and show her how to
-create a simple BOM for a new light cabinet.†
+You have been asked to assist the product designer¬†at USMF and show her how to
+create a simple BOM for a new light cabinet.¬†
 
-You will†approve the BOM using†employee 000020, Julia Funderburk.
+You will¬†approve the BOM using¬†employee 000020, Julia Funderburk.
 
 You will use the parameters on the right
 
@@ -316,18 +322,18 @@ You will have to do the following:
 
 ### Exercise \#6: Create a BOM in the BOM designer (Bonus)
 
-The†new†product designer†at†USMF†has†received a new specification for the
-enclosure side†of†a†cabinet.
+The¬†new¬†product designer¬†at¬†USMF¬†has¬†received a new specification for the
+enclosure side¬†of¬†a¬†cabinet.
 
 She has requested your assistance.
 
-You see that an item is not set up for this specification, so†you only need to
-create a simple BOM with component lines.†
+You see that an item is not set up for this specification, so¬†you only need to
+create a simple BOM with component lines.¬†
 
 Use employee 000020, Julia Funderburk, to approve the BOM.
 
-Create a BOM titled ìHigh Quality Speakerî†and†assign it to the Audio item group
-at site 1. Use the BOM designer to†add items with warehouse 11 and the following
+Create a BOM titled ‚ÄúHigh Quality Speaker‚Äù¬†and¬†assign it to the Audio item group
+at site 1. Use the BOM designer to¬†add items with warehouse 11 and the following
 quantities:
 
 -   1 qty of M0008/High End Cabinet/Black
@@ -397,19 +403,19 @@ You will have to do the following:
 
 ### Exercise \#7: Create a BOM with a version
 
-The sales department has†reported that there is a high demand for
-rosewood†colored speakers instead of the traditional black.†
+The sales department has¬†reported that there is a high demand for
+rosewood¬†colored speakers instead of the traditional black.¬†
 
-You are asked to†prepare for the manufacture of more
-rosewood†colored†speakers†by creating a version, making a copy of the†existing
-BOM, removing item M0008/High End Cabinet/ Black and†add†item M0008/High End
+You are asked to¬†prepare for the manufacture of more
+rosewood¬†colored¬†speakers¬†by creating a version, making a copy of the¬†existing
+BOM, removing item M0008/High End Cabinet/ Black and¬†add¬†item M0008/High End
 Cabinet/Red for a quantity of 1.
 
 Employee 000020, Julia Funderburk must approve the version.
 
 Do not activate the BOM because the item is not ready for use yet.
 
-Use†the specifications given at right
+Use¬†the specifications given at right
 
 -   Item number: 72708
 
@@ -419,7 +425,7 @@ Use†the specifications given at right
 
 -   Item model group: FIFO
 
--   Storage Dimension group:†SiteWH
+-   Storage Dimension group:¬†SiteWH
 
 -   Tracking Dimension group: None
 
@@ -561,13 +567,13 @@ You will have to do the following:
 ### Exercise \#9: Start a discrete production order (Bonus)
 
 You can get production orders either manually created or firmed from the Master
-planning with status ìScheduledî
+planning with status ‚ÄúScheduled‚Äù
 
 The production of the ash enclosure back sides of the speakers is ready to be
 started.
 
 The production supervisor wants to use the start form and select a production
-order with status of ìScheduledî to start.
+order with status of ‚ÄúScheduled‚Äù to start.
 
 Can you help the production manager to perform this?
 
@@ -587,7 +593,7 @@ You will have to do the following:
 4.  On the **Overview** tab, in the **Quantity** field, enter the quantity
     **2.00** of the production order to produce.
 
-5.  In the **Date** field, enter todayís date for the date that the production
+5.  In the **Date** field, enter today‚Äôs date for the date that the production
     starts.
 
 6.  Select the **Start production** check box.
@@ -1205,7 +1211,7 @@ You will have to do the following:
 
 17. Close the page.
 
-†
+¬†
 
 **Create the new co-products**
 
@@ -1278,7 +1284,7 @@ You will have to do the following:
 
 33. Close the page.
 
-†
+¬†
 
 **Create the new by-products**
 
@@ -1392,7 +1398,7 @@ You will have to do the following:
 1.  Go to **Product information management\>Products\>Released products**.
 
 2.  Use the Quick Filter to find records. For example, filter on the Item number
-    field with a value of **p15000**. Note the lowercase ñ it is not case
+    field with a value of **p15000**. Note the lowercase ‚Äì it is not case
     sensitive.
 
 3.  Click the ellipsis, if needed, to get to the **Engineer** tab on the action
@@ -1418,9 +1424,9 @@ You will have to do the following:
 
 13. Click **Save**.
 
-†
+¬†
 
-†
+¬†
 
 **Add Formula Lines to Formula**
 
@@ -1588,7 +1594,7 @@ You will have to do the following:
 
 17. Click **Save**.
 
-†
+¬†
 
 **Create a formula**
 
@@ -1834,7 +1840,7 @@ compounds)**
 
 3.  Click **Save**.
 
-†
+¬†
 
 **Update the formula size**
 
@@ -1915,7 +1921,7 @@ You will have to do the following:
 
 3.  In the **Product number** field, type **'P6100'**.
 
-4.  In the **Product name** field, type ë**Orange Juice'**.
+4.  In the **Product name** field, type ‚Äò**Orange Juice'**.
 
 5.  In the **Search name** field, type **'Orange Juice'**.
 
@@ -1947,7 +1953,7 @@ You will have to do the following:
 
 18. Click **Save**.
 
-†
+¬†
 
 **Copy the existing formula for P9500**
 
@@ -1991,9 +1997,9 @@ compounds)**
 
 1.  In the Lines or header field, select **header**.
 
-2.  Set the versionís **Formula size** to **'1500'**.
+2.  Set the version‚Äôs **Formula size** to **'1500'**.
 
-3.  Set the versionís **From formula size** to **'1500'**.
+3.  Set the version‚Äôs **From formula size** to **'1500'**.
 
 4.  Click **Save**.
 
@@ -2081,7 +2087,7 @@ You will have to do the following:
 
 12. In the **Formula version** field, select the current version
 
-13. Click **OK**.†
+13. Click **OK**.¬†
 
 **Set the line for M9003 in the new formula to step-wise consumption and set the
 step levels**
@@ -2213,7 +2219,7 @@ You will have to do the following:
 
 6.  Close the page.
 
-†
+¬†
 
 **Create a pricing template**
 
@@ -2228,7 +2234,7 @@ You will have to do the following:
 
 5.  Click **Save**.
 
-†
+¬†
 
 **Create a quantity and margin template**
 
@@ -2488,7 +2494,7 @@ You will have to do the following:
 
 5.  Close the page.
 
-†
+¬†
 
 **Create a PSDS record**
 
@@ -2549,7 +2555,7 @@ You will have to do the following:
 ### Exercise \#13: Add reporting details for an item
 
 The product safety manager wants to add reporting details for product M7001, Set
-the OSHA Product Name to ìSulfur Dioxideî, and give it a threshold quantity of
+the OSHA Product Name to ‚ÄúSulfur Dioxide‚Äù, and give it a threshold quantity of
 5, an EHS reportable quantity of 500, and a TPQ of 500. The CAS number should be
 set to 7446-09-5.
 
@@ -2692,8 +2698,8 @@ test and record the melting point for each batch is needed.
 The product definition employee wants to create a batch attribute for the
 melting point as an integer attribute with a min of 0 and max of 500
 
-The item specific requirements are 130 ñ 171∞ C. Customer  
-US-024 requires a melting point of 135 ñ 165∞ C for use in their manufacturing
+The item specific requirements are 130 ‚Äì 171¬∞ C. Customer  
+US-024 requires a melting point of 135 ‚Äì 165¬∞ C for use in their manufacturing
 processes.
 
 The product definition employee wants to associate the batch attribute with the
@@ -2745,7 +2751,7 @@ You will have to do the following:
 
 5.  Close the page.
 
-†
+¬†
 
 **Associate the batch attribute with the item**
 
@@ -2791,7 +2797,7 @@ You will have to do the following:
 
 6.  Click **Save**.
 
-7.  Close all pages.†
+7.  Close all pages.¬†
 
 **Associate the batch attribute with the customer**
 
@@ -2846,7 +2852,7 @@ You will have to do the following:
 
 4.  In the **Item number** field, type **PW4000**.
 
-5.  In the **Manufacturing date** field, enter todayís date.
+5.  In the **Manufacturing date** field, enter today‚Äôs date.
 
 6.  Click **Save**.
 
@@ -2920,7 +2926,7 @@ You will have to do the following:
 
 12. Close the page.
 
-†
+¬†
 
 **Receive the purchase order**
 
@@ -2964,7 +2970,7 @@ You will have to do the following:
 
 20. In the **Batch number** field, type **GTLB001**.
 
-21. In the **Manufacturing date** field, enter todayís date.
+21. In the **Manufacturing date** field, enter today‚Äôs date.
 
 22. Click **Save**.
 
@@ -2989,7 +2995,7 @@ You will have to do the following:
 
 32. Close the page.
 
-†
+¬†
 
 **Complete the quality order**
 
@@ -3371,7 +3377,7 @@ You will have to do the following:
 
 28. Click **OK**.
 
-29. Post Product Receipt and review Inventory†
+29. Post Product Receipt and review Inventory¬†
 
 30. Click **Functions**.
 
@@ -3601,7 +3607,7 @@ You will have to do the following:
 
 #### Steps
 
-†
+¬†
 
 **Copy the formula for item P2000**
 
@@ -3675,9 +3681,9 @@ You will have to do the following:
 
 10. Click **Activate**.
 
-†
+¬†
 
-### Exercise \#23: Set up pricing based on an itemís attribute (Bonus)
+### Exercise \#23: Set up pricing based on an item‚Äôs attribute (Bonus)
 
 At company USPI, part M2004 has been determined to be a potency-controlled item.
 
@@ -3686,7 +3692,7 @@ of the actual acidity level against the target is multiplied by the based price
 of \$4.70 and a constant of 1.5 to determine the purchase price of the batch.
 
 the purchase agent, want to setup the pricing for  
-the item and couldnít.
+the item and couldn‚Äôt.
 
 The support team asked you to help the purchase agent.
 
@@ -3698,7 +3704,7 @@ You will have to do the following:
 
 -   Complete and post the trade agreement
 
-#### <br>†Steps
+#### <br>¬†Steps
 
 **Create an attribute pricing expression**
 
@@ -3739,7 +3745,7 @@ You will have to do the following:
 
 18. Close the page.
 
-†
+¬†
 
 **Complete and post trade agreement**
 
@@ -3819,7 +3825,7 @@ You will have to do the following:
 
 9.  Click **Confirm**.
 
-†
+¬†
 
 **Receive and enter a batch attribute value**
 
@@ -4194,9 +4200,9 @@ You will have to do the following:
 
 16. Click **Next.**
 
-17. Select Warehouse **13** in the **Transfer from location ñ warehouse** field.
+17. Select Warehouse **13** in the **Transfer from location ‚Äì warehouse** field.
 
-18. Select location **13** in the **Transfer from location ñ location** field.
+18. Select location **13** in the **Transfer from location ‚Äì location** field.
 
 19. For the transfer to location:
 
@@ -4385,7 +4391,7 @@ You will have to do the following:
 
 3.  On the **Versions** FastTab, click **Activities**.
 
-4.  In the list on the left, select the **00074 ñ Transfer from Warehouse 13 to
+4.  In the list on the left, select the **00074 ‚Äì Transfer from Warehouse 13 to
     51** activity.
 
 5.  On the **Successors** FastTab, click **Add successor**. The **Create
@@ -4637,9 +4643,9 @@ You will have to do the following:
 
 4.  Click **OK**.
 
-5.  Enter **Item number** of ì**L0026**î.
+5.  Enter **Item number** of ‚Äú**L0026**‚Äù.
 
-6.  Enter **Quantity** of ì**12.00**î.
+6.  Enter **Quantity** of ‚Äú**12.00**‚Äù.
 
 7.  Click **Update confirmed date**.
 
