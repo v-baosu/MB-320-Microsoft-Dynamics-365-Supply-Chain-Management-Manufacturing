@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Case study 3 Subcontracting'
+    module: 'Module 5 Subcontracting for product manufacturing'
+---
+
 Module 5 Subcontracting for product manufacturing
 =================================================
 
