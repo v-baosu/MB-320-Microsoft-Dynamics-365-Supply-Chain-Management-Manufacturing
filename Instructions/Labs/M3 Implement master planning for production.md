@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Case study 2 Master planning'
+    module: 'Module 3 Implement master planning'
+---
+
 Module 3 Implement master planning
 ==================================
 
@@ -73,7 +79,7 @@ You will have to do the following:
 
 3.  Click OK.
 
-** Firm a planned order**
+**Â Firm a planned order**
 
 1.  Open Master planning \> Master planning \> Planned orders.
 
@@ -171,7 +177,7 @@ You will have to do the following:
 
 9.  Click **New** on the tool bar for Intercompany planning group members tab.
 
-10. Select **Legal entity - DEMF**, **Scheduling sequence - 0, Master plan –
+10. Select **Legal entity - DEMF**, **Scheduling sequence - 0, Master plan â€“
     20.**
 
 11. Leave the **Automatic Copy to Static Plan** and **Automatic Copy to Dynamic
