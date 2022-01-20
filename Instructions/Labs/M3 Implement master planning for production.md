@@ -41,6 +41,14 @@ You will have to do the following:
 
 #### Steps
 
+**Note: Before the execution of this task, credit management needs to be disabled. Complete the following steps:
+1. Open the **Sales and marketing \> Customers \> All customers** module.
+2. Search for customer **US-013**.
+3. Open the details for US-013.
+4. Expand the Credit and collections fastttab.
+5. Set **Unlimited credit limit** and **Exclude from credit management** to Yes.
+6. Click **Save**.
+
 **Create and confirm a sales order**
 
 1.  Open Sales and marketing \> Sales orders \> All Sales orders.
@@ -73,13 +81,13 @@ You will have to do the following:
 
 **Run master planning**
 
-1.  Open Master Planning \> Master Planning \> Run \> Master Planning.
+1.  Open **Master Planning \> Master Planning \> Run \> Master Planning**.
 
 2.  In the Master plan field, select StaticPlan.
 
 3.  Click OK.
 
-** Firm a planned order**
+**Firm a planned order**
 
 1.  Open Master planning \> Master planning \> Planned orders.
 
@@ -93,7 +101,7 @@ You will have to do the following:
 
 **Review the purchase order**
 
-1.  Open Procurement and sourcing \> Purchase orders \> All purchase orders.
+1.  Open **Procurement and sourcing \> Purchase orders \> All purchase orders**.
 
 2.  In the All purchase orders page, sort the list by the Delivery date field.
 
@@ -103,7 +111,7 @@ You will have to do the following:
 
 **Change a planned order type**
 
-1.  Open Master planning \> Master planning \> Planned orders.
+1.  Open **Master planning \> Master planning \> Planned orders**.
 
 2.  In the Planned orders page, select the line for order number 004262.
 
