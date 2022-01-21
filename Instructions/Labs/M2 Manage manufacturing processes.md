@@ -1510,7 +1510,7 @@ You will have to do the following:
 
 4.  Click **OK**.
 
-5.  Click **Activata**.
+5.  Click **Activate**.
 
 6.  Close the page.
 
