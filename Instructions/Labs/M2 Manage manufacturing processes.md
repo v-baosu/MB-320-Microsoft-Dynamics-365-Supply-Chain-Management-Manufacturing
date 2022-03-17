@@ -123,7 +123,7 @@ You will have to do the following:
 
 4.  Click **New**.
 
-5.  Type **GTL- Packing** in the **Capability** field and **Packing** in the
+5.  Type **GTL-Packing** in the **Capability** field and **Packing** in the
     **Description** field.
 
 6.  Close the **Resource capabilities** page.
