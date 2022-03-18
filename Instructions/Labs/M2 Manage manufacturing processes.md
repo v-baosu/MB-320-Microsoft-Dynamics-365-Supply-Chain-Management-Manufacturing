@@ -583,7 +583,7 @@ You will have to do the following:
 
 #### Steps
 
-1.  Click **Production control \> All Production orders**.
+1.  Click **Production control \> Production orders \> All production orders**.
 
 2.  Select any production order with the production order status set to
     **Scheduled** (for example, P000171).
