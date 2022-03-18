@@ -1176,7 +1176,7 @@ You will have to do the following:
 
 **Create a new formula product**
 
-1.  Go to **Product information management\>Products\>Released products**.
+1.  In **USPI**, Go to **Product information management\>Products\>Released products**.
 
 2.  Click **New**.
 
