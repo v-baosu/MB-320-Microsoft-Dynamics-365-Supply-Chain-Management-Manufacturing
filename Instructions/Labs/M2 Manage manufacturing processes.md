@@ -3070,7 +3070,8 @@ You will have to do the following:
 
 **Create a customer attribute requirement**
 
-1.  Go to **Released products**.
+1.  In **USPI** go to **Product information management** \> **Products** \> **Released
+    products**.
 
 2.  Use the Quick Filter to filter on the **Item number** field with a value of
     **p5000**.
