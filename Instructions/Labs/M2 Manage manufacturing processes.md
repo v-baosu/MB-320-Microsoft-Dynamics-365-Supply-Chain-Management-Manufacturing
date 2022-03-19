@@ -3075,7 +3075,7 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the **Item number** field with a value of
     **p5000**.
 
-3.  Click **Customer specific**.
+3.  Click **Customer specific** from the **Manage Inventory** tab.
 
 4.  Click **New**.
 
