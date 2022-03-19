@@ -2728,7 +2728,7 @@ You will have to do the following:
 
 **Create a new batch attribute**
 
-1.  Go to **Inventory Management** \> **Setup** \> **Batch** \> **Batch
+1.  In **USPI** company go to **Inventory Management** \> **Setup** \> **Batch** \> **Batch
     attributes**.
 
 2.  Click **New**.
