@@ -1925,33 +1925,31 @@ You will have to do the following:
 
 5.  In the **Search name** field, type **'Orange Juice'**.
 
-6.  In the **Search name** field, type **'Orange Juice'**.
+6.  In the **Item model group** field, enter or select a value.
 
-7.  In the **Item model group** field, enter or select a value.
+7.  In the **Item group field**, enter or select a value.
 
-8.  In the **Item group field**, enter or select a value.
+8.  In the **Storage dimension group** field, enter or select a value.
 
-9.  In the **Storage dimension group** field, enter or select a value.
+9. In the **Tracking dimension group** field, enter or select a value.
 
-10. In the **Tracking dimension group** field, enter or select a value.
+10. In the **Inventory unit** field, type **gal**.
 
-11. In the **Inventory unit** field, type **gal**.
+11. In the **Purchase unit** field, type **gal**.
 
-12. In the **Purchase unit** field, type **gal**.
+12. In the **Sales unit** field, type **gal**.
 
-13. In the **Sales unit** field, type **gal**.
+13. In the **BOM unit** field, type **gal**.
 
-14. In the **BOM unit** field, type **gal**.
+14. Click **OK**.
 
-15. Click **OK**.
-
-16. In the **Production type** field in the Engineer Fast Tab, select
+15. In the **Production type** field in the Engineer Fast Tab, select
     **'Formula'**.
 
-17. In the **Shelf life period in days** field in the Manage inventory Fast Tab,
+16. In the **Shelf life period in days** field in the Manage inventory Fast Tab,
     enter 180.
 
-18. Click **Save**.
+17. Click **Save**.
 
  
 
