@@ -1702,7 +1702,7 @@ You will have to do the following:
 
 **Copy the existing formula**
 
-1.  Go to **Product information management\>Products\>Released products**.
+1.  In the **USP2** company go to **Product information management\>Products\>Released products**.
 
 2.  Use the Quick Filter to filter on the Item number field with a value of
     **P8000**.
