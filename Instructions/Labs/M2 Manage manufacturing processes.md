@@ -4004,7 +4004,7 @@ You will have to do the following:
 
 #### Steps
 
-1.  Go to **Production control \> Setup \> Lean production flow \> Value
+1.  In **USMF** company go to **Production control \> Setup \> Lean production flow \> Value
     streams**.
 
 2.  Click **New** to create a new value stream.
