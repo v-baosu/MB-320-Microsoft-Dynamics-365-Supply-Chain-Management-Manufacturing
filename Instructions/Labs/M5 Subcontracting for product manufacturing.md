@@ -73,7 +73,7 @@ You will have to do the following:
 
 9.  In the **Default commitment** field, select **Product value commitment**.
 
-10. Click **Add line**.
+10. Click **Lines**. Click **Add line**.
 
 11. In the **Item number** field, enter or select **S0001**.
 
