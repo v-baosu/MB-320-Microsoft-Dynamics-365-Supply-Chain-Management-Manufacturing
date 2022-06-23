@@ -3091,7 +3091,7 @@ You will have to do the following:
 
 **Create a new batch order**
 
-1.  Go to **All production orders**.
+1.  In **USPI** company go to **Production Control** \> **Production Orders** \> **All Production orders**.
 
 2.  Click **New batch order**.
 
