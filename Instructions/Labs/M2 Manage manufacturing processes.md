@@ -188,69 +188,69 @@ You will have to do the following:
 
 #### Steps
 
-1.  Go to **Production control \> Setup \> Routes \> Operations**.
+1. Go to **Production control \> All routes**.
 
-2.  Click **New**.
+2. Click **New**.
 
-3.  In the **Operation** field, type **eBook**.
+3. In the **Name** field, type **eBook route**.
 
-4.  In the **Name** field, type **eBook assembly**.
+4. In the **Item group** field, enter or select **TV&Video**.
 
-5.  Click **Relations**.
+5. Click **Save**.
 
-6.  Click **New**.
+6. Click **Route details**.
 
-7.  In the **Route group** field, enter or select **Discrete**.
+7. Click **New**.
 
-8.  Expand the **Setup** section.
+8. In the **Operation** field, enter or select **eBook**.
 
-9.  In the **Formula** field, select **Capacity**.
+9. In the **Next** field, enter **20**.
 
-10. In the **Costing resource** field, enter or select **1211**.
+10. In the **Link type** field, select **Soft**.
 
-11. Click **Save**.
+11. Click **New**.
 
-12. Close all pages.
+12. In the **Oper. No.** field, enter **20**.
 
-13. Go to **Production control \> All routes**.
+13. In the **Operation** field, enter or select **Padding**.
 
-14. Click **New**.
+14. In the **Next** field, enter **30**.
 
-15. In the **Name** field, type **eBook route**.
+15. In the **Link type** field, select **Hard**.
 
-16. In the **Item group** field, enter or select **TV&Video**.
+16. Click **New**.
 
-17. Click **Save**.
+17. In the **Oper. No**. field, enter **30**.
 
-18. Click **Route details**.
+18. In the **Priority** field, select **Secondary 1**.
 
-19. Click **New**.
+19. In the **Operation** field, enter or select **Packing**.
 
-20. In the **Operation** field, enter or select **eBook**.
+20. Refresh the page.
 
-21. In the **Next** field, enter **20**.
+21. Click **Save**.
 
-22. In the **Link type** field, select **Soft**.
+22. Close all pages.
 
-23. Click **New**.
+23. Go to **Production control \> Setup \> Routes \> Operations**.
 
-24. In the **Oper. No.** field, enter **20**.
+24.  Click **New**.
 
-25. In the **Operation** field, enter or select **Padding**.
+25.  In the **Operation** field, type **eBook**.
 
-26. In the **Next** field, enter **30**.
+26.  In the **Name** field, type **eBook assembly**.
 
-27. In the **Link type** field, select **Hard**.
+27.  Click **Relations**.
 
-28. Click **New**.
+28.  Click **New**.
 
-29. In the **Oper. No**. field, enter **30**.
+29.  In the **Route group** field, enter or select **Discrete**.
 
-30. In the **Priority** field, select **Secondary 1**.
+30.  Expand the **Setup** section.
 
-31. In the **Operation** field, enter or select **Packing**.
+31.  In the **Formula** field, select **Capacity**.
 
-32. Refresh the page.
+32. In the **Costing resource** field, enter or select **1211**.
 
 33. Click **Save**.
 
@@ -361,7 +361,7 @@ You will have to do the following:
 
 6.  Click **Designer**.
 
-7.  Click **BOM lines**.
+7.  Click **Formula lines**.
 
 8.  Click **Add to component BOM**.
 
@@ -370,7 +370,7 @@ You will have to do the following:
 
 10. Click **OK**.
 
-11. Click **BOM lines**.
+11. Click **Formula lines**.
 
 12. Click **Add after line.**
 
@@ -378,7 +378,7 @@ You will have to do the following:
 
 14. Click **OK**.
 
-15. Click **BOM lines**.
+15. Click **Forumla lines**.
 
 16. Click **Add before line**.
 
@@ -508,7 +508,7 @@ You will have to do the following:
 
 34. Click **BOM versions**.
 
-35. Click **Approve**. Select **000020**, Julia Funderburk.
+35. Click **Approval**. Select **000020**, Julia Funderburk.
 
 36. Select **Yes** in the **Do you also want to approve the bill of materials?**
     field.
@@ -1028,7 +1028,7 @@ You will have to do the following:
 
 28. In the **Error cause** field, enter **Material**.
 
-29. Click **OK**.
+29. Click **Complete**.
 
 30. Click **Break**.
 
@@ -1040,7 +1040,7 @@ You will have to do the following:
 
 34. Click **Activity**.
 
-35. In the list, find and select E**quipment repair**
+35. In the list, find and select **Equipment repair**
 
 36. Click **OK**.
 
@@ -1050,7 +1050,9 @@ You will have to do the following:
 
 39. In the **Error cause** field, enter **Machine**.
 
-40. Click **OK**.
+40. Click **Complete**.
+
+41. In the **Job status** field, select **Stopped**.
 
 41. Click **Close**.
 
@@ -1192,9 +1194,9 @@ You will have to do the following:
 
 8.  In the **Tracking dimension group** field, enter or select a value.
 
-9.  In the I**nventory unit** field, type **gal**.
+9.  In the **Inventory unit** field, type **gal**.
 
-10. In the **Purchase unit** field, type **gal**.
+10. In the **Purchase unit** field, type **gal**. (Note: you may need to change the dropdown in the selection menu to **All**.)
 
 11. In the **Sales unit** field, type **gal**.
 
@@ -1434,15 +1436,15 @@ You will have to do the following:
 
 2.  Click **New**.
 
-3.  In the **Item number** field, type **M12000**.
+3.  In the **Item number** field, type **M12000**. (Note: When you click **New**, select **After line**, select the Item number and then click **Ok**.)
 
-4.  In the **Warehouse** field, enter or select a value.
+4.  Click **Edit**, and then in the **Warehouse** field, enter or select a value.
 
 5.  Set **Quantity** to **1000**.
 
 6.  Click **New**.
 
-7.  In the **Item number** field, type **M2001**.
+7.  In the **Item number** field, type **M2001**. (Note: When you click **New**, select **After line**, select the Item number and then click **Ok**.)
 
 8.  Set **Quantity** to **600**.
 
@@ -1452,7 +1454,7 @@ You will have to do the following:
 
 **Add Co-Products and By-Products with Cost Allocation**
 
-1.  Click **Co-products**.
+1.  In the Action bar, click **Formula version* and then click **Co-products**.
 
 2.  Click **New**.
 
@@ -1470,7 +1472,7 @@ You will have to do the following:
 
 9.  Click **New**.
 
-10. In the **Item number** field, type **P17000**.
+10. In the **Product type** dropdown, select **By-product**. In the **Item number** field, type **P17000**.
 
 11. In the **Warehouse** field, type **11**.
 
@@ -1500,7 +1502,7 @@ You will have to do the following:
 
 **Approve and activate the formula**
 
-1.  Click **Approve**.
+1.  Click **Approval**.
 
 2.  In the **Approved by** field, enter or select **000528** for Glen John.
 
@@ -1709,7 +1711,7 @@ You will have to do the following:
 
 3.  In the list, click the link in the selected row.
 
-4.  Click **Formula versions in the Engineer tab on the action pane**.
+4.  Click **Formula versions** in the Engineer tab on the action pane.
 
 5.  Click **New**.
 
@@ -1811,7 +1813,7 @@ You will have to do the following:
 
 3.  In the list, click the link in the selected row.
 
-4.  Click **Formula versions in the Engineer tab in the action pane**.
+4.  Click **Formula versions** in the Engineer tab in the action pane.
 
 5.  Click **New**.
 
@@ -2598,7 +2600,7 @@ You will have to do the following:
 
 **Enter the CAS number**
 
-1.  Click **Item CAS relations**.
+1.  Click **Edit**. Click **Item CAS relations**.
 
 2.  In the **CAS number** field, type **7446-09-5**.
 
