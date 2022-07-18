@@ -222,7 +222,7 @@ You will have to do the following:
 
 17. In the **Oper. No**. field, enter **30**.
 
-18. In the **Priority** field, select **Secondary 1**.
+18. In the **Priority** field, select **Primary**.
 
 19. In the **Operation** field, enter or select **Packing**.
 
