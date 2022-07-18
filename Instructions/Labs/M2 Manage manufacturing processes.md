@@ -1091,7 +1091,7 @@ You will have to do the following:
 
 **Set up the approved vendor or default vendor**
 
-1.  In **USP2**, Go to **Product information management \> Products \> Released products**.
+1.  In **USP2** (click USMF at top right of window and select USP2 from drop-down), Go to **Product information management \> Products \> Released products**.
 
 2.  Use the Quick Filter to filter on the **Item number** field with a value of
     **M7001**.
