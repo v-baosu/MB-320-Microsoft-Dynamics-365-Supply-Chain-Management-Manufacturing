@@ -4318,7 +4318,7 @@ You will have to do the following:
 14. Click **Next**. The **Assign transfer locations** page opens.
 
 15. In the **Transfer to location** group, in the **Warehouse** drop-down list,
-    select **ElComp 11**.
+    select **11**.
 
 16. In the **Location** drop-down list, select **Output 11**.
 
