@@ -4342,7 +4342,7 @@ You will have to do the following:
 **Create the predecessor/successor relationship between the process and transfer
 activity with no constraints**
 
-1.  Highlight the **RemoteConfig Wiring Process** activity and, on the
+1.  Highlight the **Wiring Process** activity and, on the
     **Successor** tab, click the **Add successor** button.
 
 2.  Select the **Successor Activity** of **RemoteTransfer**.
