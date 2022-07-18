@@ -1351,9 +1351,11 @@ You will have to do the following:
 
 13. In the **Production type** field, select None.
 
-14. Click **Save**.
+14. In the **Shelf life period in days** field in the **Manage inventory** Fast Tab, enter 365.
 
-15. Close all pages.
+15. Click **Save**.
+
+16. Close all pages.
 
 ### Exercise \#3: Create and activate a formula using different product types
 
