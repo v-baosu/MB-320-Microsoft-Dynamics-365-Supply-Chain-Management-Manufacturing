@@ -202,7 +202,7 @@ You will have to do the following:
 
 7. Click **New**.
 
-8. In the **Operation** field, enter or select **eBook**.
+8. In the **Operation** field, enter or select **Assembly**.
 
 9. In the **Next** field, enter **20**.
 
