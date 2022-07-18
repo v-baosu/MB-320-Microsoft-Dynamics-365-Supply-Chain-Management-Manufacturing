@@ -1438,7 +1438,7 @@ You will have to do the following:
 
 3.  In the **Item number** field, type **M12000**. (Note: When you click **New**, select **After line**, select the Item number and then click **Ok**.)
 
-4.  Click **Edit**, and then in the **Warehouse** field, enter or select a value.
+4.  In the **Warehouse** field, enter or select a value.
 
 5.  Set **Quantity** to **1000**.
 
