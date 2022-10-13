@@ -365,8 +365,7 @@ You will have to do the following:
 
 8.  Click **Add to component BOM**.
 
-9.  In the list, find and select **M0008 / High End Cabinet / Black** (the
-    checkbox on the left should be checked).
+9.  In the list, find and select **M0008 / High End Cabinet / Black**.
 
 10. Click **OK**.
 
