@@ -1065,7 +1065,7 @@ You will have to do the following:
 
 46. In the **Job status** field, enter **Completed**.
 
-47. Click **OK**.
+47. Click **Complete**.
 
 48. Close the page.
 
