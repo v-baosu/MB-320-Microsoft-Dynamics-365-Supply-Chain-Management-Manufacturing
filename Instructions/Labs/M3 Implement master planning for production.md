@@ -46,7 +46,7 @@ You will have to do the following:
 2. Search for customer **US-013**.
 3. Open the details for US-013.
 4. Expand the Credit and collections fastttab.
-5. Set **Unlimited credit limit** and **Exclude from credit management** to Yes.
+5. Click **Edit**. Set **Unlimited credit limit** and **Exclude from credit management** to Yes.
 6. Click **Save**.
 
 **Create and confirm a sales order**
