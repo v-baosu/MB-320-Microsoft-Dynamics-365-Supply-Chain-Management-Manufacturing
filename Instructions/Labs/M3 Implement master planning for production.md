@@ -172,7 +172,7 @@ You will have to do the following:
 
 3.  Click **New** in the Action pane.
 
-4.  Enter **Intercompany Extended Group** in the **Name** field.
+4.  Enter **40** in the **Name** field and **Intercompany Extended Group** in the **Description** field.
 
 5.  Click **Save**.
 
