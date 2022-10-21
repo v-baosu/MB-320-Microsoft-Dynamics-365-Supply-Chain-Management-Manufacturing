@@ -83,7 +83,7 @@ You will have to do the following:
 
 14. Click **Add line**.
 
-15. In the **Item number** field, enter or select **S0002**.
+15. In the **Item number** field, enter or select **S0001**.
 
 16. In the **Warehouse** field, enter or select **12-801**.
 
