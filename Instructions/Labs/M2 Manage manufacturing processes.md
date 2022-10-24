@@ -4321,7 +4321,7 @@ You will have to do the following:
 15. In the **Transfer to location** group, in the **Warehouse** drop-down list,
     select **ElComp 11**.
 
-16. In the **Location** drop-down list, select **Output 11**.
+16. In the **Location** drop-down list, select **11**.
 
 17. In the **Freighted by** drop-down list, select **Shipper**.
 
