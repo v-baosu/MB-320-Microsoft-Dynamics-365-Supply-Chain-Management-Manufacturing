@@ -252,7 +252,7 @@ You will have to do the following:
 
 32. In the **Costing resource** field, enter or select **1211**.
 
-33. In the **Route relation** field, enter or select route created in previous steps.
+33. In the **Route relation** field, enter or select **eBook route** created in previous steps and **Route code** should be set to **Route**.
 
 34. Click **Save**.
 
