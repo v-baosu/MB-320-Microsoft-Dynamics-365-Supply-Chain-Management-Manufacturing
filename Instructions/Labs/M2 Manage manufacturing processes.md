@@ -4356,7 +4356,7 @@ activity with no constraints**
 
 6.  Close the **Production** flow activities form.
 
-7.  On the **Versions** tab, click the **Activation \> Activate** menu button.
+7.  On the **Versions** tab, click the **Activate** menu button.
 
 8.  Click **OK**.
 
