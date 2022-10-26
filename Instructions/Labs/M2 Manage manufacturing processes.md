@@ -252,9 +252,11 @@ You will have to do the following:
 
 32. In the **Costing resource** field, enter or select **1211**.
 
-33. Click **Save**.
+33. In the **Route relation** field, enter or select **eBook route** created in previous steps and **Route code** should be set to **Route**.
 
-34. Close all pages.
+34. Click **Save**.
+
+35. Close all pages.
 
 ### Exercise \#5: Create a simple BOM without a version
 
