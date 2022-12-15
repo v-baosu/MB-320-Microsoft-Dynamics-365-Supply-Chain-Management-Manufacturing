@@ -188,7 +188,7 @@ You will have to do the following:
 
 #### Steps
 
-1. Go to **Production control \> All routes**.
+1. Go to **Production control \> Operations \>All routes**.
 
 2. Click **New**.
 
