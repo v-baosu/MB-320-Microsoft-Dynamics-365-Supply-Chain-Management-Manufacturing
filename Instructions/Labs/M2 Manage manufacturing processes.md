@@ -198,7 +198,7 @@ You will have to do the following:
 
 5. Click **Save**.
 
-6. Click **Route** on the Action Pane then in the **Maintain** group, select **Route details**.
+6. Click **Maintain \> Route details** on the Action Pane.
 
 7. Click **New**.
 
