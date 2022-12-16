@@ -188,7 +188,7 @@ You will have to do the following:
 
 #### Steps
 
-1. Go to **Production control \> Operations \>All routes**.
+1. Go to **Production control \> Operations \> All routes**.
 
 2. Click **New**.
 
@@ -198,7 +198,7 @@ You will have to do the following:
 
 5. Click **Save**.
 
-6. Click **Route details**.
+6. Click **Maintain \> Route details** on the Action Pane.
 
 7. Click **New**.
 
