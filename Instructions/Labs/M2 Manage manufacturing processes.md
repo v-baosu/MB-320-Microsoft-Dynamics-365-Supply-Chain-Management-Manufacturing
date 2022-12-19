@@ -818,8 +818,7 @@ You will have to do the following:
 
 24. Close all pages.
 
-25. Go to **Cost management \> Indirect cost accounting policies setup \>
-    Costing sheets**.
+25. Go to **Cost management \> Indirect cost accounting policies setup \> Costing sheets**.
 
 26. In the tree, select **Root\\Cost of Conversion\\COC-Material\\COC - M2 -
     Cabinets comp**.
