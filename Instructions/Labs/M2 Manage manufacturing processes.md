@@ -1017,7 +1017,7 @@ You will have to do the following:
 
 27. Set **Error quantity** to **1.00**.
 
-28. In the **Error cause** field, enter **Material**.
+28. In the **Error cause** field, select **Material**.
 
 29. Click **Complete**.
 
@@ -1091,7 +1091,7 @@ You will have to do the following:
 
 4.  On the Action Pane, click **Purchase**.
 
-5.  Click **Setup**.
+5.  In Approved vendor group, click **Setup**.
 
 6.  Click **Add**.
 
