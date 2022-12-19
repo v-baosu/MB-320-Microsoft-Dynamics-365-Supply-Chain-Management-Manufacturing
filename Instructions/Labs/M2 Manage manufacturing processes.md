@@ -791,9 +791,9 @@ You will have to do the following:
 
 12. Close the page.
 
-13. On the Action Pane, click **Engineer**.
+13. On the Action Pane, click **Engineer** tab.
 
-14. Click **BOM versions**.
+14. In the **BOM** group, click **BOM versions**.
 
 15. Under the Bill of materials lines, click **M0005** to open the **Product
     information** dialog box.
