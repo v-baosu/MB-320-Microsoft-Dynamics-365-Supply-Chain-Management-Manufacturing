@@ -543,7 +543,7 @@ You will have to do the following:
 
 6.  Click **Create**.
 
-7.  Click **Estimate**.
+7.  Click the **Production order** tab in the Action Pane, then in the **Process** group, click **Estimate**.
 
 8.  Click **OK**.
 
