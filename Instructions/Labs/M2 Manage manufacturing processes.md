@@ -791,7 +791,7 @@ You will have to do the following:
 
 12. Close the page.
 
-13. On the Action Pane, click **Engineer** tab.
+13. On the Action Pane, click the **Engineer** tab.
 
 14. In the **BOM** group, click **BOM versions**.
 
@@ -826,14 +826,11 @@ You will have to do the following:
 
 27. Review the structure of the costing sheet.
 
-28. In the tree, select **Root\\Cost of Conversion\\Overhead on Conversion\\COC
-    - OVH4 - Labor overhead\\Indirect labor cost - Rate per process time**.
+28. In the tree, select **Root\\Cost of Conversion\\Overhead on Conversion\\COC - OVH4 - Labor overhead\\Indirect labor cost - Rate per process time**.
 
 29. Review the **Absorption basis**, and **Rate** FastTabs values.
 
-30. In the tree, select **Root\\Cost of Conversion\\Overhead on Conversion\\COC
-    - OVH4 - Labor overhead**.
-
+30. In the tree, select **Root\\Cost of Conversion\\Overhead on Conversion\\COC - OVH4 - Labor overhead**.
 31. Click on **OVH4**
 
 32. Set **Profit percentage** to **80.00**.
