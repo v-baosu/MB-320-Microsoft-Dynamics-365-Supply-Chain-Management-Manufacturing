@@ -701,7 +701,7 @@ You will have to do the following:
 2.  Select route **000002** (STANDARD SPEAKER - D0003) by clicking on the link
     for 000002.
 
-3.  Click **Route** \> **Route details**.
+3.  Click the **Route** tab in the Action pan, then in the **Maintain** group, click **Route details**.
 
 4.  Verify operation 10 is selected in the grid of the **Route** form.
 
