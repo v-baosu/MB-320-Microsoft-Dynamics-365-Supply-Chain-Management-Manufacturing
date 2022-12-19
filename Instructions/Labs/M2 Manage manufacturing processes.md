@@ -830,23 +830,23 @@ You will have to do the following:
 29. Review the **Absorption basis**, and **Rate** FastTabs values.
 
 30. In the tree, select **Root\\Cost of Conversion\\Overhead on Conversion\\COC - OVH4 - Labor overhead**.
+
 31. Click on **OVH4**
 
 32. Set **Profit percentage** to **80.00**.
 
 33. Close all pages.
 
-34. Go to **Product information management** \> **Products** \> **Released
-    products**.
+34. Go to **Product information management** \> **Products** \> **Released products**.
 
 35. Use the **Quick Filter** to filter on the **Item number** field with a value
     of **D0002**.
 
 36. Click the **D0002** link to open the product details screen.
 
-37. On the Action Pane, click **Manage costs**.
+37. On the Action Pane, click the **Manage costs** tab.
 
-38. Click **Item price**.
+38. In the **Set up** group, click **Item price**.
 
 39. Click the **Pending prices** tab.
 
