@@ -712,9 +712,7 @@ You will have to do the following:
 7.  Click Scroll one day forward by clicking the **Next day** button or choose
     the date picker field.
 
-8.  Click **OK**.
-
-9.  Close the **Applicable resources** form.
+8.  Click **OK**. This closes the **Applicable resources** form.
 
 **To add requirements for a capability to an operation, follow these steps:**
 
