@@ -826,8 +826,8 @@ You will have to do the following:
 
 27. Review the structure of the costing sheet.
 
-28. In the tree, select **Root\\Cost of Conversion\\Overhead on Conversion\\COC
-    - OVH4 - Labor overhead\\Indirect labor cost - Rate per process time**.
+28. In the tree, select **Root\\Cost of Conversion\\Overhead on Conversion\\COC -
+     OVH4 - Labor overhead\\Indirect labor cost - Rate per process time**.
 
 29. Review the **Absorption basis**, and **Rate** FastTabs values.
 
