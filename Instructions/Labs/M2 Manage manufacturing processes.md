@@ -642,61 +642,57 @@ You will have to do the following:
 5.  Type **30** in the **Capability** field and **Packing** in the
     **Description** field.
 
-6.  Expand the **Resources** FastTab.
+6.  In the **Resources** FastTab, click **Add**.
 
-7.  Click **Add**.
+7.  Select **1222** (Speaker packing worker 1) in the **Resource** field.
 
-8.  Select **1222** (Speaker packing worker 1) in the **Resource** field.
+8.  Accept the default expiration date of **Never**.
 
-9.  Accept the default expiration date of **Never**.
+9. Accept the default **Level** of 0.00.
 
-10. Accept the default **Level** of 0.00.
+10. Type **1** in the **Priority** field.
 
-11. Type **1** in the **Priority** field.
+11. Close the **Resource capabilities** form.
 
-12. Close the **Resource capabilities** form.
+12. Open **Organization administration \> Resources \> Resources**.
 
-13. Open **Organization administration \> Resources \> Resources**.
+13. Click **New**.
 
-14. Click **New**.
+14. Type **000727** in the **Resource** field.
 
-15. Type **000727** in the **Resource** field.
+15. Type **Assembly robot** in the **Description** field.
 
-16. Type **Assembly robot** in the **Description** field.
+16. Accept the default of **Machine** in the **Type** field.
 
-17. Accept the default of **Machine** in the **Type** field.
+17. In the **Capabilities** FastTab, click **Add**.
 
-18. Open the **Capabilities** FastTab.
+18. Select 20 in the **Capability** field.
 
-19. Click **Add**.
+19. Accept the default expiration date of **Never**.
 
-20. Select 20 in the **Capability** field.
+20. Accept the default **Level** of 0.00.
 
-21. Accept the default expiration date of **Never**.
+21. Type **1** in the **Priority** field.
 
-22. Accept the default **Level** of 0.00.
+22. Expand the **Resource groups** FastTab.
 
-23. Type **1** in the **Priority** field.
+23. Click **View \> All**.
 
-24. Expand the **Resource groups** FastTab.
+24. Click **Add**.
 
-25. Click **View \> All**.
-
-26. Click **Add**.
-
-27. Type **1210** in the **Resource group** field, type the next working day in
+25. Type **1210** in the **Resource group** field, type the next working day in
     the **Effective** field, and then accept the default expiration date of
     **Never**.
 
-28. Accept the default **Input warehouse**.
+26. Accept the default **Input warehouse**.
 
-29. Accept the default **Input location**.
+27. Accept the default **Input location**.
 
-30. Scroll up, expand **Calendars** tab, and click **Add**.
+28. Scroll up, expand **Calendars** tab, and click **Add**.
 
-31. Select **24hr** in the **Calendar** field.
+29. Select **24hr** in the **Calendar** field.
 
-32. Close the **Resources** form.
+30. Close the **Resources** form.
 
 **Identify resources applicable for the operation**
 
