@@ -690,7 +690,7 @@ You will have to do the following:
 
 28. Scroll up, expand **Calendars** tab, and click **Add**.
 
-29. Select **24hr** in the **Calendar** field.
+29. Select **24hr** in the **Calendar** field and then accept the default expiration date of **Never**.
 
 30. Close the **Resources** form.
 
