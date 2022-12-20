@@ -1433,7 +1433,7 @@ You will have to do the following:
 
 6.  Click **New**.
 
-7.  In the **Item number** field, type **M2001**. (Note: When you click **New**, you may need to change the dropdown in the selection menu to **Other**.), select the Item number and then click **Ok**.)
+7.  In the **Item number** field, type **M2001**. (Note: When you click **New**, you may need to change the dropdown in the selection menu to **Other**, select the Item number and then click **Ok**.)
 
 8.  Set **Quantity** to **600**.
 
