@@ -1176,13 +1176,13 @@ You will have to do the following:
 
 4.  In the **Product name** field, type Gasoline.
 
-5.  In the **Item model group** field, enter or select a value.
+5.  In the **Item model group** field, enter or select a value. (Note: For prioritized consumption on limited shelf life, FEFO is recommended.)
 
 6.  In the **Item group** field, enter or select a value.
 
 7.  In the **Storage dimension group** field, enter or select a value.
 
-8.  In the **Tracking dimension group** field, enter or select a value.
+8.  In the **Tracking dimension group** field, enter or select a value. (Note: To use the shelf-life settings on the released products details page on the General FastTab, set the **Tracking dimension group** field to a tracking dimension group that is set up to track the batch dimension. You can set this field only when you're first creating a product.  If the dimension value is set to **None**, the option to edit the shelf life field will be disabled. You can't change the value for existing products.)
 
 9.  In the **Inventory unit** field, type **gal**.
 
