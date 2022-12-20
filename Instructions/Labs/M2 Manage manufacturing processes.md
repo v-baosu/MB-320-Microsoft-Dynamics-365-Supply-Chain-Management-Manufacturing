@@ -1224,17 +1224,16 @@ You will have to do the following:
 
 9.  In the **Purchase unit** field, type **gal**.
 
-10. In the **Sales unit** field, type **gal**.
+10. In the **Sales unit** field, type **gal**. 
 
 11. In the **BOM unit** field, type **gal**.
 
 12. Click **OK**.
 
-13. In the **Shelf life period in days** field in the **Manage inventory** Fast
-    Tab, enter **365**.
+13. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
 
-14. In the **Production type** field in the **Engineer** Fast Tab, select
-    **Co-product**.
+14. Expand the **Engineer** Fast Tab and select **Co-product** in the **Production type** field.
+
 
 15. In the **Planning formula** field, enter **P15000**.
 
@@ -1266,8 +1265,7 @@ You will have to do the following:
 
 29. Click **OK**.
 
-30. In the **Production type** field in the **Engineer** Fast Tab, select
-    **Co-product**.
+30. Expand the **Engineer** Fast Tab and select **Co-product** in the **Production type** field.
 
 31. In the **Planning formula** field, enter **P15000**.
 
@@ -1303,10 +1301,9 @@ You will have to do the following:
 
 12. Click **OK**.
 
-13. In the **Shelf life period in days** field in the **Manage inventory** Fast
-    Tab, enter **365**.
+13. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
 
-14. In the **Production type** field, select **By-product**.
+14. Expand the **Engineer** Fast Tab and select **By-product** in the **Production type** field.
 
 15. Click **Save**.
 
@@ -1340,7 +1337,7 @@ You will have to do the following:
 
 13. In the **Production type** field, select None.
 
-14. In the **Shelf life period in days** field in the **Manage inventory** Fast Tab, enter 365.
+14. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
 
 15. Click **Save**.
 
