@@ -1194,10 +1194,9 @@ You will have to do the following:
 
 13. Click **OK**.
 
-14. In the **Production type** field in the Engineer Fast Tab, select Formula.
+14. Expand the **Engineer** Fast Tab and select Formula in the **Production type** field.
 
-15. In the **Shelf life period in days** field in the **Manage inventory** Fast
-    Tab, enter **365**.
+15. Expand the **Manage inventory** Fast Tab and enter **365**in the **Shelf life period in days** field.
 
 16. Click **Save**.
 
