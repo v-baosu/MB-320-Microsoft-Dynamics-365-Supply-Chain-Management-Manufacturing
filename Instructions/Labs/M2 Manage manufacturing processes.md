@@ -1188,15 +1188,15 @@ You will have to do the following:
 
 10. In the **Purchase unit** field, type **gal**. (Note: you may need to change the dropdown in the selection menu to **All**.)
 
-11. In the **Sales unit** field, type **gal**.
+11. In the **Sales unit** field, type **gal**. (Note: you may need to change the dropdown in the selection menu to **All**.)
 
-12. In the **BOM unit** field, type **gal**.
+12. In the **BOM unit** field, type **gal**. (Note: you may need to change the dropdown in the selection menu to **All**.)
 
 13. Click **OK**.
 
 14. Expand the **Engineer** Fast Tab and select Formula in the **Production type** field.
 
-15. Expand the **Manage inventory** Fast Tab and enter **365**in the **Shelf life period in days** field.
+15. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
 
 16. Click **Save**.
 
