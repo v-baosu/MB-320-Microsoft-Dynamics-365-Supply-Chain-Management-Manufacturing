@@ -1425,15 +1425,15 @@ You will have to do the following:
 
 2.  Click **New**.
 
-3.  In the **Item number** field, type **M12000**. (Note: When you click **New**, select **After line**, select the Item number and then click **Ok**.)
+3.  In the **Item number** field, type **M12000**. (Note: When you click **New**, you may need to change the dropdown in the selection menu to **Other**.), select the Item number and then click **Ok**.)
 
-4.  Click **Edit**, and then in the **Warehouse** field, enter or select a value.
+4.  In the **Warehouse** field, enter or select a value.
 
 5.  Set **Quantity** to **1000**.
 
 6.  Click **New**.
 
-7.  In the **Item number** field, type **M2001**. (Note: When you click **New**, select **After line**, select the Item number and then click **Ok**.)
+7.  In the **Item number** field, type **M2001**. (Note: When you click **New**, you may need to change the dropdown in the selection menu to **Other**.), select the Item number and then click **Ok**.)
 
 8.  Set **Quantity** to **600**.
 
