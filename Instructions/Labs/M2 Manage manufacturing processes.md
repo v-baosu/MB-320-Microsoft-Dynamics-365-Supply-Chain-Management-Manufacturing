@@ -1234,7 +1234,6 @@ You will have to do the following:
 
 14. Expand the **Engineer** Fast Tab and select **Co-product** in the **Production type** field.
 
-
 15. In the **Planning formula** field, enter **P15000**.
 
 16. Click **Save**.
@@ -1265,13 +1264,15 @@ You will have to do the following:
 
 29. Click **OK**.
 
-30. Expand the **Engineer** Fast Tab and select **Co-product** in the **Production type** field.
+30. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
 
-31. In the **Planning formula** field, enter **P15000**.
+31. Expand the **Engineer** Fast Tab and select **Co-product** in the **Production type** field.
 
-32. Click **Save**.
+32. In the **Planning formula** field, enter **P15000**.
 
-33. Close the page.
+33. Click **Save**.
+
+34. Close the page.
 
  
 
