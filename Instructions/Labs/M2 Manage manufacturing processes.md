@@ -19,7 +19,7 @@ design and process design
 The Operations manager at USMF,  wants to make some changes to the policies so
 everything runs more efficiently. He wants to be sure routes are not allowed to
 be modified or have their approvals removed. In order to accomplish this, a new
-route operation should be created, and the effective dates updated
+route operation should be created, and the effective dates updated.
 
 Can you help the operation manager to perform this?
 
@@ -228,9 +228,9 @@ You will have to do the following:
 
 20. Refresh the page.
 
-21. Click **Save**.
+21. Click **Save**. 
 
-22. Close all pages.
+22. Close all pages. (Note: a message may appear that there exist no relation for operation Padding. The route contains the order of operations and the assignment of operations will occur in the next steps.)
 
 23. Go to **Production control \> Setup \> Routes \> Operations**.
 
