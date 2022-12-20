@@ -1103,10 +1103,9 @@ You will have to do the following:
 
 **Set the vendor check method to Warning Only**
 
-1.  Click **Edit**.
+1.  On the Released product details page, click **Edit**.
 
-2.  In the **Approved vendor check method** field in the Purchase Fast Tab,
-    select **Warning Only**.
+2.  In the Purchase Fast Tab, set the **Approved vendor check method** field to **Warning Only**.
 
 3.  Click **Save**.
 
