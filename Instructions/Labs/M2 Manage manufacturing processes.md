@@ -361,7 +361,7 @@ You will have to do the following:
 
 5.  In the **Item group** field, enter or select **Audio**.
 
-6.  Click **Designer**.
+6.  Click **Bill of materials** on the Action Pane then in the **Maintain** group, click **Designer**.
 
 7.  Click **Formula lines**.
 
