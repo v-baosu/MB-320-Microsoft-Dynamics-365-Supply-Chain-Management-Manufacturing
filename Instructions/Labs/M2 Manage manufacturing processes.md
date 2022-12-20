@@ -250,7 +250,7 @@ You will have to do the following:
 
 31.  In the **Formula** field, select **Capacity**.
 
-32. In the **Costing resource** field, enter or select **1211**.
+32. In the **Costing resource** field, enter or select **1211**. A dialogue box appears informing that the default time and cost values from the costing resource will be inserted. Click Yes to continue.
 
 33. In the **Route relation** field, enter or select **eBook route** created in previous steps and **Route code** should be set to **Route**.
 
@@ -314,7 +314,7 @@ You will have to do the following:
 
 12. In the **Item number** field, type **P0002**.
 
-13. In the action pane, click **Approval**. Select **000020**, Julia Funderburk.
+13. Click **Bill of materials** on the Action Pane then in the **Maintain** group, Click **Approval** and select 000020, Julia Funderburk.
 
 14. Click **OK**.
 
