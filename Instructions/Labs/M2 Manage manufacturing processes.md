@@ -363,7 +363,7 @@ You will have to do the following:
 
 6.  Click **Bill of materials** on the Action Pane then in the **Maintain** group, click **Designer**.
 
-7.  Click **Formula lines**.
+7.  Click **Formula lines** on the Action Pane.
 
 8.  Click **Add to component BOM**.
 
@@ -387,9 +387,9 @@ You will have to do the following:
 
 18. Click **OK**.
 
-19. Close the page.
+19. Close the **Designer** page.
 
-20. Refresh the page.
+20. Refresh the Bill of materials page. This will populate the previously created BOM formula lines.
 
 21. In the list of Bill of materials lines, find and select the row for **M0002
     / Mid-Range Speaker Unit**.
