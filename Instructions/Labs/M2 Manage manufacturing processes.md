@@ -1475,7 +1475,7 @@ You will have to do the following:
 
 16. Click **New**.
 
-17. In the **Item number** field, type **B18000**.
+17. In the **Item number** field, type **P18000**.
 
 18. In the **Warehouse** field, type a value.
 
