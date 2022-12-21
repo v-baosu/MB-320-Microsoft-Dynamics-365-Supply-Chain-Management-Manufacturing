@@ -1491,7 +1491,7 @@ You will have to do the following:
 
 **Approve and activate the formula**
 
-1.  Click **Approval**.
+1.  Click **Formula version** and then click **Approval**.
 
 2.  In the **Approved by** field, enter or select **000528** for Glen John.
 
