@@ -1727,7 +1727,7 @@ You will have to do the following:
 
 2.  Set **Quantity** to **0.35**.
 
-3.  Click the **Setup** tab.
+3.  Expand the Line details Fast Tab then click the **Setup** tab.
 
 4.  In the **Variable scrap** field, enter a number.
 
