@@ -1141,7 +1141,7 @@ creation of formulas or recipes
 
     -   Production Type: Co-Product
 
--   Product Number: B18000
+-   Product Number: P18000
 
     -   Product Name: Waste Water
 
@@ -1280,7 +1280,7 @@ You will have to do the following:
 
 1.  Click New.
 
-2.  In the **Product number** field, type **B18000**.
+2.  In the **Product number** field, type **P18000**.
 
 3.  In the **Product name** field, type **Waste Water**.
 
@@ -1368,7 +1368,7 @@ He asked for your help. Can you help?
 
 -   Co-Product Line: P17000 (Diesel Fuel), QTY 350 gal 32% cost allocation
 
--   By-Product Line: B18000 (Waste Water), QTY 600 gal, 5% cost allocation
+-   By-Product Line: P18000 (Waste Water), QTY 600 gal, 5% cost allocation
 
 -   Approved by: Glen John
 
@@ -1475,7 +1475,7 @@ You will have to do the following:
 
 16. Click **New**.
 
-17. In the **Item number** field, type **B18000**.
+17. In the **Item number** field, type **P18000**.
 
 18. In the **Warehouse** field, type a value.
 
