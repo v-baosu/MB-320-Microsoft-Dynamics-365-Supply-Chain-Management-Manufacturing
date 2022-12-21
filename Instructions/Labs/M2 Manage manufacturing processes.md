@@ -1653,17 +1653,17 @@ You will have to do the following:
 
 **Approve and activate the formula**
 
-1.  Click **Approve formula**.
+1.  Click **Formula** and then click **Approve formula**.
 
 2.  In the **Approved by** field, enter or select **000528** for Glen John.
 
 3.  Click **OK**.
 
-4.  In the **Lines** or **header** field, select **Header**.
+4.  In the **Lines** or **Header** field, select **Header**.
 
-5.  Click **Approve** in the versions section.
+5.  Click **Approval** in the versions section.
 
-6.  In the **Approved b**y field, enter or select a value.
+6.  In the **Approved by** field, enter or select **000528** for Glen John.
 
 7.  Click **OK**.
 
