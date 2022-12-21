@@ -1759,7 +1759,7 @@ You will have to do the following:
 
 4.  Close the screen to go back to the Formula versions screen.
 
-5.  Click **Formula version** \> **Approve**.
+5.  Click **Formula version** \> **Approval**.
 
 6.  In the **Approved by** field, enter or select a value.
 
