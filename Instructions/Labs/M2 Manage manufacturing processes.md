@@ -1425,7 +1425,7 @@ You will have to do the following:
 
 2.  Click **New**.
 
-3.  In the **Item number** field, type **M12000**. (Note: When you click **New**, you may need to change the dropdown in the selection menu to **Other**.), select the Item number and then click **Ok**.)
+3.  In the **Item number** field, type **M12000**. (Note: When you click **New**, you may need to change the dropdown in the selection menu to **Other**, select the Item number and then click **Ok**.)
 
 4.  In the **Warehouse** field, enter or select a value.
 
@@ -1495,7 +1495,7 @@ You will have to do the following:
 
 2.  In the **Approved by** field, enter or select **000528** for Glen John.
 
-3.  Slide the toggle button to Yes for **Do you also want to approve the formula?** option.
+3.  Slide the toggle button to **Yes** for **Do you also want to approve the formula?** option.
 
 4.  Click **OK**.
 
@@ -1615,7 +1615,7 @@ You will have to do the following:
 
 5.  In the Formula lines fast tab, click **New**.
 
-6.  In the **Item number** field, type **M9103**.
+6.  In the **Item number** field, type **M9103**. (Note: When you click New, you may need to change the dropdown in the selection menu to **Other**, select the Item number and then click Ok.)
 
 7.  Set **Quantity** to **800**.
 
