@@ -2573,7 +2573,7 @@ You will have to do the following:
 
 3.  On the Action Pane, click **Manage inventory**.
 
-4.  Click **Reporting details**.
+4.  In the **Compliance** group, click **Reporting details**.
 
 5.  Click **Edit**.
 
