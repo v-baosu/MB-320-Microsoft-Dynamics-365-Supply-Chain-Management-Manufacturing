@@ -1857,7 +1857,7 @@ compounds)**
 
 6.  In the **Lines or header** field, select **header**.
 
-7.  Click **Approve** in the **Versions** grid.
+7.  Click **Approval** in the **Versions** grid.
 
 8.  In the **Approved by** field, enter or select a value.
 
