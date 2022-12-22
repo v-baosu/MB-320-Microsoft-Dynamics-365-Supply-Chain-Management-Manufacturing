@@ -2909,7 +2909,7 @@ You will have to do the following:
 
 9.  On the Action Pane, click **Purchase**.
 
-10. Click **Confirm**.
+10. In the **Actions** group, click **Confirm**.
 
 11. Note the purchase order number.
 
