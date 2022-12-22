@@ -2838,7 +2838,7 @@ You will have to do the following:
 
 3.  In the **Batch number** field, type **GTL0001**.
 
-4.  In the **Item number** field, type **PW4000**.
+4.  In the **Item number** field, type **P4000**.
 
 5.  In the **Manufacturing date** field, enter today’s date.
 
