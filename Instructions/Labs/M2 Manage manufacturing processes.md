@@ -2932,7 +2932,7 @@ You will have to do the following:
 
 7.  Search for the purchase order created and select the record.
 
-8.  Click **Start arrival** in the **Receipts** FastTab.
+8.  Click **Start arrival** in the **Receipts** FastTab. This will update the status on in the Receipt in progress field to Complete.
 
 9.  Re-select your PO.
 
@@ -2992,7 +2992,7 @@ You will have to do the following:
 
 2.  Click **Results**.
 
-3.  Click **Edit**.
+3.  You may need to Click *Reopen Quality Order** and then click **Edit** to update the Quality order line results.
 
 4.  Set Result quantity to **5**.
 
