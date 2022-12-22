@@ -2967,7 +2967,7 @@ You will have to do the following:
 
 24. Close the **Batches** page.
 
-25. In the **Batch number** field, click on the pencil then enter or select the
+25. In the **Batch number** field, enter or select the
     batch that was created (GTLB001).
 
 26. Click **Post**.
