@@ -2589,7 +2589,7 @@ You will have to do the following:
 
 **Enter the CAS number**
 
-1.  Click **Edit**. Click **Item CAS relations**.
+1.  Click **Item CAS relations**.
 
 2.  In the **CAS number** field, type **7446-09-5**.
 
