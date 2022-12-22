@@ -2959,7 +2959,7 @@ You will have to do the following:
 
 20. In the **Batch number** field, type **GTLB001**.
 
-21. In the **Manufacturing date** field, enter today’s date.
+21. Expand **Properties** Fast Tab and enter  in the **Manufacturing date** field.
 
 22. Click **Save**.
 
