@@ -2473,7 +2473,7 @@ You will have to do the following:
 **Create a PSDS list**
 
 1.  Go to **Inventory management \> Setup \> Product compliance \> Product
-    safety data sheet**.
+    safety data sheet validity**.
 
 2.  Click **New**.
 
