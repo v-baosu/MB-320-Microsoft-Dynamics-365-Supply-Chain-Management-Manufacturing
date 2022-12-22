@@ -2749,8 +2749,7 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the Item number field with a value of
     **p4000**.
 
-3.  Click **Product specific** in the Batch Attributes group on the **Manage
-    Inventory** tab.
+3.  On the **Manage Inventory** tab, in the **Batch Attributes** group, click **Product specific**.
 
 4.  Click **New**.
 
