@@ -2992,7 +2992,7 @@ You will have to do the following:
 
 2.  Click **Results**.
 
-3.  You may need to Click *Reopen Quality Order** and then click **Edit** to update the Quality order line results.
+3.  You may need to Click **Reopen Quality Order** and then click **Edit** to update the Quality order line results.
 
 4.  Set Result quantity to **5**.
 
