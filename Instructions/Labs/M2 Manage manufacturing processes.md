@@ -2926,7 +2926,7 @@ You will have to do the following:
 
 4.  Click **Update**.
 
-5.  In the **Arrival overview profile name** field, enter or select a value.
+5.  In the **Arrival overview profile name** field, enter or select **Inquiry** to view the purchase order in the Receipts grid.
 
 6.  Click **Update**.
 
