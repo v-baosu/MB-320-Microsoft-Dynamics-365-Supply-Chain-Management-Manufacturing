@@ -29,16 +29,17 @@ You will have to do the following:
 
 #### Steps
 
--   Go to **Production control \> Setup \> Production control parameters**.
+1.  Go to **Production control \> Setup \> Production control parameters**.
 
--   Set the **Block removal of approval** slider to **Yes** under
+2.  Set the **Block removal of approval** slider to **Yes** under
     the **Routes** group.
 
--   Set the **Block editing** slider to **Yes** under the **Routes** group.
+3.  Set the **Block editing** slider to **Yes** under the **Routes** group.
 
--   Click **Save**.
+4.  Click **Save**.
 
--   Close all pages.
+5.  **Close** all pages and return the **Home** screen.
+
 
 ### Exercise \#2: Create new production pools
 
@@ -50,7 +51,7 @@ can find a solution.
 You decide that you want more visibility into production orders that are
 delayed, and you want to track subcontracted production orders that are missing
 deliveries, production orders with missing materials and orders that are delayed
-due to machine failures
+due to machine failures.
 
 How would you perform this?
 
@@ -66,9 +67,9 @@ You will have to do the following:
 
 **Create a production pool for delayed subcontracted work**
 
-1.  Open **Production control \> Setup \> Production \> Production pools**
+1.  Open **Production control \> Setup \> Production \> Production pools**.
 
-2.  Click **New** to create a new pool.
+2.  Select **+ New** to create a new pool.
 
 3.  Type **Delay-Sub** in the **Pool** field.
 
@@ -76,7 +77,7 @@ You will have to do the following:
 
 **Create a production pool for missing materials**
 
-1.  Click **New** to create a new pool.
+1.  Select **+ New** to create a new pool.
 
 2.  Type **MATMISSING** in the **Pool** field.
 
@@ -84,11 +85,16 @@ You will have to do the following:
 
 **Create a production pool for machine failures**
 
-1.  Click **New** to create a new pool.
+1.  Select **+ New** to create a new pool.
 
 2.  Type **MACHFAIL** in the **Pool** field.
 
 3.  Type **Machine Failure** in the **Name** field.
+
+4.  Select **Save**.
+
+5.  **Close** all pages and return the Home screen.
+
 
 ### Exercise \#3: Create and manage resources
 
@@ -126,7 +132,6 @@ You will have to do the following:
 5.  Type **GTL-Packing** in the **Capability** field and **Packing** in the
     **Description** field.
 
-6.  Close the **Resource capabilities** page.
 
 **Assign resources to capability**
 
@@ -134,7 +139,7 @@ You will have to do the following:
 
 2.  Select **GTL-Assembly** from the list of capabilities.
 
-3.  Click **Add** from the Action Pane.
+3.  Select **+ Add** from the toolbar.
 
 4.  Select **5110**, Assembly worker 1, in the **Resource** field.
 
@@ -148,6 +153,7 @@ You will have to do the following:
 
 9.  Close the **Resource capabilities** page.
 
+
 **Assign capabilities to a resource**
 
 1.  Go to **Organization administration \> Resources \> Resources**.
@@ -156,9 +162,9 @@ You will have to do the following:
 
 3.  Expand the **Capabilities** FastTab.
 
-4.  Select **View \> All** from the Action Pane.
+4.  Select **View \> All** from the toolbar.
 
-5.  Click **Add** from the Action Pane.
+5.  Click **Add** from the toolbar.
 
 6.  Type GTL-Packing in the **Capability** field.
 
@@ -171,6 +177,7 @@ You will have to do the following:
 10. Type **2** in the **Priority** field
 
 11. Close the **Resources** page.
+
 
 ### Exercise \#4: Create an operation, assign relations and create a route
 
@@ -188,24 +195,24 @@ You will have to do the following:
 
 #### Steps
 
-1. Go to **Production control \> Operations \> All routes**.
-
-2. Click **New**.
-
-3. In the **Name** field, type **eBook route**.
-
-4. In the **Item group** field, enter or select **TV&Video**.
-
-5. Click **Save**.
-
-6. Click **Route** on the Action Pane then in the **Maintain** group, select **Route details**.
-
-7. Click **New**.
-
-8. In the **Operation** field, enter or select **Assembly**.
-
-9. In the **Next** field, enter **20**.
-
+1.  Go to **Production control \> Operations \> All routes**.
+ 
+2.  Click **New**.
+ 
+3.  In the **Name** field, type **eBook route**.
+ 
+4.  In the **Item group** field, enter or select **TV&Video**.
+ 
+5.  Click **Save**.
+ 
+6.  Click **Route** on the Action Pane then in the **Maintain** group, select **Route details**.
+ 
+7.  Click **New**.
+ 
+8.  In the **Operation** field, enter or select **Assembly**.
+ 
+9.  In the **Next** field, enter **20**.
+ 
 10. In the **Link type** field, select **Soft**.
 
 11. Click **New**.
@@ -226,13 +233,16 @@ You will have to do the following:
 
 19. In the **Operation** field, enter or select **Packing**.
 
-20. Refresh the page.
+20. **Refresh** the page.
 
 21. Click **Save**. 
 
-22. Close all pages. (Note: a message may appear that there exist no relation for operation Padding. The route contains the order of operations and the assignment of operations will occur in the next steps.)
+22. **Close** all pages. 
 
-23. Go to **Production control \> Setup \> Routes \> Operations**.
+    >[!Note] A message may appear that there exist no relation for operation Padding. 
+    The route contains the order of operations and the assignment of operations will occur in the next steps.
+
+23.  Go to **Production control \> Setup \> Routes \> Operations**.
 
 24.  Click **New**.
 
@@ -250,13 +260,14 @@ You will have to do the following:
 
 31.  In the **Formula** field, select **Capacity**.
 
-32. In the **Costing resource** field, enter or select **1211**. A dialogue box appears informing that the default time and cost values from the costing resource will be inserted. Click Yes to continue.
+32. In the **Costing resource** field, enter or select **1211**. A dialogue box appears informing that the default time and cost values from the costing resource will be inserted. Select **Yes** to continue.
 
 33. In the **Route relation** field, enter or select **eBook route** created in previous steps and **Route code** should be set to **Route**.
 
 34. Click **Save**.
 
-35. Close all pages.
+35. **Close** all pages and return to the Home screen.
+
 
 ### Exercise \#5: Create a simple BOM without a version
 
@@ -320,7 +331,8 @@ You will have to do the following:
 
 15. Click **Save**.
 
-16. Close all pages.
+16. **Close** all pages.
+
 
 ### Exercise \#6: Create a BOM in the BOM designer (Bonus)
 
@@ -365,7 +377,7 @@ You will have to do the following:
 
 7.  Click **Formula lines** on the Action Pane.
 
-8.  Click **Add to component BOM**.
+8.  Select **Add to component BOM**.
 
 9.  In the list, find and select **M0008 / High End Cabinet / Black**.
 
@@ -389,18 +401,19 @@ You will have to do the following:
 
 19. Close the **Designer** page.
 
-20. Refresh the Bill of materials page. This will populate the previously created BOM formula lines.
+20. **Refresh** the Bill of materials page. This will populate the previously created BOM formula lines.
 
 21. In the list of Bill of materials lines, find and select the row for **M0002
     / Mid-Range Speaker Unit**.
 
 22. Set **Quantity** to **2.0000**.
 
-23. Click **Approval at the top**. Select **000020**, Julia Funderburk.
+23. Click **Bill of materials** on the Action Pane then in the **Maintain** group, Click **Approval** and select **000020**, Julia Funderburk.
 
 24. Click **OK**.
 
-25. Close all pages.
+25. **Close** all pages.
+
 
 ### Exercise \#7: Create a BOM with a version
 
@@ -452,9 +465,9 @@ You will have to do the following:
 
 6.  In the **Item group** field, enter or select **Audio**.
 
-7.  In the **Storage dimension** group field, enter or select **SiteWH**.
+7.  In the **Storage dimension group** field, enter or select **SiteWH**.
 
-8.  In the **Tracking dimension** group field, enter or select **None**.
+8.  In the **Tracking dimension group** field, enter or select **None**.
 
 9.  Click **OK**.
 
@@ -467,7 +480,7 @@ You will have to do the following:
 13. Under the **Inventory** FastTab, In the **Default warehouse** field, type
     **11**.
 
-14. Close the page.
+14. **Close** the page.
 
 15. On the Action Pane, click **Engineer**.
 
@@ -516,7 +529,7 @@ You will have to do the following:
 
 37. Click **OK**.
 
-38. Close all pages.
+38. **Close** all pages.
 
 ### Exercise \#8: Create a production order
 
@@ -600,6 +613,9 @@ You will have to do the following:
 6.  Select the **Start production** check box.
 
 7.  Click **OK**.
+
+8.  **Close** all pages.
+
 
 ### Exercise \#10: Run a resource schedule
 
@@ -733,9 +749,9 @@ You will have to do the following:
 
 7.  Type **20** in the **Requirement** field.
 
-8.  Click Next.
+8.  Click **Next**.
 
-9.  On the action screen, leave the defaults and click Next.
+9.  On the action screen, leave the defaults and click **Next**.
 
 10. On the New resource requirements screen, set **Requirement type** to
     **Capability**, **Requirement** to **20**, and check the **Operation
@@ -745,7 +761,8 @@ You will have to do the following:
 
 12. On the summary screen, review your options and click **Finish**.
 
-13. Close all pages.
+13. **Close** all pages.
+14. 
 
 ### Exercise \#12: Configure costing policies
 
@@ -789,7 +806,7 @@ You will have to do the following:
 
 11. Click **Save**.
 
-12. Close the page.
+12. **Close** the page.
 
 13. On the Action Pane, click the **Engineer** tab.
 
@@ -798,7 +815,7 @@ You will have to do the following:
 15. Under the Bill of materials lines, click **M0005** to open the **Product
     information** dialog box.
 
-16. Click **M0005** item number (not product number) to open the **Product
+16. Click **M0005** item number (not product number) to open the **Released product
     details** page.
 
 17. Click Cost group **M2** in the Manage costs FastTab to open the **Cost group
@@ -814,9 +831,9 @@ You will have to do the following:
 
 22. Set **Profit percentage** to **60.00**.
 
-23. Close the page.
+23. **Close** the page.
 
-24. Close all pages.
+24. **Close** all pages.
 
 25. Go to **Cost management \> Indirect cost accounting policies setup \> Costing sheets**.
 
@@ -831,18 +848,18 @@ You will have to do the following:
 
 30. In the tree, select **Root\\Cost of Conversion\\Overhead on Conversion\\COC - OVH4 - Labor overhead**.
 
-31. Click on **OVH4**
+31. Click on **OVH4** to open the **Cost group**.
 
 32. Set **Profit percentage** to **80.00**.
 
-33. Close all pages.
+33. **Close** all pages.
 
 34. Go to **Product information management** \> **Products** \> **Released products**.
 
 35. Use the **Quick Filter** to filter on the **Item number** field with a value
     of **D0002**.
 
-36. Click the **D0002** link to open the product details screen.
+36. Click the **D0002** link to open the **Released product details** screen.
 
 37. On the Action Pane, click the **Manage costs** tab.
 
@@ -856,7 +873,7 @@ You will have to do the following:
 
 42. Click **OK**.
 
-43. Click **View calculation details.**
+43. Click **View calculation details**.
 
 44. Click the **Costing sheet** tab.
 
@@ -987,7 +1004,7 @@ You will have to do the following:
 
 12. Click **OK**.
 
-13. In the list, click on the **Shannon** link id to get to the detail page.
+13. In the list, click on the **Shannon Dascher** name link to open the **Employees** detail page.
 
 14. Click the **Time registration** tab.
 
@@ -999,7 +1016,7 @@ You will have to do the following:
 
 18. Click **Save**.
 
-19. Close the page.
+19. **Close** the page.
 
 20. Go to **Production control \> Manufacturing execution \> Job card device**.
 
