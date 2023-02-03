@@ -1104,7 +1104,7 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the **Item number** field with a value of
     **M7001**.
 
-3.  Click the item number to get from the grid to the details page.
+3.  Click the **item number** link to open the **Released product details** page.
 
 4.  On the Action Pane, click **Purchase**.
 
@@ -1116,17 +1116,18 @@ You will have to do the following:
 
 8.  Click **Save**.
 
-9.  Close the page.
+9.  **Close** the page.
 
 **Set the vendor check method to Warning Only**
 
-1.  On the Released product details page, click **Edit**.
+1.  On the **Released product details** page, click **Edit**.
 
-2.  In the Purchase Fast Tab, set the **Approved vendor check method** field to **Warning Only**.
+2.  Expand the **Purchase** Fast Tab, set the **Approved vendor check method** field to **Warning only**.
 
 3.  Click **Save**.
 
-4.  Close the page.
+4.  **Close** the page.
+
 
 ### Exercise \#2: Create items with different production types
 
@@ -1185,7 +1186,7 @@ You will have to do the following:
 
 **Create a new formula product**
 
-1.  In **USPI**, Go to **Product information management\>Products\>Released products**.
+1.  In the **USPI** company, go to **Product information management \> Products \> Released products**.
 
 2.  Click **New**.
 
@@ -1217,7 +1218,7 @@ You will have to do the following:
 
 16. Click **Save**.
 
-17. Close the page.
+17. **Close** the page.
 
  
 
@@ -1255,7 +1256,8 @@ You will have to do the following:
 
 16. Click **Save**.
 
-17. Close the page.
+17. **Close** the page.
+
 
 18. Click **New**.
 
@@ -1289,7 +1291,7 @@ You will have to do the following:
 
 33. Click **Save**.
 
-34. Close the page.
+34. **Close** the page.
 
  
 
@@ -1325,7 +1327,8 @@ You will have to do the following:
 
 15. Click **Save**.
 
-16. Close the page.
+16. **Close** the page.
+
 
 **Create the new raw material**
 
@@ -1353,13 +1356,14 @@ You will have to do the following:
 
 12. Click **OK**.
 
-13. In the **Production type** field, select None.
+13. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
 
-14. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
+14. Expand the **Engineer** Fast Tab and for the **Production type** field, select **None**.
 
 15. Click **Save**.
 
-16. Close all pages.
+16. **Close** all pages.
+
 
 ### Exercise \#3: Create and activate a formula using different product types
 
@@ -1426,19 +1430,16 @@ You will have to do the following:
 
 10. Click **OK**.
 
-11. In the **Lines** or **header** field, select **Header**.
+11. In the **Lines** or **Header** field, select **Header**.
 
-12. In the version, set **Formula size** to **500**.
+12. In the **Formula versions** grid, set the **Formula size** field to **500.00**.
 
 13. Click **Save**.
 
- 
-
- 
 
 **Add Formula Lines to Formula**
 
-1.  In the **Lines** or **header** field, select **Lines**.
+1.  In the **Lines** or **Header** field, select **Lines**.
 
 2.  Click **New**.
 
@@ -1594,10 +1595,10 @@ You will have to do the following:
 
 14. Click **OK**.
 
-15. In the **Production type** field in the Engineer Fast Tab, select
+15. In the **Production type** field in the Engineer FastTab, select
     **Formula**.
 
-16. In the **Shelf life period in days** field in the Manage inventory Fast Tab,
+16. In the **Shelf life period in days** field in the Manage inventory FastTab,
     type **180**.
 
 17. Click **Save**.
