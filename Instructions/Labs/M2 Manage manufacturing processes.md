@@ -722,28 +722,28 @@ You will have to do the following:
 2.  In the Resource requirements grid, select the line where **Requirement
     type** is Capability and **Requirement** is Assembly.
 
-3.  Click **Delete**, and then click **Yes** to delete the record.
+3.  Select **Delete**, and then choose **Yes** to delete the record.
 
-4.  Click **Maintain resource requirements.** This starts the wizard.
+4.  Select **Maintain resource requirements.** This starts the wizard.
 
-5.  On the welcome screen, click **Next**.
+5.  On the welcome screen, select **Next**.
 
 6.  On the search criteria screen, select **Capability** in the **Requirement
     type** field.
 
 7.  Type **20** in the **Requirement** field.
 
-8.  Click Next.
+8.  Select Next.
 
-9.  On the action screen, leave the defaults and click Next.
+9.  On the action screen, leave the defaults and select Next.
 
 10. On the New resource requirements screen, set **Requirement type** to
     **Capability**, **Requirement** to **20**, and check the **Operation
     scheduling** and **Job scheduling** check boxes.
 
-11. Click **Next**.
+11. Select **Next**.
 
-12. On the summary screen, review your options and click **Finish**.
+12. On the summary screen, review your options and choose **Finish**.
 
 13. Close all pages.
 
