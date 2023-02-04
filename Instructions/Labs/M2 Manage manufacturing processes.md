@@ -773,44 +773,44 @@ You will have to do the following:
 2.  Use the **Quick Filter** to filter on the **Item number** field with a value
     of **D0002**.
 
-3.  In the list, click **D0002** to open the details page.
+3.  In the list, select **D0002** to open the details page.
 
 4.  Expand the **Manage costs** FastTab.
 
-5.  Click **M9 cost group** to open the cost group details page.
+5.  Select **M9 cost group** to open the cost group details page.
 
-6.  Click **Edit**.
+6.  Select **Edit**.
 
 7.  Set **Profit percentage** to **40.00**.
 
-8.  Click **Add**.
+8.  Select **Add**.
 
 9.  In the **Profit-setting** field, select **Profit 1**.
 
 10. Set **Profit percentage** to **70.00**.
 
-11. Click **Save**.
+11. Select **Save**.
 
 12. Close the page.
 
 13. On the Action Pane, click the **Engineer** tab.
 
-14. In the **BOM** group, click **BOM versions**.
+14. In the **BOM** group, select **BOM versions**.
 
-15. Under the Bill of materials lines, click **M0005** to open the **Product
+15. Under the Bill of materials lines, select **M0005** to open the **Product
     information** dialog box.
 
-16. Click **M0005** item number (not product number) to open the **Product
+16. Select **M0005** item number (not product number) to open the **Product
     details** page.
 
-17. Click Cost group **M2** in the Manage costs FastTab to open the **Cost group
+17. Select Cost group **M2** in the Manage costs FastTab to open the **Cost group
     details** page.
 
-18. Click **Edit**.
+18. Select **Edit**.
 
 19. Set **Profit percentage** to **30.00**.
 
-20. Click **Add**.
+20. Select **Add**.
 
 21. In the **Profit-setting** field, select **Profit 1**.
 
@@ -833,7 +833,7 @@ You will have to do the following:
 
 30. In the tree, select **Root\\Cost of Conversion\\Overhead on Conversion\\COC - OVH4 - Labor overhead**.
 
-31. Click on **OVH4**
+31. Select on **OVH4**
 
 32. Set **Profit percentage** to **80.00**.
 
@@ -844,23 +844,23 @@ You will have to do the following:
 35. Use the **Quick Filter** to filter on the **Item number** field with a value
     of **D0002**.
 
-36. Click the **D0002** link to open the product details screen.
+36. Select the **D0002** link to open the product details screen.
 
-37. On the Action Pane, click the **Manage costs** tab.
+37. On the Action Pane, select the **Manage costs** tab.
 
-38. In the **Set up** group, click **Item price**.
+38. In the **Set up** group, choose **Item price**.
 
-39. Click the **Pending prices** tab.
+39. Select the **Pending prices** tab.
 
-40. Click **Calculate item cost**.
+40. Select **Calculate item cost**.
 
 41. In the **Costing version** field, enter or select **10**.
 
-42. Click **OK**.
+42. Select **OK**.
 
-43. Click **View calculation details.**
+43. Select **View calculation details.**
 
-44. Click the **Costing sheet** tab.
+44. Select the **Costing sheet** tab.
 
 45. Analyze the cost breakdown for the cabinet **D0002**.
 
