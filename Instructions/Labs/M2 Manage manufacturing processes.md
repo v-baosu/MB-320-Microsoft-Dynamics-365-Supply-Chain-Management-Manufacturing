@@ -703,9 +703,9 @@ You will have to do the following:
 
 3.  Select the **Route** tab in the Action pan, then in the **Maintain** group, click **Route details**.
 
-4.  Verify operation 10 is selected in the grid of the **Route** form.
+4.  Verify operation 10 is selected in the top grid of the **Route** form.
 
-5.  Select **Applicable Resources**.
+5.  In the bottom grid, select **Applicable Resources**.
 
 6.  Notice that all the resources from the 1210 resource group are listed.
 
@@ -717,35 +717,37 @@ You will have to do the following:
 **To add requirements for a capability to an operation, follow these steps:**
 
 1.  In the **Route details** form for route 000002, with operation 10 selected
-    in the grid, select the **Resource requirements** tab.
+    in the top grid, select the **Resource requirements** tab on the bottom grid.
 
 2.  In the Resource requirements grid, select the line where **Requirement
     type** is Capability and **Requirement** is Assembly.
 
-3.  Select **Delete**, and then choose **Yes** to delete the record.
+3.  Select **Delete**. Note that a message box will appear to confirm the action. Choose **Yes** to delete the record.
 
 4.  Select **Maintain resource requirements.** This starts the wizard.
 
-5.  On the welcome screen, select **Next**.
+5.  On the Welcome screen, select **Next**.
 
-6.  On the search criteria screen, select **Capability** in the **Requirement
+6.  On the Search criteria screen, select **Capability** in the **Requirement
     type** field.
 
-7.  Type **20** in the **Requirement** field.
+7.  Type **20** in the **Requirement** field. 
 
-8.  Select Next.
+8. Accept the default option for resource requirements on activity
 
-9.  On the action screen, leave the defaults and select Next.
+9.  Select Next.
 
-10. On the New resource requirements screen, set **Requirement type** to
+10.  On the Action screen, leave the defaults and select Next.
+
+11. On the New resource requirements screen, set **Requirement type** to
     **Capability**, **Requirement** to **20**, and check the **Operation
     scheduling** and **Job scheduling** check boxes.
 
-11. Select **Next**.
+12. Select **Next**.
 
-12. On the summary screen, review your options and choose **Finish**.
+13. On the summary screen, review your options and choose **Finish**.
 
-13. Close all pages.
+14. Close all pages.
 
 ### Exercise \#12: Configure costing policies
 
