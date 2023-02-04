@@ -698,21 +698,21 @@ You will have to do the following:
 
 1.  Navigate to **Production control \> Operations \> All routes**
 
-2.  Select route **000002** (STANDARD SPEAKER - D0003) by clicking on the link
+2.  Select route **000002** (STANDARD SPEAKER - D0003) by selecting on the link
     for 000002.
 
-3.  Click the **Route** tab in the Action pan, then in the **Maintain** group, click **Route details**.
+3.  Select the **Route** tab in the Action pan, then in the **Maintain** group, click **Route details**.
 
 4.  Verify operation 10 is selected in the grid of the **Route** form.
 
-5.  Click **Applicable Resources**.
+5.  Select **Applicable Resources**.
 
 6.  Notice that all the resources from the 1210 resource group are listed.
 
-7.  Click Scroll one day forward by clicking the **Next day** button or choose
+7.  Scroll one day forward by selecting the **Next day** button or choose
     the date picker field.
 
-8.  Click **OK**. This closes the **Applicable resources** form.
+8.  Select **OK**. This closes the **Applicable resources** form.
 
 **To add requirements for a capability to an operation, follow these steps:**
 
