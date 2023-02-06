@@ -714,55 +714,56 @@ You will have to do the following:
 
 1.  Navigate to **Production control \> Operations \> All routes**
 
-2.  Select route **000002** (STANDARD SPEAKER - D0003) by clicking on the link
+2.  Select route **000002** (STANDARD SPEAKER - D0003) by selecting on the link
     for 000002.
 
-3.  Click the **Route** tab in the Action pan, then in the **Maintain** group, click **Route details**.
+3.  Select the **Route** tab in the Action pan, then in the **Maintain** group, click **Route details**.
 
-4.  Verify operation 10 is selected in the grid of the **Route** form.
+4.  Verify operation 10 is selected in the top grid of the **Route** form.
 
-5.  Click **Applicable Resources**.
+5.  In the bottom grid, select **Applicable Resources**.
 
 6.  Notice that all the resources from the 1210 resource group are listed.
 
-7.  Click Scroll one day forward by clicking the **Next day** button or choose
+7.  Scroll one day forward by selecting the **Next day** button or choose
     the date picker field.
 
-8.  Click **OK**. This closes the **Applicable resources** form.
+8.  Select **OK**. This closes the **Applicable resources** form.
 
 **To add requirements for a capability to an operation, follow these steps:**
 
 1.  In the **Route details** form for route 000002, with operation 10 selected
-    in the grid, select the **Resource requirements** tab.
+    in the top grid, select the **Resource requirements** tab on the bottom grid.
 
 2.  In the Resource requirements grid, select the line where **Requirement
     type** is Capability and **Requirement** is Assembly.
 
-3.  Click **Delete**, and then click **Yes** to delete the record.
+3.  Select **Delete**. Note that a message box will appear to confirm the action. Choose **Yes** to delete the record.
 
-4.  Click **Maintain resource requirements.** This starts the wizard.
+4.  Select **Maintain resource requirements.** This starts the wizard.
 
-5.  On the welcome screen, click **Next**.
+5.  On the Welcome screen, select **Next**.
 
-6.  On the search criteria screen, select **Capability** in the **Requirement
+6.  On the Search criteria screen, select **Capability** in the **Requirement
     type** field.
 
-7.  Type **20** in the **Requirement** field.
+7.  Type **20** in the **Requirement** field. 
 
-8.  Click **Next**.
+8. Accept the default option for resource requirements on activity.
 
-9.  On the action screen, leave the defaults and click **Next**.
+9.  Select **Next**.
 
-10. On the New resource requirements screen, set **Requirement type** to
+10.  On the Action screen, leave the defaults and select Next.
+
+11. On the New resource requirements screen, set **Requirement type** to
     **Capability**, **Requirement** to **20**, and check the **Operation
     scheduling** and **Job scheduling** check boxes.
 
-11. Click **Next**.
+12. Select **Next**.
 
-12. On the summary screen, review your options and click **Finish**.
+13. On the summary screen, review your options and choose **Finish**.
 
-13. **Close** all pages.
-14. 
+14. **Close** all pages.
 
 ### Exercise \#12: Configure costing policies
 
@@ -788,44 +789,44 @@ You will have to do the following:
 2.  Use the **Quick Filter** to filter on the **Item number** field with a value
     of **D0002**.
 
-3.  In the list, click **D0002** to open the details page.
+3.  In the list, select **D0002** to open the details page.
 
 4.  Expand the **Manage costs** FastTab.
 
-5.  Click **M9 cost group** to open the cost group details page.
+5.  Select **M9 cost group** to open the cost group details page.
 
-6.  Click **Edit**.
+6.  Select **Edit**.
 
 7.  Set **Profit percentage** to **40.00**.
 
-8.  Click **Add**.
+8.  Select **Add**.
 
 9.  In the **Profit-setting** field, select **Profit 1**.
 
 10. Set **Profit percentage** to **70.00**.
 
-11. Click **Save**.
+11. Select **Save**.
 
 12. **Close** the page.
 
 13. On the Action Pane, click the **Engineer** tab.
 
-14. In the **BOM** group, click **BOM versions**.
+14. In the **BOM** group, select **BOM versions**.
 
-15. Under the Bill of materials lines, click **M0005** to open the **Product
+15. Under the Bill of materials lines, select **M0005** to open the **Product
     information** dialog box.
 
-16. Click **M0005** item number (not product number) to open the **Released product
+16. Select **M0005** item number (not product number) to open the **Released product
     details** page.
 
-17. Click Cost group **M2** in the Manage costs FastTab to open the **Cost group
+17. Select Cost group **M2** in the Manage costs FastTab to open the **Cost group
     details** page.
 
-18. Click **Edit**.
+18. Select **Edit**.
 
 19. Set **Profit percentage** to **30.00**.
 
-20. Click **Add**.
+20. Select **Add**.
 
 21. In the **Profit-setting** field, select **Profit 1**.
 
@@ -848,7 +849,7 @@ You will have to do the following:
 
 30. In the tree, select **Root\\Cost of Conversion\\Overhead on Conversion\\COC - OVH4 - Labor overhead**.
 
-31. Click on **OVH4** to open the **Cost group**.
+31. Select **OVH4** to open the **Cost group**.
 
 32. Set **Profit percentage** to **80.00**.
 
@@ -859,23 +860,23 @@ You will have to do the following:
 35. Use the **Quick Filter** to filter on the **Item number** field with a value
     of **D0002**.
 
-36. Click the **D0002** link to open the **Released product details** screen.
+36. Select the **D0002** link to open the **Released product details** screen.
 
-37. On the Action Pane, click the **Manage costs** tab.
+37. On the Action Pane, select the **Manage costs** tab.
 
-38. In the **Set up** group, click **Item price**.
+38. In the **Set up** group, choose **Item price**.
 
-39. Click the **Pending prices** tab.
+39. Select the **Pending prices** tab.
 
-40. Click **Calculate item cost**.
+40. Select **Calculate item cost**.
 
 41. In the **Costing version** field, enter or select **10**.
 
-42. Click **OK**.
+42. Select **OK**.
 
-43. Click **View calculation details**.
+43. Select **View calculation details**.
 
-44. Click the **Costing sheet** tab.
+44. Select the **Costing sheet** tab.
 
 45. Analyze the cost breakdown for the cabinet **D0002**.
 
