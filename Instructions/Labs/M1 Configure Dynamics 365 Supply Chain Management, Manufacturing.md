@@ -1,10 +1,10 @@
 ---
 lab:
-    title: 'There is no case study for this module'
+    title: 'There are no case studies for this module'
     module: 'Module 1 Configure Dynamics 365 Supply Chain Management, Manufacturing'
 ---
 
 Module 1 Configure Dynamics 365 Supply Chain Management, Manufacturing
 ======================================================================
 
-There is no exercises for this module
+There are no exercises for this module.
