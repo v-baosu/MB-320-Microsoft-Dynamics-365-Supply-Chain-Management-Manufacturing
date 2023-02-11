@@ -51,38 +51,38 @@ You will have to do the following:
 
 4. Expand the **Credit and collections** FastTab.
 
-5. Click **Edit**. Set **Unlimited credit limit** and **Exclude from credit management** to Yes.
+5. Select **Edit**. Set **Unlimited credit limit** and **Exclude from credit management** to Yes.
 
-6. Click **Save**.
+6. Select **Save**.
 
 
 **Create and confirm a sales order**
 
 1.  Open **Sales and marketing** \> **Sales orders** \> **All Sales orders**.
 
-2.  Click New.
+2.  Select **New**.
 
 3.  Enter or select **US-013** for customer Pelican Wholesales in the **Customer account** field.
 
-4.  Accept the default settings in all other fields. Click OK.
+4.  Accept the default settings in all other fields. Select **OK**.
 
-5.  In the Sales order form, open the Sales order Lines FastTab.
+5.  In the **Sales order** form, open the **Sales order Lines** FastTab.
 
 6.  Enter or select **D0003** in the Item number field.
 
-7.  Enter or select 12 in the Quantity field.
+7.  Enter or select **12** in the **Quantity** field.
 
 8.  Accept the default values for the remaining fields.
 
-9.  Click Save.
+9.  Select **Save**.
 
-10. Click Confirm sales order from the Sell tab in the action pane.
+10. Select **Confirm sales order** from the **Sell** tab in the Action pane.
 
-11. Accept all the default settings in the Confirm sales order form.
+11. Accept all the default settings in the **Confirm sales order** form.
 
-12. Click OK.
+12. Select **OK**.
 
-13. Click OK.
+13. Select **OK**.
 
 14. Close all pages.
 
@@ -90,27 +90,27 @@ You will have to do the following:
 
 1.  Open **Master Planning \> Master Planning \> Run \> Master Planning**.
 
-2.  In the Master plan field, select StaticPlan.
+2.  In the **Master plan** field, select **StaticPlan**.
 
-3.  Click OK.
+3.  Select **OK**.
 
 **Firm a planned order**
 
-1.  Open Master planning \> Master planning \> Planned orders.
+1.  Open **Master planning** \> **Master planning** \> **Planned orders**.
 
-2.  In the Planned orders page, select the line for order number 004261.
+2.  In the **Planned orders** page, select the line for order number **004261**.
 
-3.  Click the Firm button in the action pane.
+3.  Select the **Firm** button in the Action pane.
 
-4.  In the Firming page, in the Update marking field, select Standard.
+4.  In the **Firming** page, in the **Update marking** field, select **Standard**.
 
-5.  Click OK.
+5.  Select **OK**.
 
 **Review the purchase order**
 
 1.  Open **Procurement and sourcing \> Purchase orders \> All purchase orders**.
 
-2.  In the All purchase orders page, sort the list by the Delivery date field.
+2.  In the **All purchase orders** page, sort the list by the **Delivery date** field.
 
 3.  Verify the firmed order is now listed with a status of Open order.
 
@@ -120,20 +120,20 @@ You will have to do the following:
 
 1.  Open **Master planning \> Master planning \> Planned orders**.
 
-2.  In the Planned orders page, select the line for order number 004262.
+2.  In the **Planned orders** page, select the line for order number 004262.
 
-3.  Select the Planned order tab in the action pane.
+3.  Select the **Planned order** tab in the action pane.
 
-4.  Click the Change to drop-down arrow in the Maintain area.
+4.  Select the Change to drop-down arrow in the Maintain area.
 
-5.  Select Planned production order.
+5.  Select **Planned production order**.
 
-6.  In the Change to planned production order page, click OK.
+6.  In the **Change to planned production order** page, select **OK**.
 
 **Review the planned order and verify the change**
 
-1.  In the Planned orders list page, verify that the Reference field has been
-    updated to Planned production orders for order number 004262.
+1.  In the **Planned orders** list page, verify that the Reference field has been
+    updated to Planned production orders for order number **004262**.
 
 2.  Close the pages.
 
@@ -173,17 +173,17 @@ You will have to do the following:
 
 **Create an intercompany planning group**
 
-1.  In the USMF Company, click **Show navigation pane**.
+1.  In the USMF Company, select **Show navigation pane**.
 
 2.  Open **Master planning \> Setup \> Intercompany planning groups**.
 
-3.  Click **New** in the Action pane.
+3.  Select **New** in the Action pane.
 
 4.  Enter **40** in the **Name** field and **Intercompany Extended Group** in the **Description** field.
 
-5.  Click **Save**.
+5.  Select **Save**.
 
-6.  Click **New** on the tool bar for **Intercompany planning group members**
+6.  Select **New** on the tool bar for **Intercompany planning group members**
     tab.
 
 7.  Select **DEMF** in the **Legal entity** field.
@@ -192,10 +192,10 @@ You will have to do the following:
 
 9.  Select **20** in the **Master Plan** field.
 
-10. Leave the **Automatic Copy to Static Plan** and **Automatic Copy to Dynamic
-    Plan** checkboxes blank.
+10. Leave the **Automatic Copy to Static Plan** and **Automatic Copy to Dynamic Plan**
+     checkboxes blank.
 
-11. Click **Save.**
+11. Select **Save.**
 
 **Assign an item allocation key**
 
@@ -207,7 +207,7 @@ You will have to do the following:
 
 4.  Enter or select **Apples Group** in **Name** box.
 
-5.  Click **Next.**
+5.  Select **Next.**
 
 6.  Select **Next** on the **Overview** page after verifying the information is
     correct.
@@ -224,7 +224,7 @@ You will have to do the following:
 
 **Run an intercompany master plan**
 
-1.  In the USMF company, click **Show navigation pane**.
+1.  In the USMF company, select the **Show navigation pane**.
 
 2.  Open **Master planning** \> **Run** \> **Intercompany master planning**.
 
