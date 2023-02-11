@@ -5,6 +5,7 @@ lab:
 ---
 
 Module 2 Manage manufacturing processes
+
 ---------------------------------------
 
 Case study 1A Discrete, Process and Lean manufacturing features
@@ -36,7 +37,7 @@ You will have to do the following:
 
 3.  Set the **Block editing** slider to **Yes** under the **Routes** group.
 
-4.  Click **Save**.
+4.  Select **Save**.
 
 5.  **Close** all pages.
 
@@ -122,12 +123,12 @@ You will have to do the following:
 
 1.  Go to **Organization administration \> Resources \> Resource capabilities**.
 
-2.  Click **New** from the Navigation bar.
+2.  Select **New** from the Navigation bar.
 
 3.  Type **GTL-Assembly** in the **Capability** field and **Assembly** in the
     **Description** field.
 
-4.  Click **New**.
+4.  Select **New**.
 
 5.  Type **GTL-Packing** in the **Capability** field and **Packing** in the
     **Description** field.
@@ -166,7 +167,7 @@ You will have to do the following:
 
 4.  Select **View \> All** from the toolbar.
 
-5.  Click **Add** from the toolbar.
+5.  Select **Add** from the toolbar.
 
 6.  Type GTL-Packing in the **Capability** field.
 
@@ -199,17 +200,17 @@ You will have to do the following:
 
 1. Go to **Production control \> Operations \> All routes**.
 
-2. Click **New**.
+2. Select **New**.
 
-3. In the **Name** field, type **eBook route**.
+3. In the **Name** field, enter or select **eBook route**.
 
 4. In the **Item group** field, enter or select **TV&Video**.
 
-5. Click **Save**.
+5. Select **Save**.
 
-6. Click **Route** on the Action Pane then in the **Maintain** group, select **Route details**.
+6. Select **Route** on the Action Pane then in the **Maintain** group, select **Route details**.
 
-7. Click **New**.
+7. Select **New**.
 
 8. In the **Operation** field, enter or select **Assembly**.
 
@@ -217,7 +218,7 @@ You will have to do the following:
  
 10. In the **Link type** field, select **Soft**.
 
-11. Click **New**.
+11. Select **New**.
 
 12. In the **Oper. No.** field, enter **20**.
 
@@ -227,7 +228,7 @@ You will have to do the following:
 
 15. In the **Link type** field, select **Hard**.
 
-16. Click **New**.
+16. Select **New**.
 
 17. In the **Oper. No**. field, enter **30**.
 
@@ -237,7 +238,7 @@ You will have to do the following:
 
 20. Refresh the page.
 
-21. Click **Save**. 
+21. Select **Save**. 
 
 22. **Close** all pages. 
 
@@ -246,15 +247,15 @@ You will have to do the following:
 
 23. Go to **Production control \> Setup \> Routes \> Operations**.
 
-24. Click **New**.
+24. Select **New**.
 
-25. In the **Operation** field, type **eBook**.
+25. In the **Operation** field, enter or select **eBook**.
 
-26. In the **Name** field, type **eBook assembly**.
+26. In the **Name** field, enter or select **eBook assembly**.
 
-27. Click **Relations**.
+27. Select **Relations**.
 
-28. Click **New**.
+28. Select **New**.
 
 29. In the **Route group** field, enter or select **Discrete**.
 
@@ -266,9 +267,9 @@ You will have to do the following:
 
 33. In the **Route relation** field, enter or select **eBook route** created in previous steps and **Route code** should be set to **Route**.
 
-34. Click **Save**.
+34. Select **Save**.
 
-35. **Close** all pages.
+35. Close all pages.
 
 
 ### Exercise \#5: Create a simple BOM without a version
@@ -305,33 +306,33 @@ You will have to do the following:
 1.  Go to **Product information management \> Bills of materials and formulas \>
     Bills of materials**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Name** field, type **Light Cabinet**.
+3.  In the **Name** field, enter or select **Light Cabinet**.
 
 4.  In the **Site** field, enter or select **1**.
 
 5.  In the **Item group** field, enter or select **Audio**.
 
-6.  Click **Save**.
+6.  Select **Save**.
 
-7.  In the **Bill of materials lines** section, click **New**.
+7.  In the **Bill of materials lines** section, select **New**.
 
-8.  In the **Item number** field, type **M0005**.
+8.  In the **Item number** field, enter or select **M0005**.
 
-9.  Click **New**.
+9.  Select **New**.
 
-10. In the **Item number** field, type **M0006**.
+10. In the **Item number** field, enter or select **M0006**.
 
-11. Click **New**.
+11. Select **New**.
 
-12. In the **Item number** field, type **P0002**.
+12. In the **Item number** field, enter or select **P0002**.
 
-13. Click **Bill of materials** on the Action Pane then in the **Maintain** group, Click **Approval** and select 000020, Julia Funderburk.
+13. Select **Bill of materials** on the Action Pane then in the **Maintain** group, Select **Approval** and choose **000020, Julia Funderburk**.
 
-14. Click **OK**.
+14. Select **OK**.
 
-15. Click **Save**.
+15. Select **Save**.
 
 16. Close all pages.
 
@@ -367,39 +368,39 @@ You will have to do the following:
 1.  Go to **Product information management** \> **Bills of materials and formulas** \>
     **Bills of materials**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Name** field, type **High Quality Speaker**.
+3.  In the **Name** field, enter or select **High Quality Speaker**.
 
-4.  In the **Site** field, type **1**.
+4.  In the **Site** field, enter or select **1**.
 
 5.  In the **Item group** field, enter or select **Audio**.
 
-6.  Click **Bill of materials** on the Action Pane then in the **Maintain** group, click **Designer**.
+6.  Select **Bill of materials** on the Action Pane then in the **Maintain** group, select **Designer**.
 
-7.  Click **Formula lines** on the Action Pane.
+7.  Select **Formula lines** on the Action Pane.
 
 8.  Select **Add to component BOM**.
 
 9.  In the list, find and select **M0008 / High End Cabinet / Black**.
 
-10. Click **OK**.
+10. Select **OK**.
 
-11. Click **Formula lines**.
+11. Select **Formula lines**.
 
-12. Click **Add after line.**
+12. Select **Add after line.**
 
 13. In the list, find and select **M0009 / Protective Corners**.
 
-14. Click **OK**.
+14. Select **OK**.
 
-15. Click **Forumla lines**.
+15. Select **Forumla lines**.
 
-16. Click **Add before line**.
+16. Select **Add before line**.
 
 17. In the list, find and select **M0002 / Mid-Range Speaker Unit**.
 
-18. Click **OK**.
+18. Select **OK**.
 
 19. Close the **Designer** page.
 
@@ -414,7 +415,7 @@ You will have to do the following:
 
 24. Select **000020**, Julia Funderburk.
 
-25. Click **OK**.
+25. Select **OK**.
 
 26. Close all pages.
 
@@ -459,11 +460,11 @@ You will have to do the following:
 
 1.  Go to **Product information management \> Products \> Released products.**
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Product number** field, type **72708**.
+3.  In the **Product number** field, enter or select **72708**.
 
-4.  In the **Product name** field, type **High Quality Speaker Red**.
+4.  In the **Product name** field, enter or select **High Quality Speaker Red**.
 
 5.  In the **Item model group** field, enter or select **FIFO**.
 
@@ -473,65 +474,65 @@ You will have to do the following:
 
 8.  In the **Tracking dimension group** field, enter or select **None**.
 
-9.  Click **OK**.
+9.  Select **OK**.
 
-10. On the Action Pane, click **Manage inventory**.
+10. On the Action Pane, select **Manage inventory**.
 
-11. Click **Default order settings**.
+11. Select **Default order settings**.
 
 12. In the **Default order type** field, select **Production**.
 
-13. Under the **Inventory** FastTab, In the **Default warehouse** field, type
+13. Under the **Inventory** FastTab, In the **Default warehouse** field, enter or select
     **11**.
 
 14. Close the page.
 
-15. On the Action Pane, click **Engineer**.
+15. On the Action Pane, select **Engineer**.
 
-16. Click **Designer**.
+16. Select **Designer**.
 
-17. Click **BOM**.
+17. Select **BOM**.
 
-18. Click **Create version**.
+18. Select **Create version**.
 
-19. In the **Name** field, type **High Quality Speaker Rosewood**.
+19. In the **Name** field, enter or select **High Quality Speaker Rosewood**.
 
 20. Select **Yes** in the **Copy** field.
 
-21. In the **Site** field, type **1**.
+21. In the **Site** field, enter or select **1**.
 
-22. Click **OK**.
+22. Select **OK**.
 
 23. In the **Item number** field, enter or select **D0004**.
 
-24. Click **OK**.
+24. Select **OK**.
 
 25. In the tree, select **Item number: 72708\\M0008 / High End Cabinet**.
 
-26. Click **BOM lines**.
+26. Select **BOM lines**.
 
-27. Click **Delete**.
+27. Select **Delete**.
 
-28. Click **BOM lines**.
+28. Select **BOM lines**.
 
-29. Click **Add before line**.
+29. Select **Add before line**.
 
 30. In the list, find and select **M0008 / High End Cabinet / Rosewood**.
 
-31. Click **OK**.
+31. Select **OK**.
 
 32. In the tree, select **Item number: 72708**.
 
-33. Click **BOM**.
+33. Select **BOM**.
 
-34. Click **BOM versions**.
+34. Select **BOM versions**.
 
-35. Click **Approval**. Select **000020**, Julia Funderburk.
+35. Select **Approval**. Select **000020**, Julia Funderburk.
 
 36. Select **Yes** in the **Do you also want to approve the bill of materials?**
     field.
 
-37. Click **OK**.
+37. Select **OK**.
 
 38. Close all pages.
 
@@ -550,7 +551,7 @@ You will have to do the following:
 
 1.  Go to **Production control \> Production orders \> All production orders**.
 
-2.  Click **New production order**.
+2.  Select **New production order**.
 
 3.  In the **Item number** field, enter or select **72708**.
 
@@ -558,27 +559,27 @@ You will have to do the following:
 
 5.  In the **Time** field, enter **10:15 AM**.
 
-6.  Click **Create**.
+6.  Select **Create**.
 
-7.  Click the **Production order** tab in the Action Pane, then in the **Process** group, click **Estimate**.
+7.  Select the **Production order** tab in the Action Pane, then in the **Process** group, select **Estimate**.
 
-8.  Click **OK**.
+8.  Select **OK**.
 
-9.  Click **Release**.
+9.  Select **Release**.
 
-10. Click **OK**.
+10. Select **OK**.
 
-11. Click **Start**.
+11. Select **Start**.
 
-12. Click **OK**.
+12. Select **OK**.
 
-13. Click **Report as finished**.
+13. Select **Report as finished**.
 
-14. Click **OK**.
+14. Select **OK**.
 
-15. Click **End**.
+15. Select **End**.
 
-16. Click **OK**.
+16. Select **OK**.
 
 17. Close all pages.
 
@@ -601,12 +602,12 @@ You will have to do the following:
 
 #### Steps
 
-1.  Click **Production control \> Production orders \> All production orders**.
+1.  Select **Production control \> Production orders \> All production orders**.
 
 2.  Select any production order with the production order status set to
     **Scheduled** (for example, P000171).
 
-3.  On the **Production order** action pane, click **Start**.
+3.  On the **Production order** action pane, select **Start**.
 
 4.  On the **Overview** tab, in the **Quantity** field, enter the quantity
     **2.00** of the production order to produce.
@@ -616,7 +617,7 @@ You will have to do the following:
 
 6.  Select the **Start production** check box.
 
-7.  Click **OK**.
+7.  Select **OK**.
 
 8.  **Close** all pages.
 
@@ -652,17 +653,17 @@ You will have to do the following:
 1.  Navigate to **Organization administration \> Resources \> Resource
     capabilities**.
 
-2.  Click **New**.
+2.  Select **New**.
 
 3.  Type **20** in the **Capability** field and **Assembly** in the
     **Description** field.
 
-4.  Click **New**.
+4.  Select **New**.
 
 5.  Type **30** in the **Capability** field and **Packing** in the
     **Description** field.
 
-6.  In the **Resources** FastTab, click **Add**.
+6.  In the **Resources** FastTab, select **Add**.
 
 7.  Select **1222** (Speaker packing worker 1) in the **Resource** field.
 
@@ -676,7 +677,7 @@ You will have to do the following:
 
 12. Open **Organization administration \> Resources \> Resources**.
 
-13. Click **New**.
+13. Select **New**.
 
 14. Type **000727** in the **Resource** field.
 
@@ -684,7 +685,7 @@ You will have to do the following:
 
 16. Accept the default of **Machine** in the **Type** field.
 
-17. In the **Capabilities** FastTab, click **Add**.
+17. In the **Capabilities** FastTab, select **Add**.
 
 18. Select 20 in the **Capability** field.
 
@@ -696,11 +697,11 @@ You will have to do the following:
 
 22. Expand the **Resource groups** FastTab.
 
-23. Click **View \> All**.
+23. Select **View \> All**.
 
-24. Click **Add**.
+24. Select **Add**.
 
-25. Type **1210** in the **Resource group** field, type the next working day in
+25. Type **1210** in the **Resource group** field, enter or select the next working day in
     the **Effective** field, and then accept the default expiration date of
     **Never**.
 
@@ -708,7 +709,7 @@ You will have to do the following:
 
 27. Accept the default **Input location**.
 
-28. Scroll up, expand **Calendars** tab, and click **Add**.
+28. Scroll up, expand **Calendars** tab, and select **Add**.
 
 29. Select **24hr** in the **Calendar** field and then accept the default expiration date of **Never**.
 
@@ -721,7 +722,7 @@ You will have to do the following:
 2.  Select route **000002** (STANDARD SPEAKER - D0003) by selecting on the link
     for 000002.
 
-3.  Select the **Route** tab in the Action pane, then in the **Maintain** group, click **Route details**.
+3.  Select the **Route** tab in the Action pane, then in the **Maintain** group, select **Route details**.
 
 4.  Verify operation 10 is selected in the top grid of the **Route** form.
 
@@ -813,7 +814,7 @@ You will have to do the following:
 
 12. Close the page.
 
-13. On the Action Pane, click the **Engineer** tab.
+13. On the Action Pane, select the **Engineer** tab.
 
 14. In the **BOM** group, select **BOM versions**.
 
@@ -913,13 +914,13 @@ You will have to do the following:
 
 3.  In the **Automatic BOM consumption** field, select **Never**.
 
-4.  Click the **Operations** tab.
+4.  Select the **Operations** tab.
 
 5.  Set the **Setup** option to **No**.
 
 6.  In the **Automatic BOM consumption** field, select **Always**.
 
-7.  Click the **Report as finished** tab.
+7.  Select the **Report as finished** tab.
 
 8.  In the **Update finished report on-line** field, select **Quantity**.
 
@@ -949,7 +950,7 @@ You will have to do the following:
 
 2.  From the list, select **Sfc Shop Floor Control Routing Group**.
 
-3.  Click **Edit**.
+3.  Select **Edit**.
 
 4.  On the **General** FastTab, in the **Automatic route consumption** group,
     enable the **Setup time** field.
@@ -987,7 +988,7 @@ You will have to do the following:
 2.  Use the **Quick Filter** to filter on the **Name** field with a value of
     **Shannon**.
 
-3.  Click **Activate on registration terminals** in the **Time** tab of the
+3.  Select **Activate on registration terminals** in the **Time** tab of the
     action pane.
 
 4.  In the **Calculation group** field, enter or select **Man**.
@@ -1006,79 +1007,79 @@ You will have to do the following:
 
 11. Select **Yes** in the **Supervisor options** field.
 
-12. Click **OK**.
+12. Select **OK**.
 
 13. In the list, select **Shannon Dascher** to view the **Employees details** page.
 
-14. Click the **Time registration** tab.
+14. Select the **Time registration** tab.
 
-15. Click **Edit**.
+15. Select **Edit**.
 
-16. In the **Identification** field, type **069**.
+16. In the **Identification** field, enter or select **069**.
 
-17. In the **Badge ID** field, type **069**.
+17. In the **Badge ID** field, enter or select **069**.
 
-18. Click **Save**.
+18. Select **Save**.
 
 19. Close the page.
 
 20. Go to **Production control \> Manufacturing execution \> Job card device**.
 
-21. In the **Personnel number** field, type **069**.
+21. In the **Personnel number** field, enter or select **069**.
 
-22. Click **Log in**.
+22. Select **Log in**.
 
-23. Click **Start job**.
+23. Select **Start job**.
 
 24. Set **Quantity to start** to **1.00**.
 
-25. Click **OK**.
+25. Select **OK**.
 
-26. Click **Report progress**.
+26. Select **Report progress**.
 
 27. Set **Error quantity** to **1.00**.
 
 28. In the **Error cause** field, select **Material**.
 
-29. Click **Complete**.
+29. Select **Complete**.
 
-30. Click **Break**.
+30. Select **Break**.
 
 31. In the list, select **break from work**
 
-32. Click **OK**.
+32. Select **OK**.
 
-33. Click **Stop break**.
+33. Select **Stop break**.
 
-34. Click **Activity**.
+34. Select **Activity**.
 
 35. In the list, find and select **Equipment repair**
 
-36. Click **OK**.
+36. Select **OK**.
 
-37. Click **OK**.
+37. Select **OK**.
 
 38. Set **Error quantity** to **2.00**.
 
 39. In the **Error cause** field, enter **Machine**.
 
-40. Click **Complete**.
+40. Select **Complete**.
 
 41. In the **Job status** field, select **Stopped**.
 
-41. Click **Close**.
+41. Select **Close**.
 
-42. Click **Next job**.
+42. Select **Next job**.
 
-43. Click **Previous job**.
+43. Select **Previous job**.
 
-44. Click **Report progress**.
+44. Select **Report progress**.
 
 45. Set **Good quantity** to **5.00**.
 
 46. In the **Job status** field, enter **Completed**.
 
-47. Click **Complete**.
+47. Select **Complete**.
 
 48. Close the page.
 
@@ -1110,25 +1111,25 @@ You will have to do the following:
 
 3.  In the list, select the item number **M7001** to view the **Released product details** page.
 
-4.  On the Action Pane, click **Purchase**.
+4.  On the Action Pane, select **Purchase**.
 
-5.  In Approved vendor group, click **Setup**.
+5.  In Approved vendor group, select **Setup**.
 
-6.  Click **Add**.
+6.  Select **Add**.
 
-7.  In the **Vendor** field, type **US-113**.
+7.  In the **Vendor** field, enter or select **US-113**.
 
-8.  Click **Save**.
+8.  Select **Save**.
 
 9.  Close the page.
 
 **Set the vendor check method to Warning Only**
 
-1.  On the **Released product details** page, click **Edit**.
+1.  On the **Released product details** page, select **Edit**.
 
 2.  Expand the **Purchase** FastTab, set the **Approved vendor check method** field from **No check** to **Warning only**.
 
-3.  Click **Save**.
+3.  Select **Save**.
 
 4.  **Close** the page.
 
@@ -1192,11 +1193,11 @@ You will have to do the following:
 
 1.  In **USPI**, go to **Product information management \> Products \> Released products**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Product number** field, type P15000.
+3.  In the **Product number** field, enter or select P15000.
 
-4.  In the **Product name** field, type Gasoline.
+4.  In the **Product name** field, enter or select Gasoline.
 
 5.  In the **Item model group** field, enter or select a value. (Note: For prioritized consumption on limited shelf life, FEFO is recommended.)
 
@@ -1206,21 +1207,21 @@ You will have to do the following:
 
 8.  In the **Tracking dimension group** field, enter or select a value. (Note: To use the shelf-life settings on the released products details page on the General FastTab, set the **Tracking dimension group** field to a tracking dimension group that is set up to track the batch dimension. You can set this field only when you're first creating a product.  If the dimension value is set to **None**, the option to edit the shelf life field will be disabled. You can't change the value for existing products.)
 
-9.  In the **Inventory unit** field, type **gal**.
+9.  In the **Inventory unit** field, enter or select **gal**.
 
-10. In the **Purchase unit** field, type **gal**. (Note: you may need to change the dropdown in the selection menu to **All**.)
+10. In the **Purchase unit** field, enter or select **gal**. (Note: you may need to change the dropdown in the selection menu to **All**.)
 
-11. In the **Sales unit** field, type **gal**. (Note: you may need to change the dropdown in the selection menu to **All**.)
+11. In the **Sales unit** field, enter or select **gal**. (Note: you may need to change the dropdown in the selection menu to **All**.)
 
-12. In the **BOM unit** field, type **gal**. (Note: you may need to change the dropdown in the selection menu to **All**.)
+12. In the **BOM unit** field, enter or select **gal**. (Note: you may need to change the dropdown in the selection menu to **All**.)
 
-13. Click **OK**.
+13. Select **OK**.
 
 14. Expand the **Engineer** Fast Tab and select **Formula** in the **Production type** field.
 
 15. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
 
-16. Click **Save**.
+16. Select **Save**.
 
 17. Close the page.
 
@@ -1228,7 +1229,7 @@ You will have to do the following:
 
 **Create the new co-products**
 
-1.  Click **New**.
+1.  Select **New**.
 
 2.  In the **Product number** field, enter **P16000**.
 
@@ -1242,15 +1243,15 @@ You will have to do the following:
 
 7.  In the **Tracking dimension group** field, enter or select a value.
 
-8.  In the **Inventory unit** field, type **gal**.
+8.  In the **Inventory unit** field, enter or select **gal**.
 
-9.  In the **Purchase unit** field, type **gal**.
+9.  In the **Purchase unit** field, enter or select **gal**.
 
-10. In the **Sales unit** field, type **gal**. 
+10. In the **Sales unit** field, enter or select **gal**. 
 
-11. In the **BOM unit** field, type **gal**.
+11. In the **BOM unit** field, enter or select **gal**.
 
-12. Click **OK**.
+12. Select **OK**.
 
 13. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
 
@@ -1258,16 +1259,16 @@ You will have to do the following:
 
 15. In the **Planning formula** field, enter **P15000**.
 
-16. Click **Save**.
+16. Select **Save**.
 
 17. Close the page.
 
 
-18. Click **New**.
+18. Select **New**.
 
-19. In the **Product number** field, type **P17000**.
+19. In the **Product number** field, enter or select **P17000**.
 
-20. In the **Product name** field, type **Diesel Fuel**.
+20. In the **Product name** field, enter or select **Diesel Fuel**.
 
 21. In the **Item model group** field, enter or select a value.
 
@@ -1277,15 +1278,15 @@ You will have to do the following:
 
 24. In the **Tracking dimension group** field, enter or select a value.
 
-25. In the **Inventory unit** field, type **gal**.
+25. In the **Inventory unit** field, enter or select **gal**.
 
-26. In the **Purchase unit** field, type **gal**.
+26. In the **Purchase unit** field, enter or select **gal**.
 
-27. In the **Sales unit** field, type **gal**.
+27. In the **Sales unit** field, enter or select **gal**.
 
 28. In the **BOM unit** field, type **gal**.
 
-29. Click **OK**.
+29. Select **OK**.
 
 30. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
 
@@ -1293,7 +1294,7 @@ You will have to do the following:
 
 32. In the **Planning formula** field, enter **P15000**.
 
-33. Click **Save**.
+33. Select **Save**.
 
 34. Close the page.
 
@@ -1301,11 +1302,11 @@ You will have to do the following:
 
 **Create the new by-products**
 
-1.  Click New.
+1.  Select New.
 
-2.  In the **Product number** field, type **P18000**.
+2.  In the **Product number** field, enter or select **P18000**.
 
-3.  In the **Product name** field, type **Waste Water**.
+3.  In the **Product name** field, enter or select **Waste Water**.
 
 4.  In the **Item model** group field, enter or select a value.
 
@@ -1315,32 +1316,32 @@ You will have to do the following:
 
 7.  In the **Tracking dimension group** field, enter or select a value.
 
-8.  In the **Inventory unit** field, type **gal**.
+8.  In the **Inventory unit** field, enter or select **gal**.
 
-9.  In the **Purchase unit** field, type **gal**.
+9.  In the **Purchase unit** field, enter or select **gal**.
 
-10. In the **Sales unit** field, type **gal**.
+10. In the **Sales unit** field, enter or select **gal**.
 
 11. In the **BOM unit** field, type **gal**.
 
-12. Click **OK**.
+12. Select **OK**.
 
 13. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
 
 14. Expand the **Engineer** Fast Tab and select **By-product** in the **Production type** field.
 
-15. Click **Save**.
+15. Select **Save**.
 
 16. Close the page.
 
 
 **Create the new raw material**
 
-1.  Click **New**.
+1.  Select **New**.
 
-2.  In the **Product number** field, type **M12000**.
+2.  In the **Product number** field, enter or select **M12000**.
 
-3.  In the **Product name** field, type **Crude Oil**.
+3.  In the **Product name** field, enter or select **Crude Oil**.
 
 4.  In the **Item model group** field, enter or select a value.
 
@@ -1350,21 +1351,21 @@ You will have to do the following:
 
 7.  In the **Tracking dimension group** field, enter or select a value.
 
-8.  In the **Inventory unit** field, type **gal**.
+8.  In the **Inventory unit** field, enter or select **gal**.
 
-9.  In the **Purchase unit** field, type **gal**.
+9.  In the **Purchase unit** field, enter or select **gal**.
 
-10. In the **Sales unit** field, type **gal**.
+10. In the **Sales unit** field, enter or select **gal**.
 
-11. In the **BOM unit** field, type **gal**.
+11. In the **BOM unit** field, enter or select **gal**.
 
-12. Click **OK**.
+12. Select **OK**.
 
 13. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
 
 14. In the **Production type** field, select None.
 
-15. Click **Save**.
+15. Select **Save**.
 
 16. Close all pages.
 
@@ -1417,59 +1418,59 @@ You will have to do the following:
     field with a value of **p15000**. Note the lowercase – it is not case
     sensitive.
 
-3.  Click the ellipsis, if needed, to get to the **Engineer** tab on the action
+3.  Select the ellipsis, if needed, to get to the **Engineer** tab on the action
     pane.
 
-4.  Click **Formula versions**.
+4.  Select **Formula versions**.
 
-5.  Click **New**.
+5.  Select **New**.
 
-6.  Click **Formula and formula version**.
+6.  Select **Formula and formula version**.
 
-7.  In the **Formula number** field, type **GAS001**.
+7.  In the **Formula number** field, enter or select **GAS001**.
 
-8.  In the **Name** field, type **Gasoline**.
+8.  In the **Name** field, enter or select **Gasoline**.
 
 9.  In the **Site** field, enter or select **1**.
 
-10. Click **OK**.
+10. Select **OK**.
 
 11. In the **Lines** or **Header** field, select **Header**.
 
 12. In the **Formula versions** grid, set the **Formula size** field to **500.00**.
 
-13. Click **Save**.
+13. Select **Save**.
 
 
 **Add Formula Lines to Formula**
 
 1.  In the **Lines** or **Header** field, select **Lines**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Item number** field, type **M12000**. (Note: When you click **New**, you may need to change the dropdown in the selection menu to **Other**, select the Item number and then click **Ok**.)
+3.  In the **Item number** field, enter or select **M12000**. (Note: When you select **New**, you may need to change the dropdown in the selection menu to **Other**, select the Item number and then select **Ok**.)
 
 4.  In the **Warehouse** field, enter or select a value.
 
 5.  Set **Quantity** to **1000**.
 
-6.  Click **New**.
+6.  Select **New**.
 
-7.  In the **Item number** field, type **M2001**. (Note: When you click **New**, you may need to change the dropdown in the selection menu to **Other**, select the Item number and then click **Ok**.)
+7.  In the **Item number** field, enter or select **M2001**. (Note: When you select **New**, you may need to change the dropdown in the selection menu to **Other**, select the Item number and then select **Ok**.)
 
 8.  Set **Quantity** to **600**.
 
-9.  Click **Save**.
+9.  Select **Save**.
 
 10. Close the page.
 
 **Add Co-Products and By-Products with Cost Allocation**
 
-1.  In the Action bar, click **Formula version* and then click **Co-products**.
+1.  In the Action bar, select **Formula version* and then select **Co-products**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Item number** field, type **P16000**.
+3.  In the **Item number** field, enter or select **P16000**.
 
 4.  In the **Warehouse** field, enter or select a value.
 
@@ -1479,13 +1480,13 @@ You will have to do the following:
 
 7.  Set **Cost allocation percent** to **10**.
 
-8.  Click **Save**.
+8.  Select **Save**.
 
-9.  Click **New**.
+9.  Select **New**.
 
-10. In the **Product type** dropdown, select **By-product**. In the **Item number** field, type **P17000**.
+10. In the **Product enter or select** dropdown, select **By-product**. In the **Item number** field, enter or select **P17000**.
 
-11. In the **Warehouse** field, type **11**.
+11. In the **Warehouse** field, enter or select **11**.
 
 12. Set **Quantity** to 350.
 
@@ -1493,13 +1494,13 @@ You will have to do the following:
 
 14. Set **Cost allocation percent** to **32**.
 
-15. Click **Save**.
+15. Select **Save**.
 
-16. Click **New**.
+16. Select **New**.
 
-17. In the **Item number** field, type **P18000**.
+17. In the **Item number** field, enter or select **P18000**.
 
-18. In the **Warehouse** field, type a value.
+18. In the **Warehouse** field, enter or select a value.
 
 19. Set **Quantity** to **600**.
 
@@ -1507,21 +1508,21 @@ You will have to do the following:
 
 21. Set **By-product burden amount** to **5**.
 
-22. Click **Save**.
+22. Select **Save**.
 
 23. Close the page.
 
 **Approve and activate the formula**
 
-1.  Click **Formula version** and then click **Approval**.
+1.  Select **Formula version** and then select **Approval**.
 
 2.  In the **Approved by** field, enter or select **000528** for Glen John.
 
 3.  Slide the toggle button to **Yes** for **Do you also want to approve the formula?** option.
 
-4.  Click **OK**.
+4.  Select **OK**.
 
-5.  Click **Activate**.
+5.  Select **Activate**.
 
 6.  Close the page.
 
@@ -1573,13 +1574,13 @@ You will have to do the following:
 1.  In the **USP2** company go to **Product information
     management\>Products\>Released products**
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Product number** field, type **P7100**.
+3.  In the **Product number** field, enter or select **P7100**.
 
-4.  In the **Product name** field, type **Frozen Apple Juice Concentrate**.
+4.  In the **Product name** field, enter or select **Frozen Apple Juice Concentrate**.
 
-5.  In the **Search name** field, type **FrozenAppleJuice**.
+5.  In the **Search name** field, enter or select **FrozenAppleJuice**.
 
 6.  In the **Item model group** field, enter or select a value.
 
@@ -1591,38 +1592,38 @@ You will have to do the following:
 
 10. In the **Inventory unit** field, enter **lb**.
 
-11. In the **Purchase unit** field, type **lb**.
+11. In the **Purchase unit** field, enter or select **lb**.
 
-12. In the **Sales unit** field, type **lb**.
+12. In the **Sales unit** field, enter or select **lb**.
 
-13. In the **BOM unit** field, type **lb**.
+13. In the **BOM unit** field, enter or select **lb**.
 
-14. Click **OK**.
+14. Select **OK**.
 
 15. In the **Production type** field in the Engineer FastTab, select
     **Formula**.
 
 16. In the **Shelf life period in days** field in the Manage inventory FastTab,
-    type **180**.
+    enter or select **180**.
 
-17. Click **Save**.
+17. Select **Save**.
 
  
 **Create a formula**
 
-1.  Click **Formula versions** in the Engineer tab in the action pane.
+1.  Select **Formula versions** in the Engineer tab in the action pane.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  Click **Formula and formula version**.
+3.  Select **Formula and formula version**.
 
-4.  In the **Formula** number field, type **FOR-7100**.
+4.  In the **Formula** number field, enter or select **FOR-7100**.
 
-5.  In the **Name** field, type **For making Frozen Apple Juice Concentrate**.
+5.  In the **Name** field, enter or select **For making Frozen Apple Juice Concentrate**.
 
 6.  In the **Site** field, enter or select **1**.
 
-7.  Click **OK**.
+7.  Select **OK**.
 
 **Create formula lines**
 
@@ -1634,61 +1635,61 @@ You will have to do the following:
 
 4.  In the **Lines** or **header** field, select **Lines**.
 
-5.  In the Formula lines fast tab, click **New**.
+5.  In the Formula lines fast tab, select **New**.
 
-6.  In the **Item number** field, type **M9103**. (Note: When you click New, you may need to change the dropdown in the selection menu to **Other**, select the Item number and then click Ok.)
+6.  In the **Item number** field, enter or select **M9103**. (Note: When you select New, you may need to change the dropdown in the selection menu to **Other**, select the Item number and then select Ok.)
 
 7.  Set **Quantity** to **800**.
 
-8.  Click **New**.
+8.  Select **New**.
 
-9.  In the **Item number** field, type **M8001**.
+9.  In the **Item number** field, enter or select **M8001**.
 
 10. Set **Quantity** to **660**.
 
-11. Click **New**.
+11. Select **New**.
 
-12. In the **Item number** field, type **M8003**.
+12. In the **Item number** field, enter or select **M8003**.
 
 13. Set **Quantity** to **40**.
 
-14. Click **New**.
+14. Select **New**.
 
-15. In the **Item number** field, type **M8004**.
+15. In the **Item number** field, enter or select **M8004**.
 
 16. Set **Quantity** to **18**.
 
-17. Click **New**.
+17. Select **New**.
 
-18. In the **Item number** field, type **M7003**.
+18. In the **Item number** field, enter or select **M7003**.
 
 19. Set **Quantity** to **33**.
 
-20. Click **New**.
+20. Select **New**.
 
-21. In the **Item number** field, type **M8008**.
+21. In the **Item number** field, enter or select **M8008**.
 
 22. Set **Quantity** to **2400**.
 
-23. Click **Save**.
+23. Select **Save**.
 
 **Approve and activate the formula**
 
-1.  Click **Formula** and then click **Approve formula**.
+1.  Select **Formula** and then select **Approve formula**.
 
 2.  In the **Approved by** field, enter or select **000528** for Glen John.
 
-3.  Click **OK**.
+3.  Select **OK**.
 
 4.  In the **Lines** or **Header** field, select **Header**.
 
-5.  Click **Approval** in the versions section.
+5.  Select **Approval** in the versions section.
 
 6.  In the **Approved by** field, enter or select **000528** for Glen John.
 
-7.  Click **OK**.
+7.  Select **OK**.
 
-8.  Click **Activate**.
+8.  Select **Activate**.
 
 9.  Close the page.
 
@@ -1719,28 +1720,28 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the Item number field with a value of
     **P8000**.
 
-3.  In the list, click the link in the selected row.
+3.  In the list, select the link in the selected row.
 
-4.  Click **Formula versions** in the Engineer tab on the action pane.
+4.  Select **Formula versions** in the Engineer tab on the action pane.
 
-5.  Click **New**.
+5.  Select **New**.
 
-6.  Click **Formula and formula version**.
+6.  Select **Formula and formula version**.
 
-7.  In the **Formula number** field, type **F01**.
+7.  In the **Formula number** field, enter or select **F01**.
 
-8.  In the **Name** field, type **V01**.
+8.  In the **Name** field, enter or select **V01**.
 
 9.  Set the **Copy** to **Yes**.
 
 10. In the **Site** field, enter or select **1**.
 
-11. Click **OK**.
+11. Select **OK**.
 
 12. In the **Formula version** field, select the previous formula version
     **For-00002**.
 
-13. Click **OK**.
+13. Select **OK**.
 
 **Update the line**
 
@@ -1748,11 +1749,11 @@ You will have to do the following:
 
 2.  Set **Quantity** to **0.35**.
 
-3.  Expand the Line details Fast Tab then click the **Setup** tab.
+3.  Expand the Line details Fast Tab then select the **Setup** tab.
 
 4.  In the **Variable scrap** field, enter a number.
 
-5.  Click **Save**.
+5.  Select **Save**.
 
 6.  Close the page.
 
@@ -1762,31 +1763,31 @@ You will have to do the following:
 
 2.  In the **To date** field, set the date to **12/14/2020**.
 
-3.  Click **Save**.
+3.  Select **Save**.
 
 4.  In the list, find and select the new formula version **F01**.
 
 5.  In the **From date** field, set the date to **12/15/2020**.
 
-6.  Click **Save**.
+6.  Select **Save**.
 
 **Approve and activate the formula**
 
-1.  Click **Formulas** \> **Formula**.
+1.  Select **Formulas** \> **Formula**.
 
-2.  Click **Approve formula**.
+2.  Select **Approve formula**.
 
 3.  In the **Approved by** field, enter or select a value.
 
 4.  Close the screen to go back to the Formula versions screen.
 
-5.  Click **Formula version** \> **Approval**.
+5.  Select **Formula version** \> **Approval**.
 
 6.  In the **Approved by** field, enter or select a value.
 
-7.  Click **OK**.
+7.  Select **OK**.
 
-8.  Click **Activate**.
+8.  Select **Activate**.
 
 9.  Close the page.
 
@@ -1821,27 +1822,27 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the **Item number** field with a value of
     **P9500**.
 
-3.  In the list, click the link in the selected row.
+3.  In the list, select the link in the selected row.
 
-4.  Click **Formula versions** in the Engineer tab in the action pane.
+4.  Select **Formula versions** in the Engineer tab in the action pane.
 
-5.  Click **New**.
+5.  Select **New**.
 
-6.  Click **Formula and formula version**.
+6.  Select **Formula and formula version**.
 
-7.  In the **Formula number** field, type **P9500V0**.
+7.  In the **Formula number** field, enter or select **P9500V0**.
 
-8.  In the **Name** field, type **V0**.
+8.  In the **Name** field, enter or select **V0**.
 
 9.  Select the **Copy** option.
 
 10. In the **Site** field, enter or select **1**.
 
-11. Click **OK**.
+11. Select **OK**.
 
 12. In the **Formula version** field, select the current version.
 
-13. Click **OK**.
+13. Select **OK**.
 
 **Verify the lines are flagged as scalable for P9500 (except for the vitamin
 compounds)**
@@ -1850,7 +1851,7 @@ compounds)**
 
 2.  Select or clear the **Scalable** check boxes.
 
-3.  Click **Save**.
+3.  Select **Save**.
 
  
 
@@ -1862,29 +1863,29 @@ compounds)**
 
 3.  Set **From formula size** to **1500**.
 
-4.  Click **Save**.
+4.  Select **Save**.
 
 **Approve and activate the formula**
 
 1.  In the Lines or header field, select **lines**.
 
-2.  Click **Save**.
+2.  Select **Save**.
 
-3.  Click **Approve formula**.
+3.  Select **Approve formula**.
 
 4.  In the **Approved by** field, enter or select a value.
 
-5.  Click **OK**.
+5.  Select **OK**.
 
 6.  In the **Lines or header** field, select **header**.
 
-7.  Click **Approval** in the **Versions** grid.
+7.  Select **Approval** in the **Versions** grid.
 
 8.  In the **Approved by** field, enter or select a value.
 
-9.  Click **OK**.
+9.  Select **OK**.
 
-10. Click **Activate**.
+10. Select **Activate**.
 
 11. Close the page.
 
@@ -1929,13 +1930,13 @@ You will have to do the following:
 1.  In the **USP2** company go to **Product information
     management\>Products\>Released products**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Product number** field, type **'P6100'**.
+3.  In the **Product number** field, enter or select **'P6100'**.
 
-4.  In the **Product name** field, type ‘**Orange Juice'**.
+4.  In the **Product name** field, enter or select ‘**Orange Juice'**.
 
-5.  In the **Search name** field, type **'Orange Juice'**.
+5.  In the **Search name** field, enter or select **'Orange Juice'**.
 
 6.  In the **Item model group** field, enter or select a value.
 
@@ -1945,15 +1946,15 @@ You will have to do the following:
 
 9. In the **Tracking dimension group** field, enter or select a value.
 
-10. In the **Inventory unit** field, type **gal**.
+10. In the **Inventory unit** field, enter or select **gal**.
 
-11. In the **Purchase unit** field, type **gal**.
+11. In the **Purchase unit** field, enter or select **gal**.
 
-12. In the **Sales unit** field, type **gal**.
+12. In the **Sales unit** field, enter or select **gal**.
 
-13. In the **BOM unit** field, type **gal**.
+13. In the **BOM unit** field, enter or select **gal**.
 
-14. Click **OK**.
+14. Select **OK**.
 
 15. In the **Production type** field in the Engineer Fast Tab, select
     **'Formula'**.
@@ -1961,7 +1962,7 @@ You will have to do the following:
 16. In the **Shelf life period in days** field in the Manage inventory Fast Tab,
     enter 180.
 
-17. Click **Save**.
+17. Select **Save**.
 
  
 
@@ -1972,27 +1973,27 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the Item number field with a value of
     **'P9500'**.
 
-3.  In the list, click the link in the selected row.
+3.  In the list, select the link in the selected row.
 
-4.  Click **Formula versions** in the Engineer tab in the action pane.
+4.  Select **Formula versions** in the Engineer tab in the action pane.
 
-5.  Click **New**.
+5.  Select **New**.
 
-6.  Click **Formula and formula version**.
+6.  Select **Formula and formula version**.
 
-7.  In the **Formula number** field, type a value.
+7.  In the **Formula number** field, enter or select a value.
 
-8.  In the **Name** field, type a value.
+8.  In the **Name** field, enter or select a value.
 
 9.  Select the **Copy** option.
 
 10. In the **Site** field, enter or select **1**.
 
-11. Click **OK**.
+11. Select **OK**.
 
 12. In the **Formula version** field, select the current version.
 
-13. Click **OK**.
+13. Select **OK**.
 
 **Verify the lines are flagged as scalable for P9500 (except for the vitamin
 compounds)**
@@ -2001,7 +2002,7 @@ compounds)**
 
 2.  Select or clear the **Scalable** check boxes.
 
-3.  Click **Save**.
+3.  Select **Save**.
 
 **Update the formula size**
 
@@ -2011,29 +2012,29 @@ compounds)**
 
 3.  Set the version’s **From formula size** to **'1500'**.
 
-4.  Click **Save**.
+4.  Select **Save**.
 
 **Approve and activate the formula**
 
 1.  In the Lines or header field, select **lines**.
 
-2.  Click **Save**.
+2.  Select **Save**.
 
-3.  Click **Approve formula**.
+3.  Select **Approve formula**.
 
 4.  In the **Approved by** field, enter or select a value.
 
-5.  Click **OK**.
+5.  Select **OK**.
 
 6.  In the Lines or header field, select **header**.
 
-7.  Click **Approve** in the **Versions** grid.
+7.  Select **Approve** in the **Versions** grid.
 
 8.  In the **Approved by** field, enter or select a value.
 
-9.  Click **OK**.
+9.  Select **OK**.
 
-10. Click **Activate**.
+10. Select **Activate**.
 
 11. Close all pages.
 
@@ -2077,54 +2078,54 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the **Item number** field with a value of
     **P9500**.
 
-3.  In the list, click the link in the selected row for **P9500**.
+3.  In the list, select the link in the selected row for **P9500**.
 
-4.  Click **Engineer** \> **Formula** \> **Formula versions**.
+4.  Select **Engineer** \> **Formula** \> **Formula versions**.
 
-5.  Click **New**.
+5.  Select **New**.
 
-6.  Click **Formula and formula version**.
+6.  Select **Formula and formula version**.
 
-7.  In the **Formula number** field, type **P9500V1**.
+7.  In the **Formula number** field, enter or select **P9500V1**.
 
-8.  In the **Name** field, type **V1**.
+8.  In the **Name** field, enter or select **V1**.
 
 9.  Select the **Copy** option.
 
 10. In the **Site** field, enter or select 1.
 
-11. Click **OK**.
+11. Select **OK**.
 
 12. In the **Formula version** field, select the current version
 
-13. Click **OK**. 
+13. Select **OK**. 
 
 **Set the line for M9003 in the new formula to step-wise consumption and set the
 step levels**
 
 1.  In the lines, find the line for **M9003**.
 
-2.  Click the **Setup** tab in line details.
+2.  Select the **Setup** tab in line details.
 
 3.  In the **Formula** field, select **Step**.
 
-4.  Click the **Step consumption** tab.
+4.  Select the **Step consumption** tab.
 
 5.  Set **Quantity** to **5.5**.
 
-6.  Click **New**.
+6.  Select **New**.
 
 7.  Set **From series** to **1400**.
 
 8.  Set **Quantity** to **10.6**.
 
-9.  Click **New**.
+9.  Select **New**.
 
 10. Set **From series** to **2400**.
 
 11. Set **Quantity** to **15.8**.
 
-12. Click **Save**.
+12. Select **Save**.
 
 13. Close all pages.
 
@@ -2135,35 +2136,35 @@ step levels**
 2.  Use the Quick Filter to filter on the **Item number** field with a value of
     **P9500**.
 
-3.  In the list, click the link in the selected row for **P9500**.
+3.  In the list, select the link in the selected row for **P9500**.
 
-4.  Click Engineer \> Formula \> **Formula versions**.
+4.  Select Engineer \> Formula \> **Formula versions**.
 
 5.  In the list, find and select the old formula.
 
-6.  Click **Edit**.
+6.  Select **Edit**.
 
 7.  In the **To date** field, set the date to **12/27/2016**.
 
-8.  Click **Save**.
+8.  Select **Save**.
 
 9.  In the list, find and select the new formula.
 
 10. In the **From date** field, set the date to **12/28/2016**.
 
-11. Click **Save**.
+11. Select **Save**.
 
 **Approve and activate the formula**
 
-1.  Click **Approve**.
+1.  Select **Approve**.
 
 2.  In the **Approved by** field, enter or select an employee.
 
 3.  Select the **Do you also want to approve the formula?** option.
 
-4.  Click **OK**.
+4.  Select **OK**.
 
-5.  Click **Activate**.
+5.  Select **Activate**.
 
 ### Exercise \#9: Set up commodity pricing (Bonus)
 
@@ -2208,7 +2209,7 @@ You will have to do the following:
 
 5.  Select **Edit**.
 
-6.  In the **Default order type** field, select **Production**.
+6.  In the **Default order enter** field, select **Production**.
 
 7.  Select **Save**.
 
@@ -2219,13 +2220,13 @@ You will have to do the following:
 1.  Go to **Inventory management \> Setup \> Commodity pricing \> Cost basis
     type.**
 
-2.  Click **New** if necessary.
+2.  Select **New** if necessary.
 
-3.  In the **Cost** basis type field, type **NYMEX**.
+3.  In the **Cost** basis type field, enter **NYMEX**.
 
-4.  In the **Description** field, type **New York Mercantile Exchange**.
+4.  In the **Description** field, enter **New York Mercantile Exchange**.
 
-5.  Click **Save**.
+5.  Select **Save**.
 
 6.  Close the page.
 
@@ -2236,34 +2237,34 @@ You will have to do the following:
 1.  Go to **Inventory management \> Setup \> Commodity pricing \> Pricing
     template**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Pricing template** field, type **Apples**.
+3.  In the **Pricing template** field, enter **Apples**.
 
-4.  In the **Description** field, type **Apples**.
+4.  In the **Description** field, enter **Apples**.
 
-5.  Click **Save**.
+5.  Select **Save**.
 
  
 
 **Create a quantity and margin template**
 
-1.  Click **Quantity and margin template**.
+1.  Select **Quantity and margin template**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Item relation** field, type **P9100**.
+3.  In the **Item relation** field, enter **P9100**.
 
-4.  In the **Site** field, type **1**.
+4.  In the **Site** field, enter **1**.
 
 5.  Set **Cost multiplier** to **1.25**.
 
 6.  Set **Margin percentage** to **45**.
 
-7.  In the **Warehouse** field, type **12**. If its not visible, find it in the
+7.  In the **Warehouse** field, enter **12**. If its not visible, find it in the
     Dimension fast tab.
 
-8.  Click **Save**.
+8.  Select **Save**.
 
 9.  Close the page.
 
@@ -2272,7 +2273,7 @@ You will have to do the following:
 1.  Go to **Inventory management \> Setup \> Inventory and warehouse management
     parameters**.
 
-2.  Click the **Commodity pricing** tab.
+2.  Select the **Commodity pricing** tab.
 
 3.  In the **Dimension set** field, enter or select **MA+BU**.
 
@@ -2280,23 +2281,23 @@ You will have to do the following:
 
 5.  Select **Yes** in the **Keep BOM/Formula calculations** field.
 
-6.  Right click **Trade agreement** and view details.
+6.  Right select **Trade agreement** and view details.
 
-7.  Click **New**.
+7.  Select **New**.
 
-8.  In the **Name** field, type **Price_S**.
+8.  In the **Name** field, enter **Price_S**.
 
-9.  In the **Description** field, type **Sales Price Adjustment Journal**.
+9.  In the **Description** field, enter **Sales Price Adjustment Journal**.
 
 10. In the **Relation** field, select **Price (sales)**.
 
-11. Click **Save**.
+11. Select **Save**.
 
 12. Close the page.
 
 13. In the **Trade agreement** field, enter or select **Price_S**.
 
-14. Click **Save**.
+14. Select **Save**.
 
 15. Close the page.
 
@@ -2305,7 +2306,7 @@ You will have to do the following:
 1.  Go to **Inventory management \> Periodic tasks \> Commodity pricing \>
     Pricing calculation.**
 
-2.  Click **New**.
+2.  Select **New**.
 
 3.  Note that the **Cost basis type** field is set to **NYMEX**.
 
@@ -2313,7 +2314,7 @@ You will have to do the following:
 
 5.  In the **Run expiry date** field, enter a date in the future.
 
-6.  Click **Save**.
+6.  Select **Save**.
 
 7.  Close the page.
 
@@ -2344,7 +2345,7 @@ You will have to do the following:
 
 3.  In the Pricing template field, enter or select **Apples**.
 
-4.  Click **OK**.
+4.  Select **OK**.
 
 **Review the price calculation data and create trade agreements**
 
@@ -2352,21 +2353,21 @@ You will have to do the following:
     margin update**.
 
 2.  If the price calculations completed successfully, you will see your new
-    pricing. Click **Lines**.
+    pricing. Select **Lines**.
 
-3.  Click **Update trade agreements**.
+3.  Select **Update trade agreements**.
 
-4.  Click **OK**.
+4.  Select **OK**.
 
 5.  Close the page.
 
 6.  In the list, find and select the desired record.
 
-7.  Click **Lines**.
+7.  Select **Lines**.
 
-8.  Click **Update trade agreements**.
+8.  Select **Update trade agreements**.
 
-9.  Click **OK**.
+9.  Select **OK**.
 
 10. Close the page.
 
@@ -2375,17 +2376,17 @@ You will have to do the following:
 1.  Go to **Sales and marketing \> Prices and discounts \> Trade agreement
     journals**.
 
-2.  Click **Lines**.
+2.  Select **Lines**.
 
-3.  Click **Post**.
+3.  Select **Post**.
 
-4.  Click **OK.**
+4.  Select **OK.**
 
-5.  Click **Lines**.
+5.  Select **Lines**.
 
-6.  Click **Post**.
+6.  Select **Post**.
 
-7.  Click **OK**.
+7.  Select **OK**.
 
 8.  Close the page.
 
@@ -2414,11 +2415,11 @@ You will have to do the following:
 1.  Go to **Inventory management \> Periodic tasks \> Commodity pricing \>
     Pricing calculation**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the Cost basis type field, enter or select **NYMEX**.
+3.  In the **Cost basis type** field, enter or select **NYMEX**.
 
-4.  In the Site field, type **1**.
+4.  In the Site field, enter **1**.
 
 5.  In the Run effective date field, set the date to **2020-02-20** or your
     local equivalent.
@@ -2426,31 +2427,31 @@ You will have to do the following:
 6.  In the **Run expiry date** field, set the date to **2020-02-26** or your
     local equivalent.
 
-7.  Click **Save**.
+7.  Select **Save**.
 
 **Enter commodity pricing data**
 
-1.  Click **Commodity pricing**.
+1.  Select **Commodity pricing**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the Item number field, type **M9103**.
+3.  In the Item number field, enter **M9103**.
 
 4.  In the **Warehouse** field, enter or select a value.
 
 5.  Set **New cost** to **0.14**.
 
-6.  Click **Save**.
+6.  Select **Save**.
 
 7.  Close the page.
 
 **Create a pricing calculation**
 
-1.  Click **New**.
+1.  Select **New**.
 
-2.  In the Cost basis type field, enter or select **NYMEX**.
+2.  In the **Cost basis type** field, enter or select **NYMEX**.
 
-3.  In the Site field, type **1**.
+3.  In the Site field, enter **1**.
 
 4.  In the **Run effective date** field, set the date to **2020-02-27.**
 
@@ -2460,17 +2461,17 @@ You will have to do the following:
 
 **Enter commodity pricing data**
 
-1.  Click **Commodity pricing**.
+1.  Select **Commodity pricing**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Item number** field, type **M9103**.
+3.  In the **Item number** field, enter **M9103**.
 
 4.  In the **Warehouse** field, enter or select a value.
 
 5.  Set New cost to **0.15**.
 
-6.  Click **Save**.
+6.  Select **Save**.
 
 7.  Close the page.]
 
@@ -2496,11 +2497,11 @@ You will have to do the following:
 1.  Go to **Inventory management \> Setup \> Product compliance \> Product
     safety data sheet validity**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the Country/region field, type **USA**.
+3.  In the Country/region field, enter **USA**.
 
-4.  Click **Save**.
+4.  Select **Save**.
 
 5.  Close the page.
 
@@ -2513,17 +2514,17 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the Item number field with a value of
     **M7001**.
 
-3.  On the Action Pane, click **Manage inventory**.
+3.  On the Action Pane, select **Manage inventory**.
 
-4.  Click **Safety data sheet**.
+4.  Select **Safety data sheet**.
 
-5.  Click **New**.
+5.  Select **New**.
 
-6.  In the **Document Name** field, type a value.
+6.  In the **Document Name** field, enter or select a value.
 
 7.  Select **Yes** in the **Active** field.
 
-8.  In the **Country/region** field, type a value.
+8.  In the **Country/region** field, enter or select a value.
 
 9.  In the **Approval** source field, enter or select a value.
 
@@ -2536,29 +2537,29 @@ You will have to do the following:
 
 13. In the **Expiry date** field, set the date to **2022-05-31**.
 
-14. Click **Save**.
+14. Select **Save**.
 
 **Upload a PSDS file**
 
-1.  Click **Attach** (the paper clip near the top right).
+1.  Select **Attach** (the paper clip near the top right).
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  Click **File**.
+3.  Select **File**.
 
-4.  Click **Browse**
+4.  Select **Browse**
 
 5.  Select the MSDS file, or any file to act as it.
 
 6.  In the Restriction field, select **External**.
 
-7.  Click **Save**.
+7.  Select **Save**.
 
 8.  Close the page.
 
 9.  Refresh the page.
 
-10. Click **Open** document.
+10. Select **Open** document.
 
 11. Close the page.
 
@@ -2592,13 +2593,13 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the Item number field with a value of
     **m7001**.
 
-3.  On the Action Pane, click **Manage inventory**.
+3.  On the Action Pane, select **Manage inventory**.
 
-4.  In the **Compliance** group, click **Reporting details**.
+4.  In the **Compliance** group, select **Reporting details**.
 
-5.  Click **Edit**.
+5.  Select **Edit**.
 
-6.  In the **OSHA product name** field, type **Sulfur Dioxide**.
+6.  In the **OSHA product name** field, enter or select **Sulfur Dioxide**.
 
 7.  Set the OSHA threshold quantity to **5**.
 
@@ -2606,23 +2607,23 @@ You will have to do the following:
 
 9.  Set the EHS threshold planning quantity to **500**.
 
-10. Click **Save**.
+10. Select **Save**.
 
 **Enter the CAS number**
 
-1.  Click **Item CAS relations**.
+1.  Select **Item CAS relations**.
 
-2.  In the **CAS number** field, type **7446-09-5**.
+2.  In the **CAS number** field, enter or select **7446-09-5**.
 
-3.  In the **CAS name** field, type **Sulfur Dioxide**.
+3.  In the **CAS name** field, enter or select **Sulfur Dioxide**.
 
-4.  Click **Save**.
+4.  Select **Save**.
 
 5.  Close the page.
 
 **Update annual usage quantities**
 
-1.  Click **Update quantities**.
+1.  Select **Update quantities**.
 
 2.  Close the page.
 
@@ -2660,41 +2661,41 @@ You will have to do the following:
 
 1.  Go to **Accounts receivable \> Orders \> All sales orders**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Customer account** field, type **us-031.**
+3.  In the **Customer account** field, enter or select **us-031.**
 
-4.  In the **Warehouse** field (General section), type **11**.
+4.  In the **Warehouse** field (General section), enter or select **11**.
 
 5.  In the **Requested receipt date** field, set the date to a near future date.
 
-6.  Click **OK**.
+6.  Select **OK**.
 
-7.  In the Item number field, type **m7001**.
+7.  In the Item number field, enter or select **m7001**.
 
 8.  Set Quantity to **100**.
 
 9.  In the **Unit price** field, enter a number.
 
-10. Click **Save**.
+10. Select **Save**.
 
 **Complete the reservation**
 
-1.  Click **Inventory**.
+1.  Select **Inventory**.
 
-2.  Click **Reservation**.
+2.  Select **Reservation**.
 
-3.  Click **Reserve lot**.
+3.  Select **Reserve lot**.
 
 4.  Close the page.
 
 **Post the packing slip and print the PSDS**
 
-1.  Click **Pick and pack \> Post packing slip**.
+1.  Select **Pick and pack \> Post packing slip**.
 
-2.  Click **OK**.
+2.  Select **OK**.
 
-3.  Click **OK**.
+3.  Select **OK**.
 
 4.  Verify that the PSDS was printed if that option was desired.
 
@@ -2741,23 +2742,23 @@ You will have to do the following:
 1.  In **USPI** company go to **Inventory Management** \> **Setup** \> **Batch** \> **Batch
     attributes**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Attribute** field, type **MeltingPoint**.
+3.  In the **Attribute** field, enter or select **MeltingPoint**.
 
-4.  In the **Description** field, type **Melting Point (C)**.
+4.  In the **Description** field, enter or select **Melting Point (C)**.
 
-5.  In the **Attribute** type field, select **Integer**.
+5.  In the **Attribute type** field, select **Integer**.
 
 **Set the attribute minimum and maximum**
 
-1.  In the **Minimum** field, type **0**.
+1.  In the **Minimum** field, enter or select **0**.
 
-2.  In the **Maximum** field, type **500**.
+2.  In the **Maximum** field, enter or select **500**.
 
-3.  In the **Increment** field, type **1**.
+3.  In the **Increment** field, enter or select **1**.
 
-4.  Click **Save**.
+4.  Select **Save**.
 
 5.  Close the page.
 
@@ -2770,9 +2771,9 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the Item number field with a value of
     **p4000**.
 
-3.  On the **Manage Inventory** tab, in the **Batch Attributes** group, click **Product specific**.
+3.  On the **Manage Inventory** tab, in the **Batch Attributes** group, select **Product specific**.
 
-4.  Click **New**.
+4.  Select **New**.
 
 5.  In the Attribute relation field, select **Melting Point**.
 
@@ -2784,9 +2785,9 @@ You will have to do the following:
 
 3.  Set **Maximum** to **171**.
 
-4.  In the **Target** field, type **150**.
+4.  In the **Target** field, enter or select **150**.
 
-5.  Click **Save**.
+5.  Select **Save**.
 
 6.  Close the page.
 
@@ -2797,14 +2798,14 @@ You will have to do the following:
 2.  Use the **Quick Filter** to filter on the **Item number** field with a value
     of **M2005**.
 
-3.  Click the link for M2005 to go to the details page.
+3.  Select the link for M2005 to go to the details page.
 
-4.  Click **Edit**.
+4.  Select **Edit**.
 
 5.  Expand **Financial dimensions** fasttab, select a product group for the
     **ProductGroup** financial dimension.
 
-6.  Click **Save**.
+6.  Select **Save**.
 
 7.  Close all pages. 
 
@@ -2815,14 +2816,14 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the Item number field with a value of
     **p4000**.
 
-3.  Click **Customer specific** in the Batch Attributes group on the **Manage
+3.  Select **Customer specific** in the Batch Attributes group on the **Manage
     Inventory** tab.
 
-4.  Click **New**.
+4.  Select **New**.
 
 5.  In the **Attribute relation** field, enter or select **Melting Point**.
 
-6.  In the **Account selection** field, type **US-024**.
+6.  In the **Account selection** field, enter or select **US-024**.
 
 **Set the customer attribute minimum and maximum**
 
@@ -2830,7 +2831,7 @@ You will have to do the following:
 
 2.  Set **Maximum** to **165**.
 
-3.  Click Save.
+3.  Select Save.
 
 4.  Close the page.
 
@@ -2855,27 +2856,27 @@ You will have to do the following:
 
 1.  Go to **Warehouse management \> Setup \> Inventory \> Batches**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Batch number** field, type **GTL0001**.
+3.  In the **Batch number** field, enter or select **GTL0001**.
 
-4.  In the **Item number** field, type **P4000**.
+4.  In the **Item number** field, enter or select **P4000**.
 
 5.  In the **Manufacturing date** field, enter today’s date.
 
-6.  Click **Save**.
+6.  Select **Save**.
 
 **Manually record the batch attribute data**
 
-1.  On the Action Pane, click **View**.
+1.  On the Action Pane, select **View**.
 
-2.  Click **Inventory batch attributes**.
+2.  Select **Inventory batch attributes**.
 
-3.  Click **Load item attributes**.
+3.  Select **Load item attributes**.
 
-4.  In the **Attribute value** field, type **163**.
+4.  In the **Attribute value** field, enter or select **163**.
 
-5.  Click **Save**.
+5.  Select **Save**.
 
 6.  Close all pages.
 
@@ -2913,23 +2914,23 @@ You will have to do the following:
 1.  Go to **Procurement and sourcing \> Purchase orders \> All purchase
     orders.**
 
-2.  Click **New**.
+2.  Select **New**.
 
 3.  In the **Vendor account** field, enter or select **US-102**.
 
-4.  Click **OK**.
+4.  Select **OK**.
 
-5.  In the **Item number** field, type **m2005**.
+5.  In the **Item number** field, enter or select **m2005**.
 
 6.  Set **Quantity** to **500**.
 
 7.  Set the **Unit** price to **6.99**.
 
-8.  Click **Save**.
+8.  Select **Save**.
 
-9.  On the Action Pane, click **Purchase**.
+9.  On the Action Pane, select **Purchase**.
 
-10. In the **Actions** group, click **Confirm**.
+10. In the **Actions** group, select **Confirm**.
 
 11. Note the purchase order number.
 
@@ -2945,25 +2946,25 @@ You will have to do the following:
 
 3.  Set the value of **Restrict to site** to **1**.
 
-4.  Click **Update**.
+4.  Select **Update**.
 
 5.  In the **Arrival overview profile name** field, enter or select **Inquiry** to view the purchase order in the Receipts grid.
 
-6.  Click **Update**.
+6.  Select **Update**.
 
 7.  Search for the purchase order created and select the record.
 
-8.  Click **Start arrival** in the **Receipts** FastTab. This will update the status on in the Receipt in progress field to Complete.
+8.  Select **Start arrival** in the **Receipts** FastTab. This will update the status on in the Receipt in progress field to Complete.
 
 9.  Re-select your PO.
 
-10. Click **Journals**.
+10. Select **Journals**.
 
-11. Click **Show arrivals from lines**.
+11. Select **Show arrivals from lines**.
 
-12. Click **Inventory**.
+12. Select **Inventory**.
 
-13. Click **Display dimensions**.
+13. Select **Display dimensions**.
 
 14. Select the **Site** check box.
 
@@ -2971,17 +2972,17 @@ You will have to do the following:
 
 16. Select the **Batch number** check box.
 
-17. Click **OK**.
+17. Select **OK**.
 
-18. Right click and view details on the **Batch number** field.
+18. Right select and view details on the **Batch number** field.
 
-19. Click **New**.
+19. Select **New**.
 
-20. In the **Batch number** field, type **GTLB001**.
+20. In the **Batch number** field, enter or select **GTLB001**.
 
 21. Expand **Properties** Fast Tab and enter  in the **Manufacturing date** field.
 
-22. Click **Save**.
+22. Select **Save**.
 
 23. Close the page.
 
@@ -2990,17 +2991,17 @@ You will have to do the following:
 25. In the **Batch number** field, enter or select the
     batch that was created (GTLB001).
 
-26. Click **Post**.
+26. Select **Post**.
 
-27. Click **OK**.
+27. Select **OK**.
 
-28. Click **Functions**.
+28. Select **Functions**.
 
-29. Click **Product receipt**.
+29. Select **Product receipt**.
 
-30. In the **Product receipt** field, type a value.
+30. In the **Product receipt** field, enter or select a value.
 
-31. Click **OK**.
+31. Select **OK**.
 
 32. Close the page.
 
@@ -3011,33 +3012,33 @@ You will have to do the following:
 1.  Go to **Inventory Management \> Periodic tasks \> Quality Management \>
     Quality orders**.
 
-2.  Click **Results**.
+2.  Select **Results**.
 
-3.  You may need to Click **Reopen Quality Order** and then click **Edit** to update the Quality order line results.
+3.  You may need to Select **Reopen Quality Order** and then select **Edit** to update the Quality order line results.
 
 4.  Set Result quantity to **5**.
 
 5.  Set Test result to **15.4**.
 
-6.  Click **Save**.
+6.  Select **Save**.
 
 7.  Close the page.
 
-8.  Click **Validate**.
+8.  Select **Validate**.
 
 9.  In the **Validated by** field, enter or select a value.
 
-10. Click **OK**.
+10. Select **OK**.
 
 **Verify the batch attribute data**
 
-1.  Click the **Inventory dimensions** tab.
+1.  Select the **Inventory dimensions** tab.
 
-2.  Click to follow the link in the **Batch number** field.
+2.  Select to follow the link in the **Batch number** field.
 
-3.  On the Action Pane, click **View**.
+3.  On the Action Pane, select **View**.
 
-4.  Click **Inventory batch attributes**.
+4.  Select **Inventory batch attributes**.
 
 5.  Close the page.
 
@@ -3085,17 +3086,17 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the **Item number** field with a value of
     **p5000**.
 
-3.  Click **Customer specific** from the **Manage Inventory** tab.
+3.  Select **Customer specific** from the **Manage Inventory** tab.
 
-4.  Click **New**.
+4.  Select **New**.
 
 5.  In the **Attribute relation** field, enter or select a value.
 
-6.  In the **Account selection** field, type **us-026**.
+6.  In the **Account selection** field, enter or select **us-026**.
 
 7.  Set **Minimum** to **98**.
 
-8.  Click Save.
+8.  Select Save.
 
 9.  Close the page.
 
@@ -3103,79 +3104,79 @@ You will have to do the following:
 
 1.  In **USPI** company go to **Production Control** \> **Production Orders** \> **All Production orders**.
 
-2.  Click **New batch order**.
+2.  Select **New batch order**.
 
-3.  In the **Item number** field, type **p5000**.
+3.  In the **Item number** field, enter or select **p5000**.
 
 4.  In the **Delivery** field, enter a date.
 
-5.  Click **Create**.
+5.  Select **Create**.
 
 **Process the batch order**
 
-1.  On the Action Pane, click **Production order**.
+1.  On the Action Pane, select **Production order**.
 
-2.  Click **Estimate**.
+2.  Select **Estimate**.
 
-3.  Click **OK**.
+3.  Select **OK**.
 
-4.  Click **Start**.
+4.  Select **Start**.
 
-5.  Click **OK**.
+5.  Select **OK**.
 
-6.  On the Action Pane, click **View**.
+6.  On the Action Pane, select **View**.
 
-7.  Click **Picking list**.
+7.  Select **Picking list**.
 
-8.  In the list, click the link in the selected row.
+8.  In the list, select the link in the selected row.
 
 9.  In the journal lines, select each row and complete the batch reservation.
 
-10. Click **Inventory**.
+10. Select **Inventory**.
 
-11. Click **Reservation**.
+11. Select **Reservation**.
 
-12. Click **Reserve lot**.
+12. Select **Reserve lot**.
 
 13. Close the page.
 
-14. Click **Post**.
+14. Select **Post**.
 
-15. Click **OK**.
+15. Select **OK**.
 
 16. Close the page.
 
 17. Close the page.
 
-18. On the Action Pane, click **Production order**.
+18. On the Action Pane, select **Production order**.
 
-19. Click **Report as finished**.
+19. Select **Report as finished**.
 
-20. Click **OK**.
+20. Select **OK**.
 
 **Complete the quality order**
 
-1.  On the Action Pane, click **View**.
+1.  On the Action Pane, select **View**.
 
-2.  Click **Quality orders**.
+2.  Select **Quality orders**.
 
-3.  Click **Results**.
+3.  Select **Results**.
 
-4.  Click **Edit**.
+4.  Select **Edit**.
 
 5.  Set Result quantity to **5000**.
 
 6.  Set Test result to **98.5**.
 
-7.  Click **Save**.
+7.  Select **Save**.
 
 8.  Close the page.
 
-9.  Click **Validate**.
+9.  Select **Validate**.
 
 10. In the **Validated by** field, enter or select a value.
 
-11. Click **OK**.
+11. Select **OK**.
 
 12. Close the page.
 
@@ -3183,39 +3184,39 @@ You will have to do the following:
 
 1.  Go to **All sales orders**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Customer account** field, type **us-026**.
+3.  In the **Customer account** field, enter or select **us-026**.
 
-4.  Click OK.
+4.  Select OK.
 
-5.  In the **Item number** field, type **p5000**.
+5.  In the **Item number** field, enter or select **p5000**.
 
 6.  Set **Quantity** to **500000**.
 
-7.  Click **Save**.
+7.  Select **Save**.
 
 **Complete the batch reservation and shipment**
 
-1.  Click **Inventory**.
+1.  Select **Inventory**.
 
-2.  Click **Batch reservation**.
+2.  Select **Batch reservation**.
 
-3.  Click **Batch attribute search**.
+3.  Select **Batch attribute search**.
 
-4.  Click **Customer attributes**.
+4.  Select **Customer attributes**.
 
-5.  Click **OK**.
+5.  Select **OK**.
 
-6.  Click **Reserve lot**.
+6.  Select **Reserve lot**.
 
 7.  Refresh the page.
 
 8.  Close the page.
 
-9.  Click **Post packing slip**.
+9.  Select **Post packing slip**.
 
-10. Click **OK**.
+10. Select **OK**.
 
 11. Close the page.
 
@@ -3251,11 +3252,11 @@ You will have to do the following:
 1.  Go to **Product information management** \> **Products** \> **Released
     products**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the Product number field, type **M7010**.
+3.  In the Product number field, enter or select **M7010**.
 
-4.  In the Product name field, type **Sugar in 20 lb. bags**.
+4.  In the Product name field, enter or select **Sugar in 20 lb. bags**.
 
 5.  In the **Catch weight** field, select **Yes**.
 
@@ -3267,43 +3268,43 @@ You will have to do the following:
 
 9.  In the **Tracking dimension** group field, enter or select a value.
 
-10. In the **Inventory unit** field, type **lb**.
+10. In the **Inventory unit** field, enter or select **lb**.
 
-11. In the **Purchase unit** field, type **lb**.
+11. In the **Purchase unit** field, enter or select **lb**.
 
-12. In the **Sales unit** field, type **lb**.
+12. In the **Sales unit** field, enter or select **lb**.
 
-13. In the **BOM unit** field, type **lb**.
+13. In the **BOM unit** field, enter or select **lb**.
 
-14. Click **OK**.
+14. Select **OK**.
 
-15. Click **Unit conversions**.
+15. Select **Unit conversions**.
 
-16. Click the **Inter-class conversions** tab.
+16. Select the **Inter-class conversions** tab.
 
-17. Click **New** to open the drop dialog.
+17. Select **New** to open the drop dialog.
 
 18. Set **Factor** to **20**.
 
-19. In the **To** unit field, type **lb**.
+19. In the **To** unit field, enter or select **lb**.
 
-20. In the **From** unit field, type **bag**.
+20. In the **From** unit field, enter or select **bag**.
 
-21. Click **OK**.
+21. Select **OK**.
 
 22. Close the page.
 
-23. In the **Purchase Unit** field, type **bag**.
+23. In the **Purchase Unit** field, enter or select **bag**.
 
 24. In the **Price** field, enter a number.
 
-25. In the **CW unit** field, type **bag**.
+25. In the **CW unit** field, enter or select **bag**.
 
 26. Set the **Minimum** quantity to **19**.
 
 27. Set the **Maximum** quantity to **21**.
 
-28. Click **Save**.
+28. Select **Save**.
 
 29. Close the page.
 
@@ -3312,19 +3313,19 @@ You will have to do the following:
 1.  Go to **Procurement and sourcing** \> **Purchase orders** \> **All purchase
     orders**.
 
-2.  Click **New**.
+2.  Select **New**.
 
 3.  In the **Vendor account** field, enter or select a value.
 
-4.  Click **OK**.
+4.  Select **OK**.
 
-5.  In the **Item number** field, type **m7010**.
+5.  In the **Item number** field, enter or select **m7010**.
 
 6.  Set CW quantity to **15**.
 
-7.  On the Action Pane, click **Purchase**.
+7.  On the Action Pane, select **Purchase**.
 
-8.  Click **Confirm**.
+8.  Select **Confirm**.
 
 9.  Close the page.
 
@@ -3343,37 +3344,37 @@ You will have to do the following:
 
 6.  Select **No** in the **Quarantine orders** field.
 
-7.  Click **Update**.
+7.  Select **Update**.
 
 8.  In the list, find and select the desired record.
 
 9.  Select the **Select for arrival** check box.
 
-10. Click **Start arrival**.
+10. Select **Start arrival**.
 
-11. Click **Journals**.
+11. Select **Journals**.
 
 12. In the list, find and select the desired record.
 
-13. Click **Journals**.
+13. Select **Journals**.
 
-14. Click **Show arrivals from lines**.
+14. Select **Show arrivals from lines**.
 
-15. Click the **Dimension** tab.
+15. Select the **Dimension** tab.
 
-16. Click **Edit**.
+16. Select **Edit**.
 
-17. Click to follow the link in the **Batch number** field.
+17. Select to follow the link in the **Batch number** field.
 
-18. Click **New**.
+18. Select **New**.
 
-19. In the **Batch number** field, type a value.
+19. In the **Batch number** field, enter or select a value.
 
 20. In the **Manufacturing** date field, enter a date.
 
 21. In the **Expiration date** field, enter a date.
 
-22. Click **Save**.
+22. Select **Save**.
 
 23. Close the page.
 
@@ -3381,21 +3382,21 @@ You will have to do the following:
 
 25. Set **Quantity** to **295**.
 
-26. Click **Save**.
+26. Select **Save**.
 
-27. Click **Post**.
+27. Select **Post**.
 
-28. Click **OK**.
+28. Select **OK**.
 
 29. Post Product Receipt and review Inventory 
 
-30. Click **Functions**.
+30. Select **Functions**.
 
-31. Click **Product receipt**.
+31. Select **Product receipt**.
 
-32. In the **Product receipt** field, type a value.
+32. In the **Product receipt** field, enter or select a value.
 
-33. Click **OK**.
+33. Select **OK**.
 
 ### Exercise \#20: Use catch weight items in a purchase trade agreement
 
@@ -3433,49 +3434,49 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the **Item number** field with a value of
     **m9401**.
 
-3.  On the Action Pane, click **Purchase**.
+3.  On the Action Pane, select **Purchase**.
 
-4.  Click **Create trade agreements**.
+4.  Select **Create trade agreements**.
 
-5.  Click **Edit**.
+5.  Select **Edit**.
 
 6.  In the **Name** field, enter or select a value.
 
-7.  Click **Lines**.
+7.  Select **Lines**.
 
-8.  In the **Item relation** field, type **M9401**.
+8.  In the **Item relation** field, enter or select **M9401**.
 
-9.  In the **Site** field, type **1**.
+9.  In the **Site** field, enter or select **1**.
 
-10. In the Warehouse field, type **11**.
+10. In the Warehouse field, enter or select **11**.
 
 11. Set **Amount in currency** to **175**.
 
-12. Click **Post**.
+12. Select **Post**.
 
-13. Click **OK**.
+13. Select **OK**.
 
 14. Close the page.
 
 **Create a demand forecast**
 
-1.  On the Action Pane, click **Plan**.
+1.  On the Action Pane, select **Plan**.
 
-2.  Click **Demand forecast**.
+2.  Select **Demand forecast**.
 
-3.  Click **New**.
+3.  Select **New**.
 
 4.  In the **Model** field, enter or select a value.
 
 5.  In the **Date** field, enter a date.
 
-6.  In the **Site** field, type **1**.
+6.  In the **Site** field, enter or select **1**.
 
-7.  In the Warehouse field, type **11**.
+7.  In the Warehouse field, enter or select **11**.
 
 8.  Set **CW quantity** to **25**.
 
-9.  Click **Save**.
+9.  Select **Save**.
 
 10. Close the page.
 
@@ -3484,29 +3485,29 @@ You will have to do the following:
 1.  Go to **Procurement and sourcing** \> **Purchase orders** \> **All purchase
     orders**.
 
-2.  Click **New**.
+2.  Select **New**.
 
 3.  In the **Vendor** account field, enter or select a value.
 
-4.  Click **OK**.
+4.  Select **OK**.
 
-5.  In the **Item number** field, type **m9401**.
+5.  In the **Item number** field, enter or select **m9401**.
 
 6.  Set **CW quantity** to **15**.
 
-7.  Click **Confirm**.
+7.  Select **Confirm**.
 
 **Run net requirements and review the output**
 
-1.  Click **Product and supply**.
+1.  Select **Product and supply**.
 
-2.  Click **Net requirements**.
+2.  Select **Net requirements**.
 
-3.  Click **Update**.
+3.  Select **Update**.
 
-4.  Click **Master planning**.
+4.  Select **Master planning**.
 
-5.  Click **OK**.
+5.  Select **OK**.
 
 ### Exercise \#21: Create a batch attribute for a potency item
 
@@ -3538,19 +3539,19 @@ You will have to do the following:
 1.  Go to **Inventory management** \> **Setup** \> **Batch** \> **Batch
     attributes**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Attribute** field, type **Acidity**.
+3.  In the **Attribute** field, enter or select **Acidity**.
 
-4.  In the **Description** field, type **Acidity**.
+4.  In the **Description** field, enter or select **Acidity**.
 
-5.  In the **Attribute** type field, select **Fraction**.
+5.  In the **Attribute** enter or select field, select **Fraction**.
 
-6.  In the **Maximum** field, type **10**.
+6.  In the **Maximum** field, enter or select **10**.
 
-7.  In the **Increment** field, type **.01**.
+7.  In the **Increment** field, enter or select **.01**.
 
-8.  Click **Save**.
+8.  Select **Save**.
 
 9.  Close the page.
 
@@ -3562,11 +3563,11 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the **Item number** field with a value of
     **M2004**.
 
-3.  On the Action Pane, click **Manage inventory**.
+3.  On the Action Pane, select **Manage inventory**.
 
-4.  Click **Product specific**.
+4.  Select **Product specific**.
 
-5.  Click **New**.
+5.  Select **New**.
 
 6.  In the **Attribute relation** field, select **Acidity**.
 
@@ -3574,21 +3575,21 @@ You will have to do the following:
 
 8.  Set **Maximum** to **3**.
 
-9.  In the **Target** field, type **1.7**.
+9.  In the **Target** field, enter or select **1.7**.
 
-10. Click **Save**.
+10. Select **Save**.
 
 11. Close the page.
 
 **Assign potency information**
 
-1.  Click **Edit**.
+1.  Select **Edit**.
 
-2.  Click **Save**.
+2.  Select **Save**.
 
 3.  In the **Base attribute** field, enter or select a value.
 
-4.  Click **Save**.
+4.  Select **Save**.
 
 ### Exercise \#22: Modify and activate a copy of a potency item formula
 
@@ -3627,45 +3628,45 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the **Item number field** with a value of
     **'p2000'**.
 
-3.  On the Action Pane, click **Engineer**.
+3.  On the Action Pane, select **Engineer**.
 
-4.  Click **Formula versions**.
+4.  Select **Formula versions**.
 
-5.  Click **New**.
+5.  Select **New**.
 
-6.  Click **Formula and formula version**.
+6.  Select **Formula and formula version**.
 
-7.  In the **Name** field, type a value.
+7.  In the **Name** field, enter or select a value.
 
 8.  Select **Yes** in the **Copy** field.
 
 9.  In the **Site** field, enter or select a value.
 
-10. Click **OK**.
+10. Select **OK**.
 
 11. In the **Formula version** field, enter or select a value.
 
-12. Click **OK**.
+12. Select **OK**.
 
 **Modify the M2004 and M2007 lines**
 
 1.  In the list, select row M2004.
 
-2.  In the Ingredient type field, select **'Active'**.
+2.  In the Ingredient enter or select field, select **'Active'**.
 
 3.  In the list, select row M2007.
 
-4.  In the Ingredient type field, select **'Compensating'**.
+4.  In the Ingredient enter or select field, select **'Compensating'**.
 
-5.  Click **Save**.
+5.  Select **Save**.
 
-6.  Click **Ingredients**.
+6.  Select **Ingredients**.
 
-7.  Click **Compensation principle**.
+7.  Select **Compensation principle**.
 
 8.  In the Active ingredient field, select **M2004**.
 
-9.  Click **OK**.
+9.  Select **OK**.
 
 10. Close the page.
 
@@ -3679,17 +3680,17 @@ You will have to do the following:
 
 4.  In the **From date** field, enter a date.
 
-5.  Click **Approve**.
+5.  Select **Approve**.
 
 6.  In the **Approved by** field, enter or select a value.
 
-7.  Click **Select**.
+7.  Select **Select**.
 
 8.  Select **Yes** in the **Do you also want to approve the formula?** field.
 
-9.  Click **OK**.
+9.  Select **OK**.
 
-10. Click **Activate**.
+10. Select **Activate**.
 
  
 
@@ -3721,37 +3722,37 @@ You will have to do the following:
 1.  Go to **Procurement and sourcing** \> **Setup** \> **Prices and discounts**
     \> **Attribute-based pricing details**.
 
-2.  Click **New**.
+2.  Select **New**.
 
-3.  In the **Name** field, type a value.
+3.  In the **Name** field, enter or select a value.
 
-4.  In the **Description** field, type a value.
+4.  In the **Description** field, enter or select a value.
 
-5.  Click **Add variable**.
+5.  Select **Add variable**.
 
 6.  In the **Equation element type** field, select **Unit price**.
 
-7.  Click **Add variable**.
+7.  Select **Add variable**.
 
 8.  In the **Equation element type** field, select **Constant**.
 
 9.  Set **Constant** to **1.5**.
 
-10. Click **Add variable**.
+10. Select **Add variable**.
 
 11. In the **Equation element type** field, select **Batch attribute - Target**.
 
 12. In the **Attribute** field, select **Acidity**.
 
-13. Click **Add variable**.
+13. Select **Add variable**.
 
 14. In the **Equation element type** field, select **Batch attribute - Actual**.
 
 15. In the **Attribute** field, select Acidity.
 
-16. In the **Equation** field, type **AB(D/C)**.
+16. In the **Equation** field, enter or select **AB(D/C)**.
 
-17. Click **Validate equation**.
+17. Select **Validate equation**.
 
 18. Close the page.
 
@@ -3765,32 +3766,32 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the **Item number** field with a value of
     **m2004**.
 
-3.  On the Action Pane, click **Purchase**.
+3.  On the Action Pane, select **Purchase**.
 
-4.  Click **Create trade agreements**.
+4.  Select **Create trade agreements**.
 
-5.  Click **Edit**.
+5.  Select **Edit**.
 
 6.  In the **Name** field, select **Price**.
 
-7.  Click **Lines**.
+7.  Select **Lines**.
 
-8.  In the **Item relation** field, type **M2004**.
+8.  In the **Item relation** field, enter or select **M2004**.
 
-9.  In the **Site** field, type **1**.
+9.  In the **Site** field, enter or select **1**.
 
-10. In the **Warehouse** field, type **11**.
+10. In the **Warehouse** field, enter or select **11**.
 
 11. Set **Amount in currency** to **4.7**.
 
 12. In the **Attribute-based pricing ID** field, enter the pricing ID just
     created.
 
-13. Click **Save**.
+13. Select **Save**.
 
-14. Click **Post**.
+14. Select **Post**.
 
-15. Click **OK**.
+15. Select **OK**.
 
 16. Close the page.
 
@@ -3819,55 +3820,55 @@ You will have to do the following:
 1.  Go to **Procurement and sourcing** \> **Purchase orders** \> **All purchase
     orders**.
 
-2.  Click **New**.
+2.  Select **New**.
 
 3.  In the **Vendor account** field, enter or select a value.
 
 4.  In the **Warehouse** field, select **13**.
 
-5.  Click **OK**.
+5.  Select **OK**.
 
-6.  In the **Item number** field, type **m2004**.
+6.  In the **Item number** field, enter or select **m2004**.
 
 7.  Set **Quantity** to **800**.
 
-8.  On the Action Pane, click **Purchase**.
+8.  On the Action Pane, select **Purchase**.
 
-9.  Click **Confirm**.
+9.  Select **Confirm**.
 
  
 
 **Receive and enter a batch attribute value**
 
-1.  On the Action Pane, click **Receive**.
+1.  On the Action Pane, select **Receive**.
 
-2.  Click **Product receipt**.
+2.  Select **Product receipt**.
 
-3.  In the **Product receipt** field, type a value.
+3.  In the **Product receipt** field, enter or select a value.
 
-4.  Click **Update line**.
+4.  Select **Update line**.
 
-5.  Click **Registration**.
+5.  Select **Registration**.
 
-6.  Click **Add registration line**.
+6.  Select **Add registration line**.
 
-7.  Click to follow the link in the **Batch number** field.
+7.  Select to follow the link in the **Batch number** field.
 
-8.  Click **New**.
+8.  Select **New**.
 
-9.  In the **Batch number** field, type a value.
+9.  In the **Batch number** field, enter or select a value.
 
-10. Click **Save**.
+10. Select **Save**.
 
 11. Close the page.
 
 12. In the **Batch number** field, select the batch created.
 
-13. In the **Actual value** field, type a value.
+13. In the **Actual value** field, enter or select a value.
 
-14. Click **Confirm registration**.
+14. Select **Confirm registration**.
 
-15. Click **Save**.
+15. Select **Save**.
 
 16. Close the page.
 
@@ -3875,23 +3876,23 @@ You will have to do the following:
 
 1.  In the **Quantity** field, select **Registered quantity**.
 
-2.  Click **OK**.
+2.  Select **OK**.
 
-3.  On the Action Pane, click **Invoice**.
+3.  On the Action Pane, select **Invoice**.
 
-4.  Click **Invoice**.
+4.  Select **Invoice**.
 
-5.  In the **Number** field, type a value.
+5.  In the **Number** field, enter or select a value.
 
 6.  In the **Invoice date** field, enter a date.
 
-7.  Click **Update match status**.
+7.  Select **Update match status**.
 
-8.  Click **Post**.
+8.  Select **Post**.
 
-9.  Click **Inventory**.
+9.  Select **Inventory**.
 
-10. Click **Transactions**.
+10. Select **Transactions**.
 
 ### Exercise \#25: Reporting and balancing batch orders (Bonus)
 
@@ -3923,25 +3924,25 @@ Start**
 1.  Go to **Production control** \> **Production orders** \> **All production
     orders**.
 
-2.  Click **New batch order**.
+2.  Select **New batch order**.
 
-3.  In the **Item number** field, type **p2000**.
+3.  In the **Item number** field, enter or select **p2000**.
 
-4.  Click **Create**.
+4.  Select **Create**.
 
-5.  On the Action Pane, click **Production order**.
+5.  On the Action Pane, select **Production order**.
 
-6.  Click **Estimate**.
+6.  Select **Estimate**.
 
-7.  Click **OK**.
+7.  Select **OK**.
 
-8.  Click **Start**.
+8.  Select **Start**.
 
-9.  Click **OK**.
+9.  Select **OK**.
 
 **Complete Batch Reservation and Balancing for active ingredients**
 
-1.  Click **Batch balancing**.
+1.  Select **Batch balancing**.
 
 2.  In the list, select row 2.
 
@@ -3955,47 +3956,47 @@ Start**
 
 7.  Select the **Marked** check box.
 
-8.  Click **Balance batch ingredients**.
+8.  Select **Balance batch ingredients**.
 
-9.  Click **Confirm the formula**.
+9.  Select **Confirm the formula**.
 
-10. Click **OK**.
+10. Select **OK**.
 
 **Post the picking list and report as a finished batch order**
 
-1.  On the Action Pane, click **View**.
+1.  On the Action Pane, select **View**.
 
-2.  Click **Picking list**.
+2.  Select **Picking list**.
 
-3.  In the list, click the link for the picking list.
+3.  In the list, select the link for the picking list.
 
-4.  Click **Post**.
+4.  Select **Post**.
 
-5.  Click **OK**.
+5.  Select **OK**.
 
 6.  Close the page.
 
 7.  Close the page.
 
-8.  On the Action Pane, click **Production order**.
+8.  On the Action Pane, select **Production order**.
 
-9.  Click **Report as finished**.
+9.  Select **Report as finished**.
 
-10. Click to follow the link in the **Batch number** field.
+10. Select to follow the link in the **Batch number** field.
 
-11. Click **New**.
+11. Select **New**.
 
-12. In the **Batch number** field, type a value.
+12. In the **Batch number** field, enter or select a value.
 
 13. In the **Manufacturing date** field, enter a date.
 
-14. Click **Save**.
+14. Select **Save**.
 
 15. Close the page.
 
 16. In the **Batch number** field, select the created batch number.
 
-17. Click **OK**.
+17. Select **OK**.
 
 Case study 1C Lean manufacturing
 --------------------------------
@@ -4017,7 +4018,7 @@ You will have to do the following:
 1.  In **USMF** company go to **Production control \> Setup \> Lean production flow \> Value
     streams**.
 
-2.  Click **New** to create a new value stream.
+2.  Select **New** to create a new value stream.
 
 3.  Enter the following details for the new value stream:
 
@@ -4027,7 +4028,7 @@ You will have to do the following:
 
 6.  Manager: **Jodi Christiansen**
 
-7.  Click **Save**.
+7.  Select **Save**.
 
 ### Exercise \#2 create a new production flow model
 
@@ -4083,7 +4084,7 @@ You will have to do the following:
 1.  Go to **Production control \> Setup \> Lean production flow \> Production
     flow models.**
 
-2.  Click **New**.
+2.  Select **New**.
 
 3.  In the **Production flow model** field enter **SeaPFModel**.
 
@@ -4099,14 +4100,14 @@ You will have to do the following:
 
 9.  In the **Capacity shortage reaction** drop down select **Postpone**.
 
-10. Click **Save**.
+10. Select **Save**.
 
 **Create a production flow version**
 
 1.  Navigate to **Production control \> Setup \> Lean production flow \>
     Production flows**.
 
-2.  Click **New** on the action pane. A new production flow record is created.
+2.  Select **New** on the action pane. A new production flow record is created.
 
 3.  In the **Name** field, enter **eBookProdFlow**.
 
@@ -4118,11 +4119,11 @@ You will have to do the following:
 
 7.  In the **Production group** field, select **10**.
 
-8.  Click **Save**.
+8.  Select **Save**.
 
-9.  On the **Versions** FastTab, click **Add**.
+9.  On the **Versions** FastTab, select **Add**.
 
-10. Click **OK**.
+10. Select **OK**.
 
 **Set up the takt and cycle times**
 
@@ -4140,7 +4141,7 @@ You will have to do the following:
 
 7.  In the **Period for actual cycle time** (**days**) field, enter **1**.
 
-8.  Click **Save** in the action pane.
+8.  Select **Save** in the action pane.
 
 9.  Note the **Plan status** field for the version is set to **Draft**.
 
@@ -4182,11 +4183,11 @@ You will have to do the following:
 
 2.  Open the **Mid Range Speaker 2PF** production flow.
 
-3.  On the **Versions** FastTab, click the **Activities** button.
+3.  On the **Versions** FastTab, select the **Activities** button.
 
-4.  Click **Create new plan activity** button.
+4.  Select **Create new plan activity** button.
 
-5.  Click **Next**.
+5.  Select **Next**.
 
 6.  Enter **Transfer Activity** in the **Name** field.
 
@@ -4196,19 +4197,19 @@ You will have to do the following:
 
 9.  In the **Operating unit** drop-down list, select **LeanProduction**.
 
-10. Click **Next**.
+10. Select **Next**.
 
 11. In the **Work cell** replenished drop-down list, select **1260**.
 
 12. Set the **Update on hand on receipt** option to **Yes**.
 
-13. Click **Next**.
+13. Select **Next**.
 
 14. Select **1260** in the **Replenishing** field.
 
 15. Select **Finished product** in the **Product type** field.
 
-16. Click **Next.**
+16. Select **Next.**
 
 17. Select Warehouse **13** in the **Transfer from location – warehouse** field.
 
@@ -4222,7 +4223,7 @@ You will have to do the following:
 
 22. Select **Shipper** in the **Freighted by** field.
 
-23. Click **Next.**
+23. Select **Next.**
 
 24. Select **Queue time after** record.
 
@@ -4240,9 +4241,9 @@ You will have to do the following:
 
 31. Enter **10** in **per quantity** field.
 
-32. Click **Next.**
+32. Select **Next.**
 
-33. Click **Finish.**
+33. Select **Finish.**
 
 ### Exercise \#4 Create a new transfer activity
 
@@ -4291,18 +4292,18 @@ You will have to do the following:
 
 3.  On the **Versions** FastTab, select Version **1**.
 
-4.  Click **Deactivate**.
+4.  Select **Deactivate**.
 
-5.  Click **OK**.
+5.  Select **OK**.
 
 **Create a new transfer activity**
 
-1.  On the **Versions** FastTab, click **Activities**. The **Production flow
+1.  On the **Versions** FastTab, select **Activities**. The **Production flow
     activities** form opens.
 
-2.  Click **Create new plan activity** in the action pane.
+2.  Select **Create new plan activity** in the action pane.
 
-3.  Click **Next**.
+3.  Select **Next**.
 
 4.  Enter **RemoteTransfer** in the **Name** field.
 
@@ -4314,7 +4315,7 @@ You will have to do the following:
 
 8.  In the **Operating unit** drop-down list, select **SeaLeanVS**.
 
-9.  Click **Next**. The **Create transfer activity** page opens.
+9.  Select **Next**. The **Create transfer activity** page opens.
 
 10. In the **Replenishing** drop-down list, select **1250**.
 
@@ -4324,7 +4325,7 @@ You will have to do the following:
 
 13. In the **Product type** field, select **Finished product**.
 
-14. Click **Next**. The **Assign transfer locations** page opens.
+14. Select **Next**. The **Assign transfer locations** page opens.
 
 15. In the **Transfer to location** group, in the **Warehouse** drop-down list,
     select **11**.
@@ -4333,7 +4334,7 @@ You will have to do the following:
 
 17. In the **Freighted by** drop-down list, select **Shipper**.
 
-18. Click **Next**. The **Assign** activity **time** page opens.
+18. Select **Next**. The **Assign** activity **time** page opens.
 
 19. In the **Time** field for the **Runtime** row, enter **1**.
 
@@ -4341,18 +4342,18 @@ You will have to do the following:
 
 21. In the **Per quantity** field, enter **25**.
 
-22. Click **Next**. The **Confirm selection** page opens.
+22. Select **Next**. The **Confirm selection** page opens.
 
-23. Click **Finish**. The wizard closes, and a new production flow activity
+23. Select **Finish**. The wizard closes, and a new production flow activity
     appears in the list.
 
-24. Click **Save** in the action pane.
+24. Select **Save** in the action pane.
 
 **Create the predecessor/successor relationship between the process and transfer
 activity with no constraints**
 
 1.  Highlight the **Wiring Process** activity and, on the
-    **Successor** tab, click the **Add successor** button.
+    **Successor** tab, select the **Add successor** button.
 
 2.  Select the **Successor Activity** of **RemoteTransfer**.
 
@@ -4364,9 +4365,9 @@ activity with no constraints**
 
 6.  Close the **Production** flow activities form.
 
-7.  On the **Versions** tab, click the **Activate** menu button.
+7.  On the **Versions** tab, select the **Activate** menu button.
 
-8.  Click **OK**.
+8.  Select **OK**.
 
 ### Exercise \#5: Add a successor to the production flow activity and perform validation and activation
 
@@ -4397,14 +4398,14 @@ You will have to do the following:
 1.  Navigate to **Production control** \> **Setup** \> **Lean production flow**
     \> **Production flows**.
 
-2.  Click the name of the Mid-Range Speaker 2 PF production flow.
+2.  Select the name of the Mid-Range Speaker 2 PF production flow.
 
-3.  On the **Versions** FastTab, click **Activities**.
+3.  On the **Versions** FastTab, select **Activities**.
 
 4.  In the list on the left, select the **00074 – Transfer from Warehouse 13 to
     51** activity.
 
-5.  On the **Successors** FastTab, click **Add successor**. The **Create
+5.  On the **Successors** FastTab, select **Add successor**. The **Create
     activity relation** dialog opens.
 
 6.  In the **Successor** group, in the **Activity** drop-down list, select
@@ -4418,9 +4419,9 @@ You will have to do the following:
 
 10. In the **Cycle time ratio** field, enter **2**.
 
-11. Click **OK**.
+11. Select **OK**.
 
-12. Click **Save** in the action pane.
+12. Select **Save** in the action pane.
 
 13. Close the forms.
 
@@ -4432,16 +4433,16 @@ confirm that the changes have been correctly implemented.
 1.  Navigate to **Production control \> Setup \> Lean production flow \>
     Production flows.** The Production flows form opens.
 
-2.  Click the name of the Mid-Range Speaker 2 PF production flow. The
+2.  Select the name of the Mid-Range Speaker 2 PF production flow. The
     **Production Flows** form for the selected production flow opens.
 
 3.  On the **Versions** FastTab, select Version **1**.
 
-4.  Click **Validate**. The **Validate production flow** dialog opens.
+4.  Select **Validate**. The **Validate production flow** dialog opens.
 
-5.  Click **OK**.
+5.  Select **OK**.
 
-6.  Click **Save** in the action pane.
+6.  Select **Save** in the action pane.
 
 7.  Close the forms.
 
@@ -4484,7 +4485,7 @@ You will have to do the following:
 1.  Navigate to **Product information management \> Lean manufacturing \> Kanban
     rules**.
 
-2.  Click **New**.
+2.  Select **New**.
 
 3.  Select the **First plan activity** called **SpeakerTestAndPackaging**.
 
@@ -4504,21 +4505,21 @@ You will have to do the following:
 
 11. Change the **Card assignment** to **Automatic**.
 
-12. Click **Save**.
+12. Select **Save**.
 
-13. Click the **Create cards** button.
+13. Select the **Create cards** button.
 
 14. Deselect the **Print new cards** box.
 
-15. Click **Create**.
+15. Select **Create**.
 
 16. Switch to the **Kanbans** FastTab.
 
-17. Click **Add**.
+17. Select **Add**.
 
 18. Verify that the default number of new Kanbans is 4.
 
-19. Click **Create**.
+19. Select **Create**.
 
 20. Close all forms.
 
@@ -4527,7 +4528,7 @@ You will have to do the following:
 1.  Navigate to **Product information management \> Lean manufacturing \> Kanban
     rules**.
 
-2.  Click **New**.
+2.  Select **New**.
 
 3.  Change the **Type** to **Withdrawal**.
 
@@ -4543,15 +4544,15 @@ You will have to do the following:
 
 9.  Enter the **Fixed Kanban quantity** of 4**.**
 
-10. Click **Save**.
+10. Select **Save**.
 
 11. Switch to the **Kanbans** FastTab.
 
-12. Click **Add**.
+12. Select **Add**.
 
 13. Verify that the number of new Kanbans defaults to 4.
 
-14. Click **Create**.
+14. Select **Create**.
 
 15. Close all forms.
 
@@ -4563,7 +4564,7 @@ You will have to do the following:
 
 3.  In the **Display job status** field select **Not scheduled**.
 
-4.  Select a Kanban job from the unplanned Kanban jobs, and then click the
+4.  Select a Kanban job from the unplanned Kanban jobs, and then select the
     **Schedule** button. Repeat for the remaining Kanban jobs of your choice.
 
 ### Exercise \#7: Process scheduled Kanbans for process and transfer jobs
@@ -4597,11 +4598,11 @@ and complete the Kanbans.
 
 4.  Select the appropriate Kanbans to prepare.
 
-5.  Click **Prepare**.
+5.  Select **Prepare**.
 
-6.  To start the Kanbans, click **Start** button.
+6.  To start the Kanbans, select **Start** button.
 
-7.  To complete the Kanbans, click **Complete**.
+7.  To complete the Kanbans, select **Complete**.
 
 **Process Kanban on the Kanban board for transfer jobs**
 
@@ -4618,9 +4619,9 @@ Kanban.
 
 3.  Select the Kanbans of your choice, as long as they have a card number.
 
-4.  To start the transfer, click **Start**.
+4.  To start the transfer, select **Start**.
 
-5.  To complete the transfer, click **Complete**.
+5.  To complete the transfer, select **Complete**.
 
 ### Exercise \#8: Fulfill a sales order by planning a Kanban and produce an item (Bonus)
 
@@ -4647,17 +4648,17 @@ You will have to do the following:
 
 1.  Navigate to **Sales and marketing \> Sales orders \> All sales orders**.
 
-2.  Click **New**.
+2.  Select **New**.
 
 3.  Select the **Customer account** as **US-016**.
 
-4.  Click **OK**.
+4.  Select **OK**.
 
 5.  Enter **Item number** of “**L0026**”.
 
 6.  Enter **Quantity** of “**12.00**”.
 
-7.  Click **Update confirmed date**.
+7.  Select **Update confirmed date**.
 
 8.  Select a **Site** of **1** (scroll or tab right).
 
@@ -4666,7 +4667,7 @@ You will have to do the following:
 10. Select a **Location** of **13**.
 
 11. If **Location** is not set on the sales order, go to **Sales order line** \>
-    **Display** and click the **Dimensions** button. Click on the location and
+    **Display** and select the **Dimensions** button. Select on the location and
     configuration.
 
 12. Select Configuration 01.
@@ -4694,9 +4695,9 @@ You will have to do the following:
 
 7.  Change **Work cell** to **1250**.
 
-8.  Highlight the desired Kanbans and click **Start**.
+8.  Highlight the desired Kanbans and select **Start**.
 
-9.  Click **Complete**.
+9.  Select **Complete**.
 
 10. Select the **Change cell** button.
 
@@ -4706,9 +4707,9 @@ You will have to do the following:
     board for process jobs** work cell form. View the complete lower level
     speaker set Kanbans on the pegging tree.
 
-13. Click **Start**.
+13. Select **Start**.
 
-14. Click **Complete**.
+14. Select **Complete**.
 
 **Transfer the speaker set**
 
@@ -4719,11 +4720,11 @@ You will have to do the following:
 
 3.  Select a **Production Flow**.
 
-4.  Click **Update picking list** on the Transfer tab in the action pane.
+4.  Select **Update picking list** on the Transfer tab in the action pane.
 
-5.  Click **Add picking** line.
+5.  Select **Add picking** line.
 
-6.  Click **Confirm** pick all.
+6.  Select **Confirm** pick all.
 
 7.  Close the form.
 
