@@ -985,7 +985,7 @@ You will have to do the following:
 1.  Go to **Human resources \> Workers \> Employees**.
 
 2.  Use the **Quick Filter** to filter on the **Name** field with a value of
-    **SHANNON**.
+    **Shannon**.
 
 3.  Click **Activate on registration terminals** in the **Time** tab of the
     action pane.
@@ -1108,7 +1108,7 @@ You will have to do the following:
 2.  Use the Quick Filter to filter on the **Item number** field with a value of
     **M7001**.
 
-3.  Click the **item number** link to open the **Released product details** page.
+3.  In the list, select the item number **M7001** to view the **Released product details** page.
 
 4.  On the Action Pane, click **Purchase**.
 
@@ -1120,13 +1120,13 @@ You will have to do the following:
 
 8.  Click **Save**.
 
-9.  **Close** the page.
+9.  Close the page.
 
 **Set the vendor check method to Warning Only**
 
 1.  On the **Released product details** page, click **Edit**.
 
-2.  Expand the **Purchase** Fast Tab, set the **Approved vendor check method** field to **Warning only**.
+2.  Expand the **Purchase** FastTab, set the **Approved vendor check method** field from **No check** to **Warning only**.
 
 3.  Click **Save**.
 
@@ -1190,7 +1190,7 @@ You will have to do the following:
 
 **Create a new formula product**
 
-1.  In the **USPI** company, go to **Product information management \> Products \> Released products**.
+1.  In **USPI**, go to **Product information management \> Products \> Released products**.
 
 2.  Click **New**.
 
@@ -1216,13 +1216,13 @@ You will have to do the following:
 
 13. Click **OK**.
 
-14. Expand the **Engineer** Fast Tab and select Formula in the **Production type** field.
+14. Expand the **Engineer** Fast Tab and select **Formula** in the **Production type** field.
 
 15. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
 
 16. Click **Save**.
 
-17. **Close** the page.
+17. Close the page.
 
  
 
@@ -1230,9 +1230,9 @@ You will have to do the following:
 
 1.  Click **New**.
 
-2.  In the **Product number** field, type **P16000**.
+2.  In the **Product number** field, enter **P16000**.
 
-3.  In the **Product name** field, type **Kerosene**.
+3.  In the **Product name** field, enter **Kerosene**.
 
 4.  In the **Item model group** field, enter or select a value.
 
@@ -1260,7 +1260,7 @@ You will have to do the following:
 
 16. Click **Save**.
 
-17. **Close** the page.
+17. Close the page.
 
 
 18. Click **New**.
@@ -1295,7 +1295,7 @@ You will have to do the following:
 
 33. Click **Save**.
 
-34. **Close** the page.
+34. Close the page.
 
  
 
@@ -1331,7 +1331,7 @@ You will have to do the following:
 
 15. Click **Save**.
 
-16. **Close** the page.
+16. Close the page.
 
 
 **Create the new raw material**
@@ -1362,11 +1362,11 @@ You will have to do the following:
 
 13. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
 
-14. Expand the **Engineer** Fast Tab and for the **Production type** field, select **None**.
+14. In the **Production type** field, select None.
 
 15. Click **Save**.
 
-16. **Close** all pages.
+16. Close all pages.
 
 
 ### Exercise \#3: Create and activate a formula using different product types
@@ -1608,7 +1608,6 @@ You will have to do the following:
 17. Click **Save**.
 
  
-
 **Create a formula**
 
 1.  Click **Formula versions** in the Engineer tab in the action pane.
