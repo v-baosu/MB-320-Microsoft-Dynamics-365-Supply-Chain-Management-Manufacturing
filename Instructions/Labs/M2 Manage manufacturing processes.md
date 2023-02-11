@@ -38,7 +38,7 @@ You will have to do the following:
 
 4.  Click **Save**.
 
-5.  **Close** all pages and return the **Home** screen.
+5.  **Close** all pages.
 
 
 ### Exercise \#2: Create new production pools
@@ -69,7 +69,7 @@ You will have to do the following:
 
 1.  Open **Production control \> Setup \> Production \> Production pools**.
 
-2.  Select **+ New** to create a new pool.
+2.  Select **New** to create a new pool.
 
 3.  Type **Delay-Sub** in the **Pool** field.
 
@@ -77,7 +77,7 @@ You will have to do the following:
 
 **Create a production pool for missing materials**
 
-1.  Select **+ New** to create a new pool.
+1.  Select **New** to create a new pool.
 
 2.  Type **MATMISSING** in the **Pool** field.
 
@@ -85,7 +85,7 @@ You will have to do the following:
 
 **Create a production pool for machine failures**
 
-1.  Select **+ New** to create a new pool.
+1.  Select **New** to create a new pool.
 
 2.  Type **MACHFAIL** in the **Pool** field.
 
@@ -93,7 +93,7 @@ You will have to do the following:
 
 4.  Select **Save**.
 
-5.  **Close** all pages and return the Home screen.
+5.  **Close** all pages.
 
 
 ### Exercise \#3: Create and manage resources
@@ -122,7 +122,7 @@ You will have to do the following:
 
 1.  Go to **Organization administration \> Resources \> Resource capabilities**.
 
-2.  Click **New**.
+2.  Click **New** from the Navigation bar.
 
 3.  Type **GTL-Assembly** in the **Capability** field and **Assembly** in the
     **Description** field.
@@ -132,6 +132,8 @@ You will have to do the following:
 5.  Type **GTL-Packing** in the **Capability** field and **Packing** in the
     **Description** field.
 
+6.  Close the **Resource capabilities** page.
+
 
 **Assign resources to capability**
 
@@ -139,7 +141,7 @@ You will have to do the following:
 
 2.  Select **GTL-Assembly** from the list of capabilities.
 
-3.  Select **+ Add** from the toolbar.
+3.  Select **Add** from the toolbar.
 
 4.  Select **5110**, Assembly worker 1, in the **Resource** field.
 
@@ -195,23 +197,23 @@ You will have to do the following:
 
 #### Steps
 
-1.  Go to **Production control \> Operations \> All routes**.
- 
-2.  Click **New**.
- 
-3.  In the **Name** field, type **eBook route**.
- 
-4.  In the **Item group** field, enter or select **TV&Video**.
- 
-5.  Click **Save**.
- 
-6.  Click **Route** on the Action Pane then in the **Maintain** group, select **Route details**.
- 
-7.  Click **New**.
- 
-8.  In the **Operation** field, enter or select **Assembly**.
- 
-9.  In the **Next** field, enter **20**.
+1. Go to **Production control \> Operations \> All routes**.
+
+2. Click **New**.
+
+3. In the **Name** field, type **eBook route**.
+
+4. In the **Item group** field, enter or select **TV&Video**.
+
+5. Click **Save**.
+
+6. Click **Route** on the Action Pane then in the **Maintain** group, select **Route details**.
+
+7. Click **New**.
+
+8. In the **Operation** field, enter or select **Assembly**.
+
+9. In the **Next** field, enter **20**.
  
 10. In the **Link type** field, select **Soft**.
 
@@ -233,32 +235,32 @@ You will have to do the following:
 
 19. In the **Operation** field, enter or select **Packing**.
 
-20. **Refresh** the page.
+20. Refresh the page.
 
 21. Click **Save**. 
 
 22. **Close** all pages. 
 
-    >[!Note] A message may appear that there exist no relation for operation Padding. 
-    The route contains the order of operations and the assignment of operations will occur in the next steps.
+    > [!NOTE] 
+    > The message bar may appear with a message that states, "There exist no relation for operation Padding." The route contains the order of operations and the assignment of operations will occur in the next steps.
 
-23.  Go to **Production control \> Setup \> Routes \> Operations**.
+23. Go to **Production control \> Setup \> Routes \> Operations**.
 
-24.  Click **New**.
+24. Click **New**.
 
-25.  In the **Operation** field, type **eBook**.
+25. In the **Operation** field, type **eBook**.
 
-26.  In the **Name** field, type **eBook assembly**.
+26. In the **Name** field, type **eBook assembly**.
 
-27.  Click **Relations**.
+27. Click **Relations**.
 
-28.  Click **New**.
+28. Click **New**.
 
-29.  In the **Route group** field, enter or select **Discrete**.
+29. In the **Route group** field, enter or select **Discrete**.
 
-30.  Expand the **Setup** section.
+30. Expand the **Setup** section.
 
-31.  In the **Formula** field, select **Capacity**.
+31. In the **Formula** field, select **Capacity**.
 
 32. In the **Costing resource** field, enter or select **1211**. A dialogue box appears informing that the default time and cost values from the costing resource will be inserted. Select **Yes** to continue.
 
@@ -266,7 +268,7 @@ You will have to do the following:
 
 34. Click **Save**.
 
-35. **Close** all pages and return to the Home screen.
+35. **Close** all pages.
 
 
 ### Exercise \#5: Create a simple BOM without a version
@@ -331,7 +333,7 @@ You will have to do the following:
 
 15. Click **Save**.
 
-16. **Close** all pages.
+16. Close all pages.
 
 
 ### Exercise \#6: Create a BOM in the BOM designer (Bonus)
@@ -362,8 +364,8 @@ You will have to do the following:
 
 #### Steps
 
-1.  Go to **Product information management \> Bills of materials and formulas \>
-    Bills of materials**.
+1.  Go to **Product information management** \> **Bills of materials and formulas** \>
+    **Bills of materials**.
 
 2.  Click **New**.
 
@@ -401,18 +403,20 @@ You will have to do the following:
 
 19. Close the **Designer** page.
 
-20. **Refresh** the Bill of materials page. This will populate the previously created BOM formula lines.
+20. Refresh the **Bill of materials** page. This will populate the previously created BOM formula lines.
 
 21. In the list of Bill of materials lines, find and select the row for **M0002
     / Mid-Range Speaker Unit**.
 
 22. Set **Quantity** to **2.0000**.
 
-23. Click **Bill of materials** on the Action Pane then in the **Maintain** group, Click **Approval** and select **000020**, Julia Funderburk.
+23. In the Action pane, select **Approval** in the **Maintain** group in the **Bill of materials** tab. 
 
-24. Click **OK**.
+24. Select **000020**, Julia Funderburk.
 
-25. **Close** all pages.
+25. Click **OK**.
+
+26. Close all pages.
 
 
 ### Exercise \#7: Create a BOM with a version
@@ -480,7 +484,7 @@ You will have to do the following:
 13. Under the **Inventory** FastTab, In the **Default warehouse** field, type
     **11**.
 
-14. **Close** the page.
+14. Close the page.
 
 15. On the Action Pane, click **Engineer**.
 
@@ -529,7 +533,7 @@ You will have to do the following:
 
 37. Click **OK**.
 
-38. **Close** all pages.
+38. Close all pages.
 
 ### Exercise \#8: Create a production order
 
@@ -717,7 +721,7 @@ You will have to do the following:
 2.  Select route **000002** (STANDARD SPEAKER - D0003) by selecting on the link
     for 000002.
 
-3.  Select the **Route** tab in the Action pan, then in the **Maintain** group, click **Route details**.
+3.  Select the **Route** tab in the Action pane, then in the **Maintain** group, click **Route details**.
 
 4.  Verify operation 10 is selected in the top grid of the **Route** form.
 
@@ -763,7 +767,7 @@ You will have to do the following:
 
 13. On the summary screen, review your options and choose **Finish**.
 
-14. **Close** all pages.
+14. Close all pages.
 
 ### Exercise \#12: Configure costing policies
 
@@ -807,19 +811,18 @@ You will have to do the following:
 
 11. Select **Save**.
 
-12. **Close** the page.
+12. Close the page.
 
 13. On the Action Pane, click the **Engineer** tab.
 
 14. In the **BOM** group, select **BOM versions**.
 
 15. Under the Bill of materials lines, select **M0005** to open the **Product
-    information** dialog box.
+    information** dialog.
 
-16. Select **M0005** item number (not product number) to open the **Released product
-    details** page.
+16. Select **M0005** item number (not product number) to open the **Released product details** page. 
 
-17. Select Cost group **M2** in the Manage costs FastTab to open the **Cost group
+17. Select Cost group **M2** in the **Manage costs** FastTab to open the **Cost group
     details** page.
 
 18. Select **Edit**.
@@ -832,9 +835,9 @@ You will have to do the following:
 
 22. Set **Profit percentage** to **60.00**.
 
-23. **Close** the page.
+23. Close the page.
 
-24. **Close** all pages.
+24. Close all pages.
 
 25. Go to **Cost management \> Indirect cost accounting policies setup \> Costing sheets**.
 
@@ -849,18 +852,18 @@ You will have to do the following:
 
 30. In the tree, select **Root\\Cost of Conversion\\Overhead on Conversion\\COC - OVH4 - Labor overhead**.
 
-31. Select **OVH4** to open the **Cost group**.
+31. Select **OVH4**.
 
 32. Set **Profit percentage** to **80.00**.
 
-33. **Close** all pages.
+33. Close all pages.
 
 34. Go to **Product information management** \> **Products** \> **Released products**.
 
 35. Use the **Quick Filter** to filter on the **Item number** field with a value
     of **D0002**.
 
-36. Select the **D0002** link to open the **Released product details** screen.
+36. Select the **D0002** link to open the **Released product details** page.
 
 37. On the Action Pane, select the **Manage costs** tab.
 
@@ -1005,7 +1008,7 @@ You will have to do the following:
 
 12. Click **OK**.
 
-13. In the list, click on the **Shannon Dascher** name link to open the **Employees** detail page.
+13. In the list, select **Shannon Dascher** to view the **Employees details** page.
 
 14. Click the **Time registration** tab.
 
@@ -1017,7 +1020,7 @@ You will have to do the following:
 
 18. Click **Save**.
 
-19. **Close** the page.
+19. Close the page.
 
 20. Go to **Production control \> Manufacturing execution \> Job card device**.
 
