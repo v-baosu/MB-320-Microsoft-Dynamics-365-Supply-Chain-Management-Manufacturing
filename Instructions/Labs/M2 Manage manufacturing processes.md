@@ -72,29 +72,29 @@ You will have to do the following:
 
 2.  Select **New** to create a new pool.
 
-3.  Type **Delay-Sub** in the **Pool** field.
+3.  Enter or select **Delay-Sub** in the **Pool** field.
 
-4.  Type **Subcontracted Work Delayed** in the **Name** field.
+4.  Enter or select **Subcontracted Work Delayed** in the **Name** field.
 
 **Create a production pool for missing materials**
 
 1.  Select **New** to create a new pool.
 
-2.  Type **MATMISSING** in the **Pool** field.
+2.  Enter or select **MATMISSING** in the **Pool** field.
 
-3.  Type **Materials Missing** in the **Name** field.
+3.  Enter or select **Materials Missing** in the **Name** field.
 
 **Create a production pool for machine failures**
 
 1.  Select **New** to create a new pool.
 
-2.  Type **MACHFAIL** in the **Pool** field.
+2.  Enter or select **MACHFAIL** in the **Pool** field.
 
-3.  Type **Machine Failure** in the **Name** field.
+3.  Enter or select **Machine Failure** in the **Name** field.
 
 4.  Select **Save**.
 
-5.  **Close** all pages.
+5.  Close all pages.
 
 
 ### Exercise \#3: Create and manage resources
@@ -125,12 +125,12 @@ You will have to do the following:
 
 2.  Select **New** from the Navigation bar.
 
-3.  Type **GTL-Assembly** in the **Capability** field and **Assembly** in the
+3.  Enter or select **GTL-Assembly** in the **Capability** field and **Assembly** in the
     **Description** field.
 
 4.  Select **New**.
 
-5.  Type **GTL-Packing** in the **Capability** field and **Packing** in the
+5.  Enter or select **GTL-Packing** in the **Capability** field and **Packing** in the
     **Description** field.
 
 6.  Close the **Resource capabilities** page.
@@ -148,7 +148,7 @@ You will have to do the following:
 
 5.  Accept the default **Expiration** date of **Never**.
 
-6.  Type **1** in the **Priority** field.
+6.  Enter or select **1** in the **Priority** field.
 
 7.  Accept the default **Level** of 0.00.
 
@@ -169,7 +169,7 @@ You will have to do the following:
 
 5.  Select **Add** from the toolbar.
 
-6.  Type GTL-Packing in the **Capability** field.
+6.  Enter or select GTL-Packing in the **Capability** field.
 
 7.  Accept the default **Effective** date of today's date.
 
@@ -177,7 +177,7 @@ You will have to do the following:
 
 9.  Accept the default **Level** of 0.00.
 
-10. Type **2** in the **Priority** field
+10. Enter or select **2** in the **Priority** field
 
 11. Close the **Resources** page.
 
@@ -655,12 +655,12 @@ You will have to do the following:
 
 2.  Select **New**.
 
-3.  Type **20** in the **Capability** field and **Assembly** in the
+3.  Enter or select **20** in the **Capability** field and **Assembly** in the
     **Description** field.
 
 4.  Select **New**.
 
-5.  Type **30** in the **Capability** field and **Packing** in the
+5.  Enter or select **30** in the **Capability** field and **Packing** in the
     **Description** field.
 
 6.  In the **Resources** FastTab, select **Add**.
@@ -671,7 +671,7 @@ You will have to do the following:
 
 9. Accept the default **Level** of 0.00.
 
-10. Type **1** in the **Priority** field.
+10. Enter or select **1** in the **Priority** field.
 
 11. Close the **Resource capabilities** form.
 
@@ -679,9 +679,9 @@ You will have to do the following:
 
 13. Select **New**.
 
-14. Type **000727** in the **Resource** field.
+14. Enter or select **000727** in the **Resource** field.
 
-15. Type **Assembly robot** in the **Description** field.
+15. Enter or select **Assembly robot** in the **Description** field.
 
 16. Accept the default of **Machine** in the **Type** field.
 
@@ -693,7 +693,7 @@ You will have to do the following:
 
 20. Accept the default **Level** of 0.00.
 
-21. Type **1** in the **Priority** field.
+21. Enter or select **1** in the **Priority** field.
 
 22. Expand the **Resource groups** FastTab.
 
@@ -701,7 +701,7 @@ You will have to do the following:
 
 24. Select **Add**.
 
-25. Type **1210** in the **Resource group** field, enter or select the next working day in
+25. Enter or select **1210** in the **Resource group** field, enter or select the next working day in
     the **Effective** field, and then accept the default expiration date of
     **Never**.
 
@@ -740,8 +740,7 @@ You will have to do the following:
 1.  In the **Route details** form for route 000002, with operation 10 selected
     in the top grid, select the **Resource requirements** tab on the bottom grid.
 
-2.  In the Resource requirements grid, select the line where **Requirement
-    type** is Capability and **Requirement** is Assembly.
+2.  In the Resource requirements grid, select the line where **Requirement type** is **Capability** and **Requirement** is **Assembly**.
 
 3.  Select **Delete**. Note that a message box will appear to confirm the action. Choose **Yes** to delete the record.
 
@@ -749,10 +748,9 @@ You will have to do the following:
 
 5.  On the Welcome screen, select **Next**.
 
-6.  On the Search criteria screen, select **Capability** in the **Requirement
-    type** field.
+6.  On the Search criteria screen, select **Capability** in the **Requirement type** field.
 
-7.  Type **20** in the **Requirement** field. 
+7.  Enter or select **20** in the **Requirement** field. 
 
 8. Accept the default option for resource requirements on activity.
 
@@ -761,8 +759,7 @@ You will have to do the following:
 10.  On the Action screen, leave the defaults and select Next.
 
 11. On the New resource requirements screen, set **Requirement type** to
-    **Capability**, **Requirement** to **20**, and check the **Operation
-    scheduling** and **Job scheduling** check boxes.
+    **Capability**, **Requirement** to **20**, and check the **Operation scheduling** and **Job scheduling** check boxes.
 
 12. Select **Next**.
 
@@ -1284,7 +1281,7 @@ You will have to do the following:
 
 27. In the **Sales unit** field, enter or select **gal**.
 
-28. In the **BOM unit** field, type **gal**.
+28. In the **BOM unit** field, enter or select **gal**.
 
 29. Select **OK**.
 
@@ -1322,7 +1319,7 @@ You will have to do the following:
 
 10. In the **Sales unit** field, enter or select **gal**.
 
-11. In the **BOM unit** field, type **gal**.
+11. In the **BOM unit** field, enter or select **gal**.
 
 12. Select **OK**.
 
@@ -1956,11 +1953,11 @@ You will have to do the following:
 
 14. Select **OK**.
 
-15. In the **Production type** field in the Engineer Fast Tab, select
+15. In the **Production type** field in the Engineer FastTab, select
     **'Formula'**.
 
 16. In the **Shelf life period in days** field in the Manage inventory Fast Tab,
-    enter 180.
+    enter **180**.
 
 17. Select **Save**.
 
@@ -2222,7 +2219,7 @@ You will have to do the following:
 
 2.  Select **New** if necessary.
 
-3.  In the **Cost** basis type field, enter **NYMEX**.
+3.  In the **Cost basis type** field, enter **NYMEX**.
 
 4.  In the **Description** field, enter **New York Mercantile Exchange**.
 
@@ -2419,7 +2416,7 @@ You will have to do the following:
 
 3.  In the **Cost basis type** field, enter or select **NYMEX**.
 
-4.  In the Site field, enter **1**.
+4.  In the **Site** field, enter **1**.
 
 5.  In the Run effective date field, set the date to **2020-02-20** or your
     local equivalent.
@@ -2451,7 +2448,7 @@ You will have to do the following:
 
 2.  In the **Cost basis type** field, enter or select **NYMEX**.
 
-3.  In the Site field, enter **1**.
+3.  In the **Site** field, enter **1**.
 
 4.  In the **Run effective date** field, set the date to **2020-02-27.**
 
@@ -4357,7 +4354,7 @@ activity with no constraints**
 
 2.  Select the **Successor Activity** of **RemoteTransfer**.
 
-3.  For Cycle time ration, type 1.
+3.  For Cycle time ration, enter or select 1.
 
 4.  Select the **OK** button.
 
