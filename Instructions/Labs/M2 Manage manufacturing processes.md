@@ -709,7 +709,7 @@ You will have to do the following:
 
 27. Accept the default **Input location**.
 
-28. Scroll up, expand **Calendars** tab, and select **Add**.
+28. Scroll up, expand the **Calendars** tab, and select **Add**.
 
 29. Select **24hr** in the **Calendar** field and then accept the default expiration date of **Never**.
 
@@ -1214,7 +1214,7 @@ You will have to do the following:
 
 13. Select **OK**.
 
-14. Expand the **Engineer** Fast Tab and select **Formula** in the **Production type** field.
+14. Expand the **Engineer** FastTab and select **Formula** in the **Production type** field.
 
 15. Expand the **Manage inventory** Fast Tab and enter **365** in the **Shelf life period in days** field.
 
