@@ -728,7 +728,7 @@ You will have to do the following:
 2. In the Resource requirements grid, select the line where **Requirement type** is **Capability** and **Requirement** is **Assembly**.
 
 3. Select **Delete**. 
-      >!Note A message box will appear to confirm the action. Choose **Yes** to delete the record.
+      >Note A message box will appear to confirm the action. Choose **Yes** to delete the record.
 
 4. Select **Maintain resource requirements.** This starts the wizard.
 
