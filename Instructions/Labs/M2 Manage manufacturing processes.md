@@ -233,8 +233,7 @@ You will have to do the following:
 
 22. **Close** all pages.
 
-    > [!NOTE]
-    > The message bar may appear with a message that states, "There exist no relation for operation Padding." The route contains the order of operations and the assignment of operations will occur in the next steps.
+    > **NOTE** The message bar may appear with a message that states, "*There exist no relation for operation Padding.*" The route contains the order of operations and the assignment of operations will occur in the next steps.
 
 23. Go to **Production control \> Setup \> Routes \> Operations**.
 
@@ -727,8 +726,9 @@ You will have to do the following:
 
 2. In the Resource requirements grid, select the line where **Requirement type** is **Capability** and **Requirement** is **Assembly**.
 
-3. Select **Delete**. 
-      >Note A message box will appear to confirm the action. Choose **Yes** to delete the record.
+3. Select **Delete**.
+
+    > **NOTE** A message box will appear to confirm the action. Choose **Yes** to delete the record.
 
 4. Select **Maintain resource requirements.** This starts the wizard.
 
@@ -1006,7 +1006,7 @@ You will have to do the following:
 
 20. Go to **Production control \> Manufacturing execution \> Job card device**.
 
-    >[!Note] Not the **Setup** group from the previous excercise. Use the search box on the navigation bar to locate the Job card device form.
+    > **NOTE** Please do not use the **Setup** group from the previous excercise. Use the search box on the navigation bar to locate the Job card device form.
 
 21. In the **Personnel number** field, enter or select **069**.
 
@@ -1181,21 +1181,27 @@ You will have to do the following:
 
 4. In the **Product name** field, enter or select Gasoline.
 
-5. In the **Item model group** field, enter or select a value. (Note: For prioritized consumption on limited shelf life, FEFO is recommended.)
+5. In the **Item model group** field, enter or select a value.
+
+    > **NOTE** For prioritized consumption on limited shelf life, FEFO is recommended.
 
 6. In the **Item group** field, enter or select a value.
 
 7. In the **Storage dimension group** field, enter or select a value.
 
-8. In the **Tracking dimension group** field, enter or select a value. (Note: To use the shelf-life settings on the released products details page on the General FastTab, set the **Tracking dimension group** field to a tracking dimension group that is set up to track the batch dimension. You can set this field only when you're first creating a product.  If the dimension value is set to **None**, the option to edit the shelf life field will be disabled. You can't change the value for existing products.)
+8. In the **Tracking dimension group** field, enter or select a value.
+
+    > **NOTE** To use the shelf-life settings on the released products details page on the General FastTab, set the **Tracking dimension group** field to a tracking dimension group that is set up to track the batch dimension. You can set this field only when you're first creating a product.  If the dimension value is set to **None**, the option to edit the shelf life field will be disabled. You can't change the value for existing products.
 
 9. In the **Inventory unit** field, enter or select **gal**.
 
-10. In the **Purchase unit** field, enter or select **gal**. (Note: you may need to change the dropdown in the selection menu to **All**.)
+10. In the **Purchase unit** field, enter or select **gal**.
 
-11. In the **Sales unit** field, enter or select **gal**. (Note: you may need to change the dropdown in the selection menu to **All**.)
+    > **NOTE** You may need to change the dropdown in the selection menu to **All** for this step and the following two steps to get the proper conversion.
 
-12. In the **BOM unit** field, enter or select **gal**. (Note: you may need to change the dropdown in the selection menu to **All**.)
+11. In the **Sales unit** field, enter or select **gal**.
+
+12. In the **BOM unit** field, enter or select **gal**.
 
 13. Select **OK**.
 
@@ -1389,10 +1395,11 @@ You will have to do the following:
 
 #### **Create a formula for part P15000**
 
-1. Go to **Product information management\>Products\>Released products**.
+1. Go to **Product information management \> Products \> Released products**.
 
-2. Use the Quick Filter to find records. For example, filter on the Item number
-    field with a value of **p15000**. Note the lowercase – it is not case
+2. Use the Quick Filter to find records. For example, filter on the Item number field with a value of **p15000**.
+
+    > **NOTE** The value is provided value in lowercase but it is not case
     sensitive.
 
 3. Select the ellipsis, if needed, to get to the **Engineer** tab on the action
@@ -1426,7 +1433,7 @@ You will have to do the following:
 
 3. In the **Item number** field, enter or select **M12000**.
 
-    Note: When you select **New**, you may need to change the dropdown in the selection menu to **Other**.
+    > **NOTE** When you select **New**, you may need to change the dropdown in the selection menu to **Other**.
 
 4. In the **Warehouse** field, enter or select a value.
 
@@ -1436,7 +1443,7 @@ You will have to do the following:
 
 7. In the **Item number** field, enter or select **M2001**.
 
-    Note: When you select **New**, you may need to change the dropdown in the selection menu to **Other**.
+    > **NOTE** When you select **New**, you may need to change the dropdown in the selection menu to **Other**.
 
 8. Set **Quantity** to **600**.
 
@@ -1616,7 +1623,7 @@ You will have to do the following:
 
 6. In the **Item number** field, enter or select **M9103**.
 
-    Note: When you select **New**, you may need to change the dropdown in the selection menu to **Other**.
+    > **NOTE** When you select **New**, you may need to change the dropdown in the selection menu to **Other**.
 
 7. Set **Quantity** to **800**.
 
