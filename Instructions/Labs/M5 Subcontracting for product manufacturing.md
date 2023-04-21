@@ -5,12 +5,14 @@ lab:
 ---
 
 Module 5 Subcontracting for product manufacturing
+
 =================================================
 
 Case study 3 Subcontracting
 ---------------------------
 
-### Exercise \#1: Set up subcontracting features
+Exercise \#1: Set up subcontracting features
+---------------------------
 
 The production manager, want to get familiar with the setups before using the
 subcontracting features of Microsoft Dynamics 365 Supply Chain Management.
@@ -22,56 +24,57 @@ Can you help?
 
 You will have to do the following:
 
--   Set up the default vendor for a warehouse
+- Set up the default vendor for a warehouse
 
--   Create a purchase agreement
+- Create a purchase agreement
 
--   Create a work cell for subcontracting (specific to lean manufacturing)
+- Create a work cell for subcontracting (specific to lean manufacturing)
 
--   Create an activity-based subcontracting rule (specific to lean
+- Create an activity-based subcontracting rule (specific to lean
     manufacturing)
 
--   Create and schedule a Kanban for subcontracting (specific to lean
+- Create and schedule a Kanban for subcontracting (specific to lean
     manufacturing)
 
--   Process and transfer jobs (specific to lean manufacturing)
+- Process and transfer jobs (specific to lean manufacturing)
 
-#### Steps
+### Steps
+---
 
-**Set up the default vendor for a warehouse**
+### Set up the default vendor for a warehouse
 
-1.  Go to **Inventory management \> Setup \> Inventory breakdown \>
+1. Go to **Inventory management \> Setup \> Inventory breakdown \>
     Warehouses**.
 
-2.  In the list, find and select Warehouse **12-801**.
+2. In the list, find and select Warehouse **12-801**.
 
-3.  Verify that the **Vendor account** field in the General tab is set to
+3. Verify that the **Vendor account** field in the General tab is set to
     **US-801**.
 
-4.  Close the page.
+4. Close the page.
 
-**Create a purchase agreement**
+### Create a purchase agreement
 
-1.  Go to **Procurement and sourcing \> Purchase agreements \> Purchase
+1. Go to **Procurement and sourcing \> Purchase agreements \> Purchase
     agreements**.
 
-2.  Select **New**.
+2. Select **New**.
 
-3.  In the **Vendor account** field, enter or select **US-801**.
+3. In the **Vendor account** field, enter or select **US-801**.
 
-4.  In the **Purchase agreement classification** field, enter or select
+4. In the **Purchase agreement classification** field, enter or select
     **General purchases**.
 
-5.  Expand the **General** section.
+5. Expand the **General** section.
 
-6.  In the **Expiration date** field, enter a date in future which agreements
+6. In the **Expiration date** field, enter a date in future which agreements
     should be expired by.
 
-7.  Select **OK**.
+7. Select **OK**.
 
-8.  Expand the **Purchase agreement header** section.
+8. Expand the **Purchase agreement header** section.
 
-9.  In the **Default commitment** field, select **Product value commitment**.
+9. In the **Default commitment** field, select **Product value commitment**.
 
 10. Select **Lines**. Select **Add line**.
 
@@ -97,23 +100,23 @@ You will have to do the following:
 
 **Create a work cell for subcontracting**
 
-1.  Go to **Organization administration \> Resources \> Resources**.
+1. Go to **Organization administration \> Resources \> Resources**.
 
-2.  Select **New**.
+2. Select **New**.
 
-3.  In the **Resource** field, enter or select **GTL-Sub1**.
+3. In the **Resource** field, enter or select **GTL-Sub1**.
 
-4.  In the **Description** field, enter or select **Subcontractor 1**.
+4. In the **Description** field, enter or select **Subcontractor 1**.
 
-5.  In the **Type** field, select **Vendor**.
+5. In the **Type** field, select **Vendor**.
 
-6.  Select **Save**.
+6. Select **Save**.
 
-7.  Close the page.
+7. Close the page.
 
-8.  Go to **Organization administration \> Resources \> Resource groups**.
+8. Go to **Organization administration \> Resources \> Resource groups**.
 
-9.  Select **New**.
+9. Select **New**.
 
 10. In the **Resource group** field, enter or select **eBookSub**.
 
@@ -160,25 +163,25 @@ You will have to do the following:
 
 **Create Activity based subcontracting rule.**
 
-1.  Go to **Production control \> Setup \> Lean production flow \> Production
+1. Go to **Production control \> Setup \> Lean production flow \> Production
     flows**.
 
-2.  In the list, find and enter or select the **Speaker driver** link to get to the
+2. In the list, find and enter or select the **Speaker driver** link to get to the
     details page.
 
-3.  Under **Versions** section, enter or select **Add**.
+3. Under **Versions** section, enter or select **Add**.
 
-4.  Select **OK**.
+4. Select **OK**.
 
-5.  In the list, find and select the new version with a status of **Draft**.
+5. In the list, find and select the new version with a status of **Draft**.
 
-6.  Select **Activities**.
+6. Select **Activities**.
 
-7.  Select **Create new plan activity**.
+7. Select **Create new plan activity**.
 
-8.  Select **Next**.
+8. Select **Next**.
 
-9.  In the **Name** field, enter or select **GTL-Subcontracting activity**.
+9. In the **Name** field, enter or select **GTL-Subcontracting activity**.
 
 10. Select **Next**.
 
@@ -307,25 +310,25 @@ You will have to do the following:
 
 **Create and schedule Kanbans for subcontracting**
 
-1.  Go to **Product information management** \> **Lean manufacturing** \> **Kanban rules**.
+1. Go to **Product information management** \> **Lean manufacturing** \> **Kanban rules**.
 
-2.  Select **New**.
+2. Select **New**.
 
-3.  In the **First plan activity** field, enter or select **GTL-Subcontracting
+3. In the **First plan activity** field, enter or select **GTL-Subcontracting
     activity**
 
-4.  Select the **Multiple activities** check box.
+4. Select the **Multiple activities** check box.
 
-5.  In the **Last plan activity** field, enter or select **GTL-Transfer to
+5. In the **Last plan activity** field, enter or select **GTL-Transfer to
     subcontractor**
 
-6.  Select **OK**.
+6. Select **OK**.
 
-7.  In the **Product** field, enter or select **L0001**.
+7. In the **Product** field, enter or select **L0001**.
 
-8.  Expand the **Quantities** section.
+8. Expand the **Quantities** section.
 
-9.  Set **Default quantity** to **50.00**.
+9. Set **Default quantity** to **50.00**.
 
 10. In the **Fixed kanban quantity** field, enter **25**.
 
@@ -357,23 +360,23 @@ You will have to do the following:
 
 **Process and transfer jobs**
 
-1.  Go to **Production control \> Kanban \> Kanban board for process jobs**.
+1. Go to **Production control \> Kanban \> Kanban board for process jobs**.
 
-2.  In the Work cell field, enter or select **eBookSub**.
+2. In the Work cell field, enter or select **eBookSub**.
 
-3.  In the list, mark the selected row.
+3. In the list, mark the selected row.
 
-4.  Select **Prepare**.
+4. Select **Prepare**.
 
-5.  Select **Start**.
+5. Select **Start**.
 
-6.  Select **Complete**.
+6. Select **Complete**.
 
-7.  Expand the **Transfer jobs** section.
+7. Expand the **Transfer jobs** section.
 
-8.  In the list, mark the selected row.
+8. In the list, mark the selected row.
 
-9.  Select **Start**.
+9. Select **Start**.
 
 10. Select **Complete**.
 
