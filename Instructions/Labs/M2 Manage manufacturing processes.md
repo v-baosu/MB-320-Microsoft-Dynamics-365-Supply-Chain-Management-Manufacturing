@@ -61,7 +61,7 @@ You will have to do the following:
 
 #### Steps
 
-##### **Create a production pool for delayed subcontracted work**
+#### **Create a production pool for delayed subcontracted work**
 
 1. Open **Production control \> Setup \> Production \> Production pools**.
 
@@ -71,7 +71,7 @@ You will have to do the following:
 
 4. Enter or select **Subcontracted Work Delayed** in the **Name** field.
 
-##### **Create a production pool for missing materials**
+#### **Create a production pool for missing materials**
 
 1. Select **New** to create a new pool.
 
@@ -79,7 +79,7 @@ You will have to do the following:
 
 3. Enter or select **Materials Missing** in the **Name** field.
 
-##### **Create a production pool for machine failures**
+#### **Create a production pool for machine failures**
 
 1. Select **New** to create a new pool.
 
