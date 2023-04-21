@@ -2228,7 +2228,6 @@ You will have to do the following:
 6.  Close the page.
 
  
-
 **Create a pricing template**
 
 1.  Go to **Inventory management \> Setup \> Commodity pricing \> Pricing
@@ -2242,7 +2241,6 @@ You will have to do the following:
 
 5.  Select **Save**.
 
- 
 
 **Create a quantity and margin template**
 
@@ -2264,6 +2262,7 @@ You will have to do the following:
 8.  Select **Save**.
 
 9.  Close the page.
+
 
 **Complete the inventory parameter setup**
 
@@ -2298,6 +2297,7 @@ You will have to do the following:
 
 15. Close the page.
 
+
 **Set up pricing calculation**
 
 1.  Go to **Inventory management \> Periodic tasks \> Commodity pricing \>
@@ -2314,6 +2314,7 @@ You will have to do the following:
 6.  Select **Save**.
 
 7.  Close the page.
+
 
 ### Exercise \#10: Change a price calculation and update trade agreements
 
