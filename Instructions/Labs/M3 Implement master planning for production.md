@@ -39,7 +39,9 @@ You will have to do the following:
 
 #### Steps
 
-**Note: Before the execution of this task, credit management needs to be disabled. Complete the following steps:**
+> **NOTE** Before the execution of this task, credit management will need to be disabled.
+
+Complete the following steps:
 
 1. Open the **Sales and marketing \> Customers \> All customers** module.
 
@@ -200,23 +202,27 @@ You will have to do the following:
 
 2. Select **Wizard**.
 
-3. Select **Apples** from **Item Group** drop-down menu.
+3. Select **Next**
 
-4. Enter or select **Apples Group** in **Name** box.
+4. Select **Audio** from **Item Group** drop-down menu.
 
-5. Select **Next.**
+5. Select **Next**
 
-6. Select **Next** on the **Overview** page after verifying the information is
+6. Enter or select **Audio Group** in **Name** box.
+
+7. Select **Next.**
+
+8. Select **Next** on the **Overview** page after verifying the information is
     correct.
 
-7. Select **Finish** on the **Completed** page after verifying the information
+9. Select **Finish** on the **Completed** page after verifying the information
     is correct.
 
-8. Select **Demand Forecasting \> Intercompany Planning Groups**.
+10. Select **Demand Forecasting \> Intercompany Planning Groups**.
 
-9. Select **Item Allocation Keys.**
+11. Select **Item Allocation Keys.**
 
-10. Select **Apples** under the **Unassigned Item Allocation Keys** box, then
+12. Select **Apples** under the **Unassigned Item Allocation Keys** box, then
     select **\>** to move it to the **Assigned Allocation Keys** box.
 
 #### **Run an intercompany master plan**
