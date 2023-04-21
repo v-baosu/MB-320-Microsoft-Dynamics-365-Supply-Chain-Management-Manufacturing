@@ -2163,7 +2163,7 @@ step levels**
 
 5.  Select **Activate**.
 
-### Exercise \#9: Set up commodity pricing (Bonus)
+### Exercise \#9: Set up commodity pricing
 
 In company USP2, the price of apples, part M9103, is to be tracked based upon
 the NYMEX commodity exchange pricing of apples.
