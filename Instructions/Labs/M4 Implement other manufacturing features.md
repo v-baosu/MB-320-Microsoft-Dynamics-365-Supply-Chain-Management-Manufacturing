@@ -6,4 +6,4 @@ lab:
 
 # Module 4 Implement other manufacturing features
 
-There are no case studies for this module.
+> **NOTE** There are no case studies for this module.
