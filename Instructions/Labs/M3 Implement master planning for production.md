@@ -222,7 +222,7 @@ You will have to do the following:
 
 11. Select **Item Allocation Keys.**
 
-12. Select **Apples** under the **Unassigned Item Allocation Keys** box, then
+12. Select **Audio** under the **Unassigned Item Allocation Keys** box, then
     select **\>** to move it to the **Assigned Allocation Keys** box.
 
 #### **Run an intercompany master plan**
