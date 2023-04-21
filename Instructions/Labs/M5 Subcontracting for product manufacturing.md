@@ -4,15 +4,11 @@ lab:
     module: 'Module 5 Subcontracting for product manufacturing'
 ---
 
-Module 5 Subcontracting for product manufacturing
+# Module 5 Subcontracting for product manufacturing
 
-=================================================
+## Case study 3 Subcontracting
 
-Case study 3 Subcontracting
----------------------------
-
-Exercise \#1: Set up subcontracting features
----------------------------
+### Exercise \#1: Set up subcontracting features
 
 The production manager, want to get familiar with the setups before using the
 subcontracting features of Microsoft Dynamics 365 Supply Chain Management.
@@ -38,10 +34,9 @@ You will have to do the following:
 
 - Process and transfer jobs (specific to lean manufacturing)
 
-### Steps
----
+#### Steps
 
-### Set up the default vendor for a warehouse
+#### Set up the default vendor for a warehouse
 
 1. Go to **Inventory management \> Setup \> Inventory breakdown \>
     Warehouses**.
@@ -53,7 +48,7 @@ You will have to do the following:
 
 4. Close the page.
 
-### Create a purchase agreement
+#### Create a purchase agreement
 
 1. Go to **Procurement and sourcing \> Purchase agreements \> Purchase
     agreements**.
@@ -98,7 +93,7 @@ You will have to do the following:
 
 20. Close all forms.
 
-**Create a work cell for subcontracting**
+#### Create a work cell for subcontracting
 
 1. Go to **Organization administration \> Resources \> Resources**.
 

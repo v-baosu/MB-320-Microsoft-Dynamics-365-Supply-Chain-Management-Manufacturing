@@ -4,11 +4,9 @@ lab:
     module: 'Module 3 Implement master planning'
 ---
 
-Module 3 Implement master planning
-==================================
+# Module 3 Implement master planning
 
-Case study 2 Master planning
-----------------------------
+## Case study 2 Master planning
 
 ### Exercise \#1: Firm a planned order and change the order type
 
@@ -27,17 +25,17 @@ Would you be able to help?
 
 You will have to do the following:
 
--   Create and confirm a sales order
+- Create and confirm a sales order
 
--   Run master planning
+- Run master planning
 
--   Firm a planned order
+- Firm a planned order
 
--   Review the purchase order
+- Review the purchase order
 
--   Change a planned order type
+- Change a planned order type
 
--   Review the planned order and verify the change
+- Review the planned order and verify the change
 
 #### Steps
 
@@ -55,26 +53,25 @@ You will have to do the following:
 
 6. Select **Save**.
 
-
 **Create and confirm a sales order**
 
-1.  Open **Sales and marketing** \> **Sales orders** \> **All Sales orders**.
+1. Open **Sales and marketing** \> **Sales orders** \> **All Sales orders**.
 
-2.  Select **New**.
+2. Select **New**.
 
-3.  Enter or select **US-013** for customer Pelican Wholesales in the **Customer account** field.
+3. Enter or select **US-013** for customer Pelican Wholesales in the **Customer account** field.
 
-4.  Accept the default settings in all other fields. Select **OK**.
+4. Accept the default settings in all other fields. Select **OK**.
 
-5.  In the **Sales order** form, open the **Sales order Lines** FastTab.
+5. In the **Sales order** form, open the **Sales order Lines** FastTab.
 
-6.  Enter or select **D0003** in the Item number field.
+6. Enter or select **D0003** in the Item number field.
 
-7.  Enter or select **12** in the **Quantity** field.
+7. Enter or select **12** in the **Quantity** field.
 
-8.  Accept the default values for the remaining fields.
+8. Accept the default values for the remaining fields.
 
-9.  Select **Save**.
+9. Select **Save**.
 
 10. Select **Confirm sales order** from the **Sell** tab in the Action pane.
 
@@ -88,54 +85,54 @@ You will have to do the following:
 
 **Run master planning**
 
-1.  Open **Master Planning \> Master Planning \> Run \> Master Planning**.
+1. Open **Master Planning \> Master Planning \> Run \> Master Planning**.
 
-2.  In the **Master plan** field, select **StaticPlan**.
+2. In the **Master plan** field, select **StaticPlan**.
 
-3.  Select **OK**.
+3. Select **OK**.
 
 **Firm a planned order**
 
-1.  Open **Master planning** \> **Master planning** \> **Planned orders**.
+1. Open **Master planning** \> **Master planning** \> **Planned orders**.
 
-2.  In the **Planned orders** page, select the line for order number **004261**.
+2. In the **Planned orders** page, select the line for order number **004261**.
 
-3.  Select the **Firm** button in the Action pane.
+3. Select the **Firm** button in the Action pane.
 
-4.  In the **Firming** page, in the **Update marking** field, select **Standard**.
+4. In the **Firming** page, in the **Update marking** field, select **Standard**.
 
-5.  Select **OK**.
+5. Select **OK**.
 
 **Review the purchase order**
 
-1.  Open **Procurement and sourcing \> Purchase orders \> All purchase orders**.
+1. Open **Procurement and sourcing \> Purchase orders \> All purchase orders**.
 
-2.  In the **All purchase orders** page, sort the list by the **Delivery date** field.
+2. In the **All purchase orders** page, sort the list by the **Delivery date** field.
 
-3.  Verify the firmed order is now listed with a status of Open order.
+3. Verify the firmed order is now listed with a status of Open order.
 
-4.  Close the pages.
+4. Close the pages.
 
 **Change a planned order type**
 
-1.  Open **Master planning \> Master planning \> Planned orders**.
+1. Open **Master planning \> Master planning \> Planned orders**.
 
-2.  In the **Planned orders** page, select the line for order number 004262.
+2. In the **Planned orders** page, select the line for order number 004262.
 
-3.  Select the **Planned order** tab in the action pane.
+3. Select the **Planned order** tab in the action pane.
 
-4.  Select the Change to drop-down arrow in the Maintain area.
+4. Select the Change to drop-down arrow in the Maintain area.
 
-5.  Select **Planned production order**.
+5. Select **Planned production order**.
 
-6.  In the **Change to planned production order** page, select **OK**.
+6. In the **Change to planned production order** page, select **OK**.
 
 **Review the planned order and verify the change**
 
-1.  In the **Planned orders** list page, verify that the Reference field has been
+1. In the **Planned orders** list page, verify that the Reference field has been
     updated to Planned production orders for order number **004262**.
 
-2.  Close the pages.
+2. Close the pages.
 
 ### Exercise \#2: Create an intercompany planning group and assign an item allocation key
 
@@ -162,35 +159,35 @@ Can you help?
 
 You will have to do the following:
 
--   Create an intercompany planning group
+- Create an intercompany planning group
 
--   Assign an item allocation key
+- Assign an item allocation key
 
--   Run an intercompany  
+- Run an intercompany  
     master plan
 
 #### Steps
 
 **Create an intercompany planning group**
 
-1.  In the USMF Company, select **Show navigation pane**.
+1. In the USMF Company, select **Show navigation pane**.
 
-2.  Open **Master planning \> Setup \> Intercompany planning groups**.
+2. Open **Master planning \> Setup \> Intercompany planning groups**.
 
-3.  Select **New** in the Action pane.
+3. Select **New** in the Action pane.
 
-4.  Enter **40** in the **Name** field and **Intercompany Extended Group** in the **Description** field.
+4. Enter **40** in the **Name** field and **Intercompany Extended Group** in the **Description** field.
 
-5.  Select **Save**.
+5. Select **Save**.
 
-6.  Select **New** on the tool bar for **Intercompany planning group members**
+6. Select **New** on the tool bar for **Intercompany planning group members**
     tab.
 
-7.  Select **DEMF** in the **Legal entity** field.
+7. Select **DEMF** in the **Legal entity** field.
 
-8.  Enter **0** in the **Scheduling sequence** field.
+8. Enter **0** in the **Scheduling sequence** field.
 
-9.  Select **20** in the **Master Plan** field.
+9. Select **20** in the **Master Plan** field.
 
 10. Leave the **Automatic Copy to Static Plan** and **Automatic Copy to Dynamic Plan**
      checkboxes blank.
@@ -199,48 +196,48 @@ You will have to do the following:
 
 **Assign an item allocation key**
 
-1.  Select **Master Planning \> Setup \> Demand Forecasting \> Item Allocation Keys**.
+1. Select **Master Planning \> Setup \> Demand Forecasting \> Item Allocation Keys**.
 
-2.  Select **Wizard**.
+2. Select **Wizard**.
 
-3.  Select **Apples** from **Item Group** drop-down menu.
+3. Select **Apples** from **Item Group** drop-down menu.
 
-4.  Enter or select **Apples Group** in **Name** box.
+4. Enter or select **Apples Group** in **Name** box.
 
-5.  Select **Next.**
+5. Select **Next.**
 
-6.  Select **Next** on the **Overview** page after verifying the information is
+6. Select **Next** on the **Overview** page after verifying the information is
     correct.
 
-7.  Select **Finish** on the **Completed** page after verifying the information
+7. Select **Finish** on the **Completed** page after verifying the information
     is correct.
 
-8.  Select **Demand Forecasting \> Intercompany Planning Groups**.
+8. Select **Demand Forecasting \> Intercompany Planning Groups**.
 
-9.  Select **Item Allocation Keys.**
+9. Select **Item Allocation Keys.**
 
 10. Select **Apples** under the **Unassigned Item Allocation Keys** box, then
     select **\>** to move it to the **Assigned Allocation Keys** box.
 
 **Run an intercompany master plan**
 
-1.  In the USMF company, select the **Show navigation pane**.
+1. In the USMF company, select the **Show navigation pane**.
 
-2.  Open **Master planning** \> **Run** \> **Intercompany master planning**.
+2. Open **Master planning** \> **Run** \> **Intercompany master planning**.
 
-3.  Select **60** for **Intercompany planning group**.
+3. Select **60** for **Intercompany planning group**.
 
-4.  Select **2** for **Number of intercompany planning iterations**.
+4. Select **2** for **Number of intercompany planning iterations**.
 
-5.  Select **Regeneration** for **First iteration**.
+5. Select **Regeneration** for **First iteration**.
 
-6.  Select **Net change** for **Subsequent iteration**.
+6. Select **Net change** for **Subsequent iteration**.
 
-7.  Select **Track processing time** setting slider to **No**.
+7. Select **Track processing time** setting slider to **No**.
 
-8.  Set **Number of threads** to **0**.
+8. Set **Number of threads** to **0**.
 
-9.  Select **Run in the background**.
+9. Select **Run in the background**.
 
 10. Select **OK**.
 
@@ -258,35 +255,35 @@ Can you help?
 
 You will have to do the following:
 
--   Configure item coverage
+- Configure item coverage
 
--   Create a scheduled  
+- Create a scheduled  
     Kanban rule
 
--   Run master planning
+- Run master planning
 
 #### Steps
 
 **Configure item coverage:**
 
-1.  Go to **Master planning \> Setup \> Item coverage**.
+1. Go to **Master planning \> Setup \> Item coverage**.
 
-2.  Use the Quick Filter to filter on the Item number field with a value of
+2. Use the Quick Filter to filter on the Item number field with a value of
     **L0025**.
 
-3.  Select **Item coverage**.
+3. Select **Item coverage**.
 
-4.  Select **New**.
+4. Select **New**.
 
-5.  Set **Minimum** to **150.00**.
+5. Set **Minimum** to **150.00**.
 
-6.  In the **Warehouse** field, enter or select **13**.
+6. In the **Warehouse** field, enter or select **13**.
 
-7.  Select the **General** tab.
+7. Select the **General** tab.
 
-8.  Select the **Override time fences** check box.
+8. Select the **Override time fences** check box.
 
-9.  In the **Automatic firming time fence (days)** field, enter **1**.
+9. In the **Automatic firming time fence (days)** field, enter **1**.
 
 10. Select the **Lead time** tab.
 
@@ -302,55 +299,55 @@ You will have to do the following:
 
 **Create scheduled kanban rule**
 
-1.  Go to **Product information management \> Lean manufacturing \> Kanban
+1. Go to **Product information management \> Lean manufacturing \> Kanban
     rules**.
 
-2.  Select **New**.
+2. Select **New**.
 
-3.  In the **Replenishment strategy** field, select **Scheduled**.
+3. In the **Replenishment strategy** field, select **Scheduled**.
 
-4.  In the **First plan activity** field, enter or select **Final assembly**
+4. In the **First plan activity** field, enter or select **Final assembly**
 
-5.  Collapse the **Kanban rule** section.
+5. Collapse the **Kanban rule** section.
 
-6.  Expand the **Details** section.
+6. Expand the **Details** section.
 
-7.  In the **Product** field, enter or select **L0025**.
+7. In the **Product** field, enter or select **L0025**.
 
-8.  In the **Configuration** field, enter or select **01**.
+8. In the **Configuration** field, enter or select **01**.
 
-9.  Select Save.
+9. Select Save.
 
 10. Close the page.
 
 **Run master planning**
 
-1.  Go to **Master planning \> Master planning \> Run \> Master planning**.
+1. Go to **Master planning \> Master planning \> Run \> Master planning**.
 
-2.  In the **Master plan** field, enter or select **DynPlan**.
+2. In the **Master plan** field, enter or select **DynPlan**.
 
-3.  Expand the **Records to include** to include section.
+3. Expand the **Records to include** to include section.
 
-4.  Select **Filter**.
+4. Select **Filter**.
 
-5.  In the Criteria field, enter or select **L0025**.
+5. In the Criteria field, enter or select **L0025**.
 
-6.  Select **OK**.
+6. Select **OK**.
 
-7.  Select **OK**.
+7. Select **OK**.
 
 **View results**
 
-1.  Go to **Master planning \> Master planning \> Planned orders**
+1. Go to **Master planning \> Master planning \> Planned orders**
 
-2.  Use the Quick Filter to filter on the Item number field with a value of
+2. Use the Quick Filter to filter on the Item number field with a value of
     **L0025** and press **Enter**.
 
-3.  Review planned kanbans for **L0025**.
+3. Review planned kanbans for **L0025**.
 
-4.  Select the line with quantity of 150.
+4. Select the line with quantity of 150.
 
-5.  Select **Supply schedule** in the view tab on the action pane.
+5. Select **Supply schedule** in the view tab on the action pane.
 
-6.  Verify the results. As you have learned, the kanbans were generated by
+6. Verify the results. As you have learned, the kanbans were generated by
     Master planning.

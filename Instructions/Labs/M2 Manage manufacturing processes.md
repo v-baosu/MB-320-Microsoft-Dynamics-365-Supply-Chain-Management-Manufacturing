@@ -4,12 +4,9 @@ lab:
     module: 'Module 2 Manage manufacturing processes'
 ---
 
-Module 2 Manage manufacturing processes
+# Module 2 Manage manufacturing processes
 
----------------------------------------
-
-Case study 1A Discrete, Process and Lean manufacturing features
----------------------------------------------------------------
+## Case study 1A Discrete, Process and Lean manufacturing features
 
 ### Exercise \#1: Update the production control parameters
 
@@ -32,8 +29,7 @@ You will have to do the following:
 
 1. Go to **Production control \> Setup \> Production control parameters**.
 
-2. Set the **Block removal of approval** slider to **Yes** under
-    the **Routes** group.
+2. Set the **Block removal of approval** slider to **Yes** under the **Routes** group.
 
 3. Set the **Block editing** slider to **Yes** under the **Routes** group.
 
@@ -65,7 +61,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a production pool for delayed subcontracted work**
+##### **Create a production pool for delayed subcontracted work**
 
 1. Open **Production control \> Setup \> Production \> Production pools**.
 
@@ -75,7 +71,7 @@ You will have to do the following:
 
 4. Enter or select **Subcontracted Work Delayed** in the **Name** field.
 
-**Create a production pool for missing materials**
+##### **Create a production pool for missing materials**
 
 1. Select **New** to create a new pool.
 
@@ -83,7 +79,7 @@ You will have to do the following:
 
 3. Enter or select **Materials Missing** in the **Name** field.
 
-**Create a production pool for machine failures**
+##### **Create a production pool for machine failures**
 
 1. Select **New** to create a new pool.
 
