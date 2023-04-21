@@ -53,7 +53,7 @@ You will have to do the following:
 
 6. Select **Save**.
 
-**Create and confirm a sales order**
+#### **Create and confirm a sales order**
 
 1. Open **Sales and marketing** \> **Sales orders** \> **All Sales orders**.
 
@@ -83,7 +83,7 @@ You will have to do the following:
 
 14. Close all pages.
 
-**Run master planning**
+#### **Run master planning**
 
 1. Open **Master Planning \> Master Planning \> Run \> Master Planning**.
 
@@ -91,7 +91,7 @@ You will have to do the following:
 
 3. Select **OK**.
 
-**Firm a planned order**
+#### **Firm a planned order**
 
 1. Open **Master planning** \> **Master planning** \> **Planned orders**.
 
@@ -103,7 +103,7 @@ You will have to do the following:
 
 5. Select **OK**.
 
-**Review the purchase order**
+#### **Review the purchase order**
 
 1. Open **Procurement and sourcing \> Purchase orders \> All purchase orders**.
 
@@ -113,7 +113,7 @@ You will have to do the following:
 
 4. Close the pages.
 
-**Change a planned order type**
+#### **Change a planned order type**
 
 1. Open **Master planning \> Master planning \> Planned orders**.
 
@@ -127,7 +127,7 @@ You will have to do the following:
 
 6. In the **Change to planned production order** page, select **OK**.
 
-**Review the planned order and verify the change**
+#### **Review the planned order and verify the change**
 
 1. In the **Planned orders** list page, verify that the Reference field has been
     updated to Planned production orders for order number **004262**.
@@ -168,7 +168,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create an intercompany planning group**
+#### **Create an intercompany planning group**
 
 1. In the USMF Company, select **Show navigation pane**.
 
@@ -194,7 +194,7 @@ You will have to do the following:
 
 11. Select **Save.**
 
-**Assign an item allocation key**
+#### **Assign an item allocation key**
 
 1. Select **Master Planning \> Setup \> Demand Forecasting \> Item Allocation Keys**.
 
@@ -219,7 +219,7 @@ You will have to do the following:
 10. Select **Apples** under the **Unassigned Item Allocation Keys** box, then
     select **\>** to move it to the **Assigned Allocation Keys** box.
 
-**Run an intercompany master plan**
+#### **Run an intercompany master plan**
 
 1. In the USMF company, select the **Show navigation pane**.
 
@@ -264,7 +264,7 @@ You will have to do the following:
 
 #### Steps
 
-**Configure item coverage:**
+#### **Configure item coverage:**
 
 1. Go to **Master planning \> Setup \> Item coverage**.
 
@@ -297,7 +297,7 @@ You will have to do the following:
 
 15. Close all forms.
 
-**Create scheduled kanban rule**
+#### **Create scheduled kanban rule**
 
 1. Go to **Product information management \> Lean manufacturing \> Kanban
     rules**.
@@ -320,7 +320,7 @@ You will have to do the following:
 
 10. Close the page.
 
-**Run master planning**
+#### **Run master planning**
 
 1. Go to **Master planning \> Master planning \> Run \> Master planning**.
 
@@ -336,7 +336,7 @@ You will have to do the following:
 
 7. Select **OK**.
 
-**View results**
+#### **View results**
 
 1. Go to **Master planning \> Master planning \> Planned orders**
 

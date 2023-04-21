@@ -113,7 +113,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create capabilities**
+#### **Create capabilities**
 
 1. Go to **Organization administration \> Resources \> Resource capabilities**.
 
@@ -129,7 +129,7 @@ You will have to do the following:
 
 6. Close the **Resource capabilities** page.
 
-**Assign resources to capability**
+#### **Assign resources to capability**
 
 1. Go to **Organization administration \> Resources \> Resource capabilities**.
 
@@ -149,7 +149,7 @@ You will have to do the following:
 
 9. Close the **Resource capabilities** page.
 
-**Assign capabilities to a resource**
+#### **Assign capabilities to a resource**
 
 1. Go to **Organization administration \> Resources \> Resources**.
 
@@ -700,7 +700,7 @@ You will have to do the following:
 
 30. Close the **Resources** form.
 
-**Identify resources applicable for the operation**
+#### **Identify resources applicable for the operation**
 
 1. Navigate to **Production control \> Operations \> All routes**
 
@@ -720,14 +720,15 @@ You will have to do the following:
 
 8. Select **OK**. This closes the **Applicable resources** form.
 
-**To add requirements for a capability to an operation, follow these steps:**
+#### **To add requirements for a capability to an operation, follow these steps:**
 
 1. In the **Route details** form for route 000002, with operation 10 selected
     in the top grid, select the **Resource requirements** tab on the bottom grid.
 
 2. In the Resource requirements grid, select the line where **Requirement type** is **Capability** and **Requirement** is **Assembly**.
 
-3. Select **Delete**. Note that a message box will appear to confirm the action. Choose **Yes** to delete the record.
+3. Select **Delete**. 
+      >!Note A message box will appear to confirm the action. Choose **Yes** to delete the record.
 
 4. Select **Maintain resource requirements.** This starts the wizard.
 
@@ -1084,7 +1085,7 @@ You will have to do the following:
 
 #### Steps
 
-**Set up the approved vendor or default vendor**
+#### **Set up the approved vendor or default vendor**
 
 1. In **USP2** (Navigate to upper right corner of window and change company from USMF to USP2), Go to **Product information management \> Products \> Released products**.
 
@@ -1105,7 +1106,7 @@ You will have to do the following:
 
 9. Close the page.
 
-**Set the vendor check method to Warning Only**
+#### **Set the vendor check method to Warning Only**
 
 1. On the **Released product details** page, select **Edit**.
 
@@ -1170,7 +1171,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a new formula product**
+#### **Create a new formula product**
 
 1. In **USPI**, go to **Product information management \> Products \> Released products**.
 
@@ -1206,7 +1207,7 @@ You will have to do the following:
 
 17. Close the page.
 
-**Create the new co-products**
+#### **Create the new co-products**
 
 1. Select **New**.
 
@@ -1278,7 +1279,7 @@ You will have to do the following:
 
 34. Close the page.
 
-**Create the new by-products**
+#### **Create the new by-products**
 
 1. Select New.
 
@@ -1312,7 +1313,7 @@ You will have to do the following:
 
 16. Close the page.
 
-**Create the new raw material**
+#### **Create the new raw material**
 
 1. Select **New**.
 
@@ -1386,7 +1387,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a formula for part P15000**
+#### **Create a formula for part P15000**
 
 1. Go to **Product information management\>Products\>Released products**.
 
@@ -1417,7 +1418,7 @@ You will have to do the following:
 
 13. Select **Save**.
 
-**Add Formula Lines to Formula**
+#### **Add Formula Lines to Formula**
 
 1. In the **Lines** or **Header** field, select **Lines**.
 
@@ -1443,7 +1444,7 @@ You will have to do the following:
 
 10. **Close** the page.
 
-**Add Co-Products and By-Products with Cost Allocation**
+#### **Add Co-Products and By-Products with Cost Allocation**
 
 1. In the Action bar, select **Formula version* and then select **Co-products**.
 
@@ -1491,7 +1492,7 @@ You will have to do the following:
 
 23. **Close** the page.
 
-**Approve and activate the formula**
+#### **Approve and activate the formula**
 
 1. Select **Formula version** and then select **Approval**.
 
@@ -1548,7 +1549,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a new product**
+#### **Create a new product**
 
 1. In the **USP2** company, go to **Product information
     management\>Products\>Released products**
@@ -1585,7 +1586,7 @@ You will have to do the following:
 
 17. Select **Save**.
 
-**Create a formula**
+#### **Create a formula**
 
 1. Select **Formula versions** in the Engineer tab in the action pane.
 
@@ -1601,7 +1602,7 @@ You will have to do the following:
 
 7. Select **OK**.
 
-**Create formula lines**
+#### **Create formula lines**
 
 1. In the **Lines** or **Header** field, select **Header**.
 
@@ -1651,7 +1652,7 @@ You will have to do the following:
 
 23. Select **Save**.
 
-**Approve and activate the formula**
+#### **Approve and activate the formula**
 
 1. Select **Formula** and then select **Approve formula**.
 
@@ -1691,7 +1692,7 @@ You will have to do the following:
 
 #### Steps
 
-**Copy the existing formula**
+#### **Copy the existing formula**
 
 1. In the **USP2** company, go to **Product information management \> Products \> Released products**.
 
@@ -1721,7 +1722,7 @@ You will have to do the following:
 
 13. Select **OK**.
 
-**Update the line**
+#### **Update the line**
 
 1. In the list, find and select the record for **P6000**.
 
@@ -1735,7 +1736,7 @@ You will have to do the following:
 
 6. **Close** the page.
 
-**Date out the old version and date in the new version**
+#### **Date out the old version and date in the new version**
 
 1. In the list, find and select the original formula version **For-00002**.
 
@@ -1749,7 +1750,7 @@ You will have to do the following:
 
 6. Select **Save**.
 
-**Approve and activate the formula**
+#### **Approve and activate formula**
 
 1. Select the **Formulas** tab from the Action Pane, then select **Formula** in the **Maintain formula** group.
 
@@ -1791,7 +1792,7 @@ You will have to do the following:
 
 #### Steps
 
-**Copy the existing formula**
+#### **Copy existing formula**
 
 1. In **USP2** company go to **Product information management \> Products \> Released products**.
 
@@ -1820,8 +1821,7 @@ You will have to do the following:
 
 13. Select **OK**.
 
-**Verify the lines are flagged as scalable for P9500 (except for the vitamin
-compounds)**
+#### **Verify the lines are flagged as scalable for P9500 (except for the vitamin compounds)**
 
 1. On the **Lines** tab, find the vitamin compounds.
 
@@ -1829,7 +1829,7 @@ compounds)**
 
 3. Select **Save**.
 
-**Update the formula size**
+#### **Update the formula size**
 
 1. On the **Lines** or **Header** field, select **Header**.
 
@@ -1839,7 +1839,7 @@ compounds)**
 
 4. Select **Save**.
 
-**Approve and activate the formula**
+#### **Approve and activate the formula**
 
 1. In the Lines or header field, select **lines**.
 
@@ -1896,7 +1896,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a new released product**
+#### **Create a new released product**
 
 1. In the **USP2** company go to **Product information
     management \> Products \> Released products**.
@@ -1935,7 +1935,7 @@ You will have to do the following:
 
 17. Select **Save**.
 
-**Copy the existing formula for P9500**
+#### **Copy the existing formula for P9500**
 
 1. Go to **Product information management\>Products\>Released products**.
 
@@ -1964,8 +1964,7 @@ You will have to do the following:
 
 13. Select **OK**.
 
-**Verify the lines are flagged as scalable for P9500 (except for the vitamin
-compounds)**
+#### **Verify that the lines are flagged as scalable for P9500 (except for the vitamin compounds)**
 
 1. In the lines, find the vitamin **compounds**.
 
@@ -1973,7 +1972,7 @@ compounds)**
 
 3. Select **Save**.
 
-**Update the formula size**
+#### **Update the formula size**
 
 1. In the Lines or header field, select **header**.
 
@@ -1983,7 +1982,7 @@ compounds)**
 
 4. Select **Save**.
 
-**Approve and activate the formula**
+#### **Approve and activate the formula**
 
 1. In the Lines or header field, select **lines**.
 
@@ -2040,7 +2039,7 @@ You will have to do the following:
 
 #### Steps
 
-**Copy the existing formula for P9500**
+#### **Copy the existing formula for P9500**
 
 1. Go to **Product information management \> Products \> Released products**.
 
@@ -2069,8 +2068,7 @@ You will have to do the following:
 
 13. Select **OK**.
 
-**Set the line for M9003 in the new formula to step-wise consumption and set the
-step levels**
+#### **Set the line for M9003 in the new formula to step-wise consumption and set the step levels**
 
 1. In the lines, find the line for **M9003**.
 
@@ -2098,7 +2096,7 @@ step levels**
 
 13. Close all pages.
 
-**Date out the old formula and date in the new one**
+#### **Date out the old formula and date in the new one**
 
 1. Go to **Product information management\>Products\>Released products**.
 
@@ -2123,7 +2121,7 @@ step levels**
 
 11. Select **Save**.
 
-**Approve and activate the formula**
+#### **Approve and activate the formula**
 
 1. Select **Approve**.
 
@@ -2165,7 +2163,7 @@ You will have to do the following:
 
 #### Steps
 
-**Configure an item**
+#### **Configure an item**
 
 1. Go to **Product information management \> Products \> Released products**.
 
@@ -2184,7 +2182,7 @@ You will have to do the following:
 
 8. Close all pages.
 
-**Create a cost basis**
+#### **Create a cost basis**
 
 1. Go to **Inventory management \> Setup \> Commodity pricing \> Cost basis
     type.**
@@ -2199,7 +2197,7 @@ You will have to do the following:
 
 6. Close the page.
 
-**Create a pricing template**
+#### **Create a pricing template**
 
 1. Go to **Inventory management \> Setup \> Commodity pricing \> Pricing
     template**.
@@ -2212,7 +2210,7 @@ You will have to do the following:
 
 5. Select **Save**.
 
-**Create a quantity and margin template**
+#### **Create a quantity and margin template**
 
 1. Select **Quantity and margin template**.
 
@@ -2233,7 +2231,7 @@ You will have to do the following:
 
 9. Close the page.
 
-**Complete the inventory parameter setup**
+#### **Complete the inventory parameter setup**
 
 1. Go to **Inventory management \> Setup \> Inventory and warehouse management
     parameters**.
@@ -2266,7 +2264,7 @@ You will have to do the following:
 
 15. Close the page.
 
-**Set up pricing calculation**
+#### **Set up pricing calculation**
 
 1. Go to **Inventory management \> Periodic tasks \> Commodity pricing \>
     Pricing calculation.**
@@ -2301,7 +2299,7 @@ You will have to do the following:
 
 #### Steps
 
-**Complete the price calculation**
+#### **Complete the price calculation**
 
 1. Go to **Inventory management \> Periodic tasks \> Commodity pricing \>
     Create price and margin data**.
@@ -2312,7 +2310,7 @@ You will have to do the following:
 
 4. Select **OK**.
 
-**Review the price calculation data and create trade agreements**
+#### **Review the price calculation data and create trade agreements**
 
 1. Go to **Inventory management \> Periodic tasks \> Commodity pricing \> Price
     margin update**.
@@ -2336,7 +2334,7 @@ You will have to do the following:
 
 10. Close the page.
 
-**Post the trade agreements**
+#### **Post the trade agreements**
 
 1. Go to **Sales and marketing \> Prices and discounts \> Trade agreement
     journals**.
@@ -2375,7 +2373,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a pricing calculation**
+#### **Create a pricing calculation**
 
 1. Go to **Inventory management \> Periodic tasks \> Commodity pricing \>
     Pricing calculation**.
@@ -2394,7 +2392,7 @@ You will have to do the following:
 
 7. Select **Save**.
 
-**Enter commodity pricing data**
+#### **Enter commodity pricing data**
 
 1. Select **Commodity pricing**.
 
@@ -2410,7 +2408,7 @@ You will have to do the following:
 
 7. Close the page.
 
-**Create a pricing calculation**
+#### **Create a pricing calculation**
 
 1. Select **New**.
 
@@ -2424,7 +2422,7 @@ You will have to do the following:
 
 6. In the **Previous run** field, enter or select a value.
 
-**Enter commodity pricing data**
+#### **Enter commodity pricing data**
 
 1. Select **Commodity pricing**.
 
@@ -2457,7 +2455,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a PSDS list**
+#### **Create a PSDS list**
 
 1. Go to **Inventory management \> Setup \> Product compliance \> Product
     safety data sheet validity**.
@@ -2470,7 +2468,7 @@ You will have to do the following:
 
 5. Close the page.
 
-**Create a PSDS record**
+#### **Create a PSDS record**
 
 1. Go to **Product information management \> Products \> Released products**.
 
@@ -2502,7 +2500,7 @@ You will have to do the following:
 
 14. Select **Save**.
 
-**Upload a PSDS file**
+#### **Upload a PSDS file**
 
 1. Select **Attach** (the paper clip near the top right).
 
@@ -2549,7 +2547,7 @@ You will have to do the following:
 
 #### Steps
 
-**Enter product reporting details**
+#### **Enter product reporting details**
 
 1. Go to **Product information management \> Products \> Released products**.
 
@@ -2572,7 +2570,7 @@ You will have to do the following:
 
 10. Select **Save**.
 
-**Enter the CAS number**
+#### **Enter the CAS number**
 
 1. Select **Item CAS relations**.
 
@@ -2584,7 +2582,7 @@ You will have to do the following:
 
 5. Close the page.
 
-**Update annual usage quantities**
+#### **Update annual usage quantities**
 
 1. Select **Update quantities**.
 
@@ -2620,7 +2618,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a sales order**
+#### **Create a sales order**
 
 1. Go to **Accounts receivable \> Orders \> All sales orders**.
 
@@ -2642,7 +2640,7 @@ You will have to do the following:
 
 10. Select **Save**.
 
-**Complete the reservation**
+#### **Complete the reservation**
 
 1. Select **Inventory**.
 
@@ -2652,7 +2650,7 @@ You will have to do the following:
 
 4. Close the page.
 
-**Post the packing slip and print the PSDS**
+#### **Post the packing slip and print the PSDS**
 
 1. Select **Pick and pack \> Post packing slip**.
 
@@ -2700,7 +2698,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a new batch attribute**
+#### **Create a new batch attribute**
 
 1. In **USPI** company go to **Inventory Management** \> **Setup** \> **Batch** \> **Batch
     attributes**.
@@ -2713,7 +2711,7 @@ You will have to do the following:
 
 5. In the **Attribute type** field, select **Integer**.
 
-**Set the attribute minimum and maximum**
+#### **Set the attribute minimum and maximum**
 
 1. In the **Minimum** field, enter or select **0**.
 
@@ -2725,7 +2723,7 @@ You will have to do the following:
 
 5. Close the page.
 
-**Associate the batch attribute with the item**
+#### **Associate the batch attribute with the item**
 
 1. Go to **Product Information management \> Products \> Released products**.
 
@@ -2738,7 +2736,7 @@ You will have to do the following:
 
 5. In the **Attribute relation** field, select **Melting Point**.
 
-**Set the item attribute minimum and maximum**
+#### **Set the item attribute minimum and maximum**
 
 1. In the **Tolerance action** field, select **Not allowed**.
 
@@ -2752,7 +2750,7 @@ You will have to do the following:
 
 6. Close the page.
 
-**Assign the default financial dimension to the item**
+#### **Assign the default financial dimension to the item**
 
 1. Go to **Product Information management \> Products \> Released products**.
 
@@ -2768,7 +2766,7 @@ You will have to do the following:
 
 6. Select **Save**.
 
-**Associate the batch attribute with the customer**
+#### **Associate the batch attribute with the customer**
 
 1. Go to **Product Information management \> Products \> Released products**.
 
@@ -2784,7 +2782,7 @@ You will have to do the following:
 
 6. In the **Account selection** field, enter or select **US-024**.
 
-**Set the customer attribute minimum and maximum**
+#### **Set the customer attribute minimum and maximum**
 
 1. Set **Minimum** to **135**.
 
@@ -2809,7 +2807,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a new batch number**
+#### **Create a new batch number**
 
 1. Go to **Warehouse management \> Setup \> Inventory \> Batches**.
 
@@ -2823,7 +2821,7 @@ You will have to do the following:
 
 6. Select **Save**.
 
-**Manually record the batch attribute data**
+#### **Manually record the batch attribute data**
 
 1. On the Action Pane, select **View**.
 
@@ -2866,7 +2864,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a new purchase order**
+#### **Create a new purchase order**
 
 1. Go to **Procurement and sourcing \> Purchase orders \> All purchase
     orders.**
@@ -2893,7 +2891,7 @@ You will have to do the following:
 
 12. Close the page.
 
-**Receive the purchase order**
+#### **Receive the purchase order**
 
 1. Go to **Inventory management \> Inbound orders \> Arrival overview**.
 
@@ -2960,7 +2958,7 @@ You will have to do the following:
 
 32. Close the page.
 
-**Complete the quality order**
+#### **Complete the quality order**
 
 1. Go to **Inventory Management \> Periodic tasks \> Quality Management \>
     Quality orders**.
@@ -2983,7 +2981,7 @@ You will have to do the following:
 
 10. Select **OK**.
 
-**Verify the batch attribute data**
+#### **Verify the batch attribute data**
 
 1. Select the **Inventory dimensions** tab.
 
@@ -3031,7 +3029,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a customer attribute requirement**
+#### **Create a customer attribute requirement**
 
 1. In **USPI** go to **Product information management** \> **Products** \> **Released
     products**.
@@ -3053,7 +3051,7 @@ You will have to do the following:
 
 9. Close the page.
 
-**Create a new batch order**
+#### **Create a new batch order**
 
 1. In **USPI** company go to **Production Control** \> **Production Orders** \> **All Production orders**.
 
@@ -3065,7 +3063,7 @@ You will have to do the following:
 
 5. Select **Create**.
 
-**Process the batch order**
+#### **Process the batch order**
 
 1. On the Action Pane, select **Production order**.
 
@@ -3107,7 +3105,7 @@ You will have to do the following:
 
 20. Select **OK**.
 
-**Complete the quality order**
+#### **Complete the quality order**
 
 1. On the Action Pane, select **View**.
 
@@ -3133,7 +3131,7 @@ You will have to do the following:
 
 12. Close the page.
 
-**Create a sales order**
+#### **Create a new sales order**
 
 1. Go to **All sales orders**.
 
@@ -3149,7 +3147,7 @@ You will have to do the following:
 
 7. Select **Save**.
 
-**Complete the batch reservation and shipment**
+#### **Complete the batch reservation and shipment**
 
 1. Select **Inventory**.
 
@@ -3200,7 +3198,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create the released product and set catch weight conversions**
+#### **Create the released product and set catch weight conversions**
 
 1. Go to **Product information management** \> **Products** \> **Released
     products**.
@@ -3259,7 +3257,7 @@ You will have to do the following:
 
 28. Select **Save**.
 
-**Create a purchase order for 15 bags of item M7010**
+#### **Create a purchase order for 15 bags of item M7010**
 
 1. Go to **Procurement and sourcing** \> **Purchase orders** \> **All purchase
     orders**.
@@ -3280,7 +3278,7 @@ You will have to do the following:
 
 9. Close the page.
 
-**Create and post an arrival journal for the purchase order**
+#### **Create and post an arrival journal for the purchase order**
 
 1. Go to **Inventory management** \> **Inbound orders** \> **Arrival
     overview**.
@@ -3377,7 +3375,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a purchase trade agreement**
+#### **Create a purchase trade agreement**
 
 1. Go to **Product information management** \> **Products** \> **Released
     products**.
@@ -3409,7 +3407,7 @@ You will have to do the following:
 
 14. Close the page.
 
-**Create a demand forecast**
+#### **Create a demand forecast**
 
 1. On the Action Pane, select **Plan**.
 
@@ -3431,7 +3429,7 @@ You will have to do the following:
 
 10. Close the page.
 
-**Create a purchase order for 15 trays of item M9401**
+#### **Create a purchase order for 15 trays of item M9401**
 
 1. Go to **Procurement and sourcing** \> **Purchase orders** \> **All purchase
     orders**.
@@ -3448,7 +3446,7 @@ You will have to do the following:
 
 7. Select **Confirm**.
 
-**Run net requirements and review the output**
+#### **Run net requirements and review the output**
 
 1. Select **Product and supply**.
 
@@ -3485,7 +3483,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a batch attribute**
+#### **Create a batch attribute**
 
 1. Go to **Inventory management** \> **Setup** \> **Batch** \> **Batch
     attributes**.
@@ -3506,7 +3504,7 @@ You will have to do the following:
 
 9. Close the page.
 
-**Assign the attribute to the item**
+#### **Assign the attribute to the item**
 
 1. Go to **Product information management** \> **Products** \> **Released
     products**.
@@ -3569,7 +3567,7 @@ You will have to do the following:
 
 #### Steps
 
-**Copy the formula for item P2000**
+#### **Copy the formula for item P2000**
 
 1. Go to **Product information management** \> **Products** \> **Released
     products**.
@@ -3599,7 +3597,7 @@ You will have to do the following:
 
 13. Select **OK**.
 
-**Modify the M2004 and M2007 lines**
+#### **Modify the M2004 and M2007 lines**
 
 1. In the list, select row M2004.
 
@@ -3621,7 +3619,7 @@ You will have to do the following:
 
 10. Close the page.
 
-**Approve and activate the formula**
+#### **Approve and activate the formula**
 
 1. In the list, select the old formula version.
 
@@ -3666,7 +3664,7 @@ You will have to do the following:
 
 ####  Steps
 
-**Create an attribute pricing expression**
+#### **Create an attribute pricing expression**
 
 1. Go to **Procurement and sourcing** \> **Setup** \> **Prices and discounts**
     \> **Attribute-based pricing details**.
@@ -3705,7 +3703,7 @@ You will have to do the following:
 
 18. Close the page.
 
-**Complete and post trade agreement**
+#### **Complete and post trade agreement**
 
 1. Go to **Product information management** \> **Products** \> **Released
     products**.
@@ -3762,7 +3760,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a purchase order**
+#### **Create a purchase order**
 
 1. Go to **Procurement and sourcing** \> **Purchase orders** \> **All purchase
     orders**.
@@ -3783,7 +3781,7 @@ You will have to do the following:
 
 9. Select **Confirm**.
 
-**Receive and enter a batch attribute value**
+#### **Receive and enter a batch attribute value**
 
 1. On the Action Pane, select **Receive**.
 
@@ -3817,7 +3815,7 @@ You will have to do the following:
 
 16. Close the page.
 
-**Invoice and review pricing**
+#### **Invoice and review pricing**
 
 1. In the **Parameters** group, for the **Quantity** field, select **Registered quantity**.
 
@@ -3863,8 +3861,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a batch order for part P2000 and process the batch order through
-Start**
+#### **Create a batch order for part P2000 and process the batch order through Start**
 
 1. Go to **Production control** \> **Production orders** \> **All production
     orders**.
@@ -3885,7 +3882,7 @@ Start**
 
 9. Select **OK**.
 
-**Complete Batch Reservation and Balancing for active ingredients**
+#### **Complete Batch Reservation and Balancing for active ingredients**
 
 1. Select **Batch balancing**.
 
@@ -3907,7 +3904,7 @@ Start**
 
 10. Select **OK**.
 
-**Post the picking list and report as a finished batch order**
+#### **Post the picking list and report as a finished batch order**
 
 1. On the Action Pane, select **View**.
 
@@ -3943,8 +3940,7 @@ Start**
 
 17. Select **OK**.
 
-Case study 1C Lean manufacturing
---------------------------------
+## Case study 1C Lean manufacturing
 
 ### Exercise \#1: Create value streams
 
@@ -4024,7 +4020,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a production flow model**
+#### **Create a production flow model**
 
 1. Go to **Production control \> Setup \> Lean production flow \> Production
     flow models.**
@@ -4047,7 +4043,7 @@ You will have to do the following:
 
 10. Select **Save**.
 
-**Create a production flow version**
+#### **Create a production flow version**
 
 1. Navigate to **Production control \> Setup \> Lean production flow \>
     Production flows**.
@@ -4070,7 +4066,7 @@ You will have to do the following:
 
 10. Select **OK**.
 
-**Set up the takt and cycle times**
+#### **Set up the takt and cycle times**
 
 1. Expand the **Versions** and **Version details** FastTabs.
 
@@ -4228,7 +4224,7 @@ You will have to do the following:
 
 #### Steps
 
-**Deactivate the current production flow version**
+#### **Deactivate the current production flow version**
 
 1. Navigate to **Production Control \> Setup \> Lean manufacturing \>
     Production flows.**
@@ -4241,7 +4237,7 @@ You will have to do the following:
 
 5. Select **OK**.
 
-**Create a new transfer activity**
+#### **Create a new transfer activity**
 
 1. On the **Versions** FastTab, select **Activities**. The **Production flow
     activities** form opens.
@@ -4294,8 +4290,7 @@ You will have to do the following:
 
 24. Select **Save** in the action pane.
 
-**Create the predecessor/successor relationship between the process and transfer
-activity with no constraints**
+#### **Create the predecessor/successor relationship between the process and transfer activity with no constraints**
 
 1. Highlight the **Wiring Process** activity and, on the
     **Successor** tab, select the **Add successor** button.
@@ -4338,7 +4333,7 @@ You will have to do the following:
 
 #### Steps
 
-**Add a successor to the production flow activity**
+#### **Add a successor to the production flow activity**
 
 1. Navigate to **Production control** \> **Setup** \> **Lean production flow**
     \> **Production flows**.
@@ -4370,7 +4365,7 @@ You will have to do the following:
 
 13. Close the forms.
 
-**Perform validation and activation**
+#### **Perform validation and activation**
 
 The Mid-Range Speaker 2 PF production flow, Version 2 must be validated to
 confirm that the changes have been correctly implemented.
@@ -4425,7 +4420,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create the Kanban rule for the process activity**
+#### **Create the Kanban rule for the process activity**
 
 1. Navigate to **Product information management \> Lean manufacturing \> Kanban
     rules**.
@@ -4468,7 +4463,7 @@ You will have to do the following:
 
 20. Close all forms.
 
-**Creating the Kanban rule for the transfer activity**
+#### **Creating the Kanban rule for the transfer activity**
 
 1. Navigate to **Product information management \> Lean manufacturing \> Kanban
     rules**.
@@ -4501,7 +4496,7 @@ You will have to do the following:
 
 15. Close all forms.
 
-**Planning a Kanban on the Kanban Board**
+#### **Planning a Kanban on the Kanban Board**
 
 1. Navigate to **Production control \> Kanban \> Kanban job scheduling**.
 
@@ -4528,7 +4523,7 @@ You will have to do the following:
 
 #### Steps
 
-**Process Kanbans on the Kanban board for process jobs**
+#### **Process Kanbans on the Kanban board for process jobs**
 
 The scheduled Kanbans are now ready to be processed. The **Production
 control\>Kanban\>Kanban board for process jobs** will be used to prepare, start,
@@ -4549,7 +4544,7 @@ and complete the Kanbans.
 
 7. To complete the Kanbans, select **Complete**.
 
-**Process Kanban on the Kanban board for transfer jobs**
+#### **Process Kanban on the Kanban board for transfer jobs**
 
 The manufactured Kanban is now ready to be transferred to its final location.
 The Kanban board for transfer jobs will be used to start and complete the
@@ -4589,7 +4584,7 @@ You will have to do the following:
 
 #### Steps
 
-**Create a sales order**
+#### **Create a sales order**
 
 1. Navigate to **Sales and marketing \> Sales orders \> All sales orders**.
 
@@ -4623,7 +4618,7 @@ You will have to do the following:
 14. Select the **Product and supply \> View pegging tree** menu button to view
     the event Kanbans created for the sales order.
 
-**Plan the Kanbans**
+#### **Plan the Kanbans**
 
 1. Navigate to **Production control \> Kanban \> Kanban schedule board**.
 
@@ -4656,7 +4651,7 @@ You will have to do the following:
 
 14. Select **Complete**.
 
-**Transfer the speaker set**
+#### **Transfer the speaker set**
 
 1. Navigate to **Production control \> Kanban \> Kanban board for transfer
     jobs**.
