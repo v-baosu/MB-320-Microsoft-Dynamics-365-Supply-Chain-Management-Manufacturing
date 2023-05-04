@@ -1,4 +1,8 @@
+**This course will be retiring on  **2023/6/30**.  Once course is retired, all GitHub repos will be removed. Thank you.**
+
 # MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing
+
+
 
 - **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
