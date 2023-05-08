@@ -1,6 +1,4 @@
-> [!Warning]
-
-> **This course will be retiring on  **2023/6/30**.  Once course is retired, all GitHub repos will be removed. Thank you.**
+**This course will be retiring on  **2023/6/30**.  Once course is retired, all GitHub repos will be removed. Thank you.**
 
 # MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing
 
